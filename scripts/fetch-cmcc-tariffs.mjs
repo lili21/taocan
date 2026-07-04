@@ -11,7 +11,7 @@ const endpointUrl = `${origin}${endpointPath}`;
 
 const outputDir = path.resolve('src/data');
 const rawOutputPath = path.join(outputDir, 'cmcc-tariffs.raw.json');
-const generatedOutputPath = path.join(outputDir, 'cmcc-tariffs.generated.json');
+const publicDataDir = path.resolve('public/data');
 
 const provinces = [
   ['551', '安徽'],
@@ -475,9 +475,41 @@ async function main() {
 
   const plans = uniquePlans(sourceItems.flatMap((item, index) => normalizeItem(item, index)))
     .filter((plan) => plan.name && plan.price > 0)
+    .filter((plan) => plan.details?.category === '套餐')
     .sort((a, b) => a.price - b.price || b.data - a.data || a.name.localeCompare(b.name, 'zh-Hans-CN'));
 
-  const generated = {
+  const nationalPlans = plans.filter((plan) => plan.area === '全国');
+  const byProvince = new Map();
+  for (const plan of plans) {
+    if (plan.area === '全国') continue;
+    const bucket = byProvince.get(plan.area) ?? [];
+    bucket.push(plan);
+    byProvince.set(plan.area, bucket);
+  }
+
+  await fs.mkdir(publicDataDir, { recursive: true });
+
+  const writeFile = (file, data) =>
+    fs.writeFile(path.join(publicDataDir, file), `${JSON.stringify(data, null, 2)}\n`);
+
+  const provinceEntries = [];
+  for (const [province, provincePlans] of byProvince) {
+    await writeFile(`${province}.json`, {
+      scope: 'province',
+      province,
+      planCount: provincePlans.length,
+      plans: provincePlans,
+    });
+    provinceEntries.push({ province, planCount: provincePlans.length });
+  }
+
+  await writeFile('national.json', {
+    scope: 'national',
+    planCount: nationalPlans.length,
+    plans: nationalPlans,
+  });
+
+  await writeFile('index.json', {
     sourceUrl: pageUrl,
     fetchedAt: new Date().toISOString(),
     provinceCount: provinces.length,
@@ -486,15 +518,17 @@ async function main() {
     failures,
     sourceItemCount: sourceItems.length,
     planCount: plans.length,
-    plans,
-  };
+    nationalPlanCount: nationalPlans.length,
+    provinces: provinceEntries.sort((a, b) => a.province.localeCompare(b.province, 'zh-Hans-CN')),
+  });
 
   await fs.writeFile(rawOutputPath, `${JSON.stringify(raw, null, 2)}\n`);
-  await fs.writeFile(generatedOutputPath, `${JSON.stringify(generated, null, 2)}\n`);
 
+  console.log(`Wrote ${publicDataDir}/national.json (${nationalPlans.length} plans)`);
+  console.log(`Wrote ${publicDataDir}/index.json`);
+  console.log(`Wrote ${byProvince.size} province files`);
   console.log(`Wrote ${rawOutputPath}`);
-  console.log(`Wrote ${generatedOutputPath}`);
-  console.log(`Normalized ${plans.length} plans from ${sourceItems.length} source items.`);
+  console.log(`Normalized ${plans.length} plans (套餐 only) from ${sourceItems.length} source items.`);
 }
 
 main().catch((error) => {

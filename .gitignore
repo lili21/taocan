@@ -1,0 +1,4 @@
+node_modules/
+dist/
+src/data/cmcc-tariffs.raw.json
+src/data/cmcc-tariffs.generated.json

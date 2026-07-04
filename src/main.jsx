@@ -1,4 +1,4 @@
-import React, { useMemo, useState } from 'react';
+import React, { useEffect, useMemo, useState } from 'react';
 import { createRoot } from 'react-dom/client';
 import {
   ArrowUpRight,
@@ -6,6 +6,7 @@ import {
   ChevronDown,
   LocateFixed,
   ListFilter,
+  Loader2,
   Moon,
   Sun,
   Zap,
@@ -13,11 +14,17 @@ import {
 import { Badge } from './components/ui/badge';
 import { Button } from './components/ui/button';
 import { Card, CardContent, CardHeader, CardTitle } from './components/ui/card';
-import { provinceCenters, tariffMetadata, tariffs, tariffSourceUrl } from './data/tariffs';
+import {
+  fetchNationalPlans,
+  fetchProvincePlans,
+  fetchTariffIndex,
+  provinceCenters,
+  tariffSourceUrl,
+} from './data/tariffs';
+import { resolveUserProvince } from './lib/locate-ip';
 import './styles.css';
 
 const areas = Object.keys(provinceCenters);
-const primaryCategories = ['套餐', '号卡'];
 
 function formatData(value) {
   return value > 0 ? `${value}GB` : '-';
@@ -29,10 +36,6 @@ function formatVoice(value) {
 
 function formatPrice(value) {
   return Number.isInteger(value) ? value : value.toFixed(2);
-}
-
-function planMatchesArea(plan, area) {
-  return plan.area === area || plan.area === '全国' || plan.details?.applicableArea?.includes(area);
 }
 
 function nearestProvince(latitude, longitude) {
@@ -48,23 +51,87 @@ function App() {
   const [theme, setTheme] = useState('dark');
   const [selectedArea, setSelectedArea] = useState('北京');
   const [maxPrice, setMaxPrice] = useState(100);
-  const [minimumData, setMinimumData] = useState(30);
-  const [categoryFilter, setCategoryFilter] = useState('primary');
-  const [locationStatus, setLocationStatus] = useState('默认展示北京，可手动切换地区');
+  const [minimumData, setMinimumData] = useState(0);
+  const [scopeFilter, setScopeFilter] = useState('all');
+  const [locationStatus, setLocationStatus] = useState('正在识别地区...');
   const [selectedPlanId, setSelectedPlanId] = useState(null);
 
+  const [nationalPlans, setNationalPlans] = useState([]);
+  const [provincePlans, setProvincePlans] = useState([]);
+  const [metadata, setMetadata] = useState(null);
+  const [loading, setLoading] = useState(true);
+  const [provinceLoading, setProvinceLoading] = useState(false);
+
+  useEffect(() => {
+    let cancelled = false;
+    (async () => {
+      try {
+        const { province, source } = await resolveUserProvince();
+        if (cancelled) return;
+        if (province) {
+          setSelectedArea(province);
+          setLocationStatus(
+            source === 'cache' ? `已从缓存识别地区 ${province}` : `已根据 IP 识别地区 ${province}`,
+          );
+        } else {
+          setLocationStatus('未能识别地区，默认展示北京，可手动切换');
+        }
+      } catch {
+        if (!cancelled) setLocationStatus('IP 定位失败，默认展示北京，可手动切换');
+      }
+      try {
+        const index = await fetchTariffIndex();
+        if (!cancelled) setMetadata(index);
+      } catch {}
+      try {
+        const plans = await fetchNationalPlans();
+        if (!cancelled) setNationalPlans(plans);
+      } catch {}
+      if (!cancelled) setLoading(false);
+    })();
+    return () => {
+      cancelled = true;
+    };
+  }, []);
+
+  useEffect(() => {
+    let cancelled = false;
+    setProvinceLoading(true);
+    (async () => {
+      try {
+        const plans = await fetchProvincePlans(selectedArea);
+        if (!cancelled) setProvincePlans(plans);
+      } catch {
+        if (!cancelled) setProvincePlans([]);
+      } finally {
+        if (!cancelled) setProvinceLoading(false);
+      }
+    })();
+    return () => {
+      cancelled = true;
+    };
+  }, [selectedArea]);
+
   const visibleTariffs = useMemo(() => {
-    return tariffs
-      .filter((plan) => planMatchesArea(plan, selectedArea))
-      .filter((plan) =>
-        categoryFilter === 'all' ? true : primaryCategories.includes(plan.details?.category),
-      )
+    const pool = [
+      ...(scopeFilter === 'province' ? [] : nationalPlans),
+      ...(scopeFilter === 'national' ? [] : provincePlans),
+    ];
+    return pool
       .filter((plan) => plan.price <= maxPrice)
       .filter((plan) => plan.data >= minimumData)
       .sort((a, b) => a.price - b.price || b.data - a.data);
-  }, [categoryFilter, maxPrice, minimumData, selectedArea]);
+  }, [scopeFilter, maxPrice, minimumData, nationalPlans, provincePlans]);
 
-  const selectedPlan = useMemo(() => tariffs.find((plan) => plan.id === selectedPlanId), [selectedPlanId]);
+  const allLoadedPlans = useMemo(
+    () => [...nationalPlans, ...provincePlans],
+    [nationalPlans, provincePlans],
+  );
+
+  const selectedPlan = useMemo(
+    () => allLoadedPlans.find((plan) => plan.id === selectedPlanId),
+    [allLoadedPlans, selectedPlanId],
+  );
 
   const locateUser = () => {
     if (!navigator.geolocation) {
@@ -88,6 +155,16 @@ function App() {
       { enableHighAccuracy: false, timeout: 8000, maximumAge: 600000 },
     );
   };
+
+  if (loading) {
+    return (
+      <main className={theme}>
+        <div className="flex min-h-screen items-center justify-center bg-background text-foreground">
+          <Loader2 className="h-6 w-6 animate-spin text-primary" />
+        </div>
+      </main>
+    );
+  }
 
   return (
     <main className={theme}>
@@ -148,6 +225,8 @@ function App() {
             </div>
           </header>
 
+          <p className="text-xs text-muted-foreground">{locationStatus}</p>
+
           {selectedPlan ? (
             <PlanDetail plan={selectedPlan} onBack={() => setSelectedPlanId(null)} />
           ) : (
@@ -155,13 +234,14 @@ function App() {
               <Card className="bg-card">
                 <CardContent className="grid gap-4 p-3 lg:grid-cols-[1fr_1fr_1fr_auto] lg:items-end">
                   <FilterGroup
-                    label="类型"
-                    onChange={setCategoryFilter}
+                    label="范围"
+                    onChange={setScopeFilter}
                     options={[
-                      { label: '套餐/号卡', value: 'primary' },
-                      { label: '全部', value: 'all' },
+                      { label: '全网+本地区', value: 'all' },
+                      { label: '仅全网', value: 'national' },
+                      { label: '仅本地区', value: 'province' },
                     ]}
-                    value={categoryFilter}
+                    value={scopeFilter}
                   />
                   <FilterGroup
                     label="最高月租"
@@ -187,9 +267,12 @@ function App() {
                     ]}
                     value={minimumData}
                   />
-                  <div className="flex h-10 items-center gap-2 rounded-md border border-border px-3 text-sm text-muted-foreground" title={`本地已抓取 ${tariffMetadata.planCount} 条，接口失败 ${tariffMetadata.failureCount} 条`}>
+                  <div
+                    className="flex h-10 items-center gap-2 rounded-md border border-border px-3 text-sm text-muted-foreground"
+                    title={metadata ? `已抓取 ${metadata.planCount} 条套餐，接口失败 ${metadata.failureCount} 条` : ''}
+                  >
                     <ListFilter className="h-4 w-4" />
-                    {visibleTariffs.length} 个
+                    {provinceLoading ? '加载中' : `${visibleTariffs.length} 个`}
                   </div>
                 </CardContent>
               </Card>
@@ -197,7 +280,9 @@ function App() {
               <Card className="overflow-hidden bg-card">
                 <CardHeader className="flex-row items-center justify-between gap-3 border-b border-border">
                   <div>
-                    <p className="text-xs font-medium text-primary">{selectedArea}</p>
+                    <p className="text-xs font-medium text-primary">
+                      {scopeFilter === 'national' ? '全网资费' : selectedArea}
+                    </p>
                     <CardTitle>公开资费列表</CardTitle>
                   </div>
                   <Badge>{visibleTariffs.length} 个套餐</Badge>
@@ -244,7 +329,7 @@ function App() {
                         <th className="px-5 py-3 font-medium">总流量</th>
                         <th className="px-5 py-3 font-medium">通用流量</th>
                         <th className="px-5 py-3 font-medium">定向流量</th>
-                        <th className="px-5 py-3 font-medium">语音</th>
+                        <th className="px-5 py-3 font-medium">通话</th>
                         <th className="px-5 py-3 font-medium">限制/合约</th>
                         <th className="px-5 py-3 font-medium"></th>
                       </tr>
@@ -332,7 +417,7 @@ function PlanDetail({ onBack, plan }) {
             <DetailMetric label="总流量" value={formatData(plan.data)} />
             <DetailMetric label="通用流量" value={formatData(plan.generalData)} />
             <DetailMetric label="定向流量" value={formatData(plan.directedData)} />
-            <DetailMetric label="语音" value={formatVoice(plan.voice)} />
+            <DetailMetric label="通话" value={formatVoice(plan.voice)} />
           </div>
 
           <div className="grid gap-3 lg:grid-cols-2">

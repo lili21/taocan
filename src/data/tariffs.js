@@ -1,5 +1,3 @@
-import cmccTariffs from './cmcc-tariffs.generated.json';
-
 export const provinceCenters = {
   北京: [39.9042, 116.4074],
   上海: [31.2304, 121.4737],
@@ -34,13 +32,27 @@ export const provinceCenters = {
   新疆: [43.8256, 87.6168],
 };
 
-export const tariffSourceUrl = cmccTariffs.sourceUrl;
-export const tariffMetadata = {
-  fetchedAt: cmccTariffs.fetchedAt,
-  failureCount: cmccTariffs.failureCount,
-  planCount: cmccTariffs.planCount,
-  provinceCount: cmccTariffs.provinceCount,
-  responseCount: cmccTariffs.responseCount,
-  sourceItemCount: cmccTariffs.sourceItemCount,
-};
-export const tariffs = cmccTariffs.plans;
+export const tariffSourceUrl = 'https://h.app.coc.10086.cn/cmcc-app/pc-pages/tariffZonePers.html';
+
+export async function fetchTariffIndex() {
+  const res = await fetch('/data/index.json');
+  if (!res.ok) throw new Error(`index.json: ${res.status}`);
+  return res.json();
+}
+
+export async function fetchNationalPlans() {
+  const res = await fetch('/data/national.json');
+  if (!res.ok) throw new Error(`national.json: ${res.status}`);
+  const data = await res.json();
+  return data.plans;
+}
+
+export async function fetchProvincePlans(province) {
+  const res = await fetch(`/data/${encodeURIComponent(province)}.json`);
+  if (!res.ok) {
+    if (res.status === 404) return [];
+    throw new Error(`${province}.json: ${res.status}`);
+  }
+  const data = await res.json();
+  return data.plans;
+}

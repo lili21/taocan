@@ -1,0 +1,117 @@
+{
+  "sourceUrl": "https://h.app.coc.10086.cn/cmcc-app/pc-pages/tariffZonePers.html",
+  "fetchedAt": "2026-07-04T15:16:25.220Z",
+  "provinceCount": 31,
+  "responseCount": 93,
+  "failureCount": 0,
+  "failures": [],
+  "sourceItemCount": 9275,
+  "planCount": 1017,
+  "nationalPlanCount": 52,
+  "provinces": [
+    {
+      "province": "安徽",
+      "planCount": 37
+    },
+    {
+      "province": "北京",
+      "planCount": 57
+    },
+    {
+      "province": "重庆",
+      "planCount": 40
+    },
+    {
+      "province": "福建",
+      "planCount": 96
+    },
+    {
+      "province": "甘肃",
+      "planCount": 1
+    },
+    {
+      "province": "广东",
+      "planCount": 9
+    },
+    {
+      "province": "广西",
+      "planCount": 21
+    },
+    {
+      "province": "贵州",
+      "planCount": 15
+    },
+    {
+      "province": "海南",
+      "planCount": 68
+    },
+    {
+      "province": "河北",
+      "planCount": 38
+    },
+    {
+      "province": "河南",
+      "planCount": 33
+    },
+    {
+      "province": "黑龙江",
+      "planCount": 12
+    },
+    {
+      "province": "湖北",
+      "planCount": 48
+    },
+    {
+      "province": "湖南",
+      "planCount": 104
+    },
+    {
+      "province": "吉林",
+      "planCount": 44
+    },
+    {
+      "province": "江苏",
+      "planCount": 53
+    },
+    {
+      "province": "江西",
+      "planCount": 39
+    },
+    {
+      "province": "辽宁",
+      "planCount": 10
+    },
+    {
+      "province": "内蒙古",
+      "planCount": 53
+    },
+    {
+      "province": "宁夏",
+      "planCount": 27
+    },
+    {
+      "province": "山东",
+      "planCount": 21
+    },
+    {
+      "province": "上海",
+      "planCount": 37
+    },
+    {
+      "province": "天津",
+      "planCount": 33
+    },
+    {
+      "province": "西藏",
+      "planCount": 28
+    },
+    {
+      "province": "新疆",
+      "planCount": 36
+    },
+    {
+      "province": "云南",
+      "planCount": 5
+    }
+  ]
+}

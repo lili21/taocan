@@ -1,0 +1,376 @@
+{
+  "scope": "province",
+  "province": "广东",
+  "planCount": 9,
+  "plans": [
+    {
+      "id": "cmcc-广东-分省资费-111740-0",
+      "name": "自由选套餐 8元档",
+      "area": "广东",
+      "price": 8,
+      "data": 0.1,
+      "generalData": 0.1,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见详情",
+      "broadband": "详见详情",
+      "audience": "广东移动客户",
+      "contract": "无",
+      "source": "中国移动资费公示专区",
+      "tags": [
+        "套餐",
+        "其他",
+        "分省资费"
+      ],
+      "details": {
+        "schemeId": "GR0000279356",
+        "markId": "111740",
+        "tariffStandard": "套餐",
+        "applicableArea": "广东",
+        "salesChannel": "线上线下",
+        "onlineDate": "1990-01-01",
+        "offlineDate": "2099-12-31",
+        "validity": "无",
+        "networkRequirement": "无",
+        "liability": "无",
+        "overage": "",
+        "services": "【套餐说明】1、本套餐生效后原主资费套餐、原非标准的2/3G手机流量或GPRS套餐将失效；2、套餐含来电显示、国内被叫免费、点对点短信0.1元/条、彩信0.3元/条；3、以上国内通话、流量和短信均不适用于中国港澳台地区。",
+        "notes": "无",
+        "category": "套餐",
+        "navigationName": "其他",
+        "sourceTableTitles": [
+          "语音流量",
+          "套外资费"
+        ]
+      }
+    },
+    {
+      "id": "cmcc-广东-分省资费-111740-1",
+      "name": "自由选套餐 18元档",
+      "area": "广东",
+      "price": 18,
+      "data": 0.3,
+      "generalData": 0.3,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见详情",
+      "broadband": "详见详情",
+      "audience": "广东移动客户",
+      "contract": "无",
+      "source": "中国移动资费公示专区",
+      "tags": [
+        "套餐",
+        "其他",
+        "分省资费"
+      ],
+      "details": {
+        "schemeId": "GR0000279356",
+        "markId": "111740",
+        "tariffStandard": "套餐",
+        "applicableArea": "广东",
+        "salesChannel": "线上线下",
+        "onlineDate": "1990-01-01",
+        "offlineDate": "2099-12-31",
+        "validity": "无",
+        "networkRequirement": "无",
+        "liability": "无",
+        "overage": "",
+        "services": "【套餐说明】1、本套餐生效后原主资费套餐、原非标准的2/3G手机流量或GPRS套餐将失效；2、套餐含来电显示、国内被叫免费、点对点短信0.1元/条、彩信0.3元/条；3、以上国内通话、流量和短信均不适用于中国港澳台地区。",
+        "notes": "无",
+        "category": "套餐",
+        "navigationName": "其他",
+        "sourceTableTitles": [
+          "语音流量",
+          "套外资费"
+        ]
+      }
+    },
+    {
+      "id": "cmcc-广东-分省资费-42178-0",
+      "name": "29元移动花卡宝藏版（月租型）",
+      "area": "广东",
+      "price": 29,
+      "data": 60,
+      "generalData": 30,
+      "directedData": 30,
+      "voice": 0,
+      "sms": "详见详情",
+      "broadband": "详见详情",
+      "audience": "广东移动客户",
+      "contract": "无",
+      "source": "中国移动资费公示专区",
+      "tags": [
+        "套餐",
+        "其他",
+        "分省资费"
+      ],
+      "details": {
+        "schemeId": "GR0000027976",
+        "markId": "42178",
+        "tariffStandard": "套餐",
+        "applicableArea": "广东",
+        "salesChannel": "线上线下",
+        "onlineDate": "1990-01-01",
+        "offlineDate": "2099-12-31",
+        "validity": "无",
+        "networkRequirement": "无",
+        "liability": "无",
+        "overage": "",
+        "services": "【套餐说明】1、本套餐生效后原主资费套餐、原非标准的2/3G手机流量或GPRS套餐将失效；2、套餐含来电显示、国内被叫免费、优惠1个全国亲情网（统付版）功能费、点对点短信0.1元/条、彩信0.3元/条；3、以上国内通话、流量和短信均不适用于中国港澳台地区。",
+        "notes": "",
+        "category": "套餐",
+        "navigationName": "其他",
+        "sourceTableTitles": [
+          "语音流量",
+          "套外资费"
+        ]
+      }
+    },
+    {
+      "id": "cmcc-广东-分省资费-42182-0",
+      "name": "潮玩青春卡套餐 29元档",
+      "area": "广东",
+      "price": 29,
+      "data": 30,
+      "generalData": 0,
+      "directedData": 30,
+      "voice": 0,
+      "sms": "详见详情",
+      "broadband": "详见详情",
+      "audience": "广东移动客户",
+      "contract": "无",
+      "source": "中国移动资费公示专区",
+      "tags": [
+        "套餐",
+        "其他",
+        "分省资费"
+      ],
+      "details": {
+        "schemeId": "GR0000027978",
+        "markId": "42182",
+        "tariffStandard": "套餐",
+        "applicableArea": "广东",
+        "salesChannel": "线上线下",
+        "onlineDate": "1990-01-01",
+        "offlineDate": "2099-12-31",
+        "validity": "无",
+        "networkRequirement": "无",
+        "liability": "无",
+        "overage": "",
+        "services": "【套餐说明】1、本套餐生效后原主资费套餐、原非标准的2/3G手机流量或GPRS套餐将失效；2、套餐含来电显示、国内被叫免费、优惠1个全国亲情网（统付版）功能费、点对点短信0.1元/条、彩信0.3元/条；3、以上国内通话、流量和短信均不适用于中国港澳台地区。",
+        "notes": "",
+        "category": "套餐",
+        "navigationName": "其他",
+        "sourceTableTitles": [
+          "语音流量",
+          "套外资费"
+        ]
+      }
+    },
+    {
+      "id": "cmcc-广东-分省资费-42174-0",
+      "name": "全家享套餐（全国版）（29-59元档） 29元档",
+      "area": "广东",
+      "price": 29,
+      "data": 3,
+      "generalData": 3,
+      "directedData": 0,
+      "voice": 50,
+      "sms": "详见详情",
+      "broadband": "详见详情",
+      "audience": "广东移动客户",
+      "contract": "无",
+      "source": "中国移动资费公示专区",
+      "tags": [
+        "套餐",
+        "5G套餐",
+        "分省资费"
+      ],
+      "details": {
+        "schemeId": "GR0000027972",
+        "markId": "42174",
+        "tariffStandard": "套餐",
+        "applicableArea": "广东",
+        "salesChannel": "线上线下",
+        "onlineDate": "1990-01-01",
+        "offlineDate": "2099-12-31",
+        "validity": "无",
+        "networkRequirement": "无",
+        "liability": "无",
+        "overage": "",
+        "services": "【套餐说明】1、本套餐生效后原主资费套餐、原非标准的2/3G手机流量或GPRS套餐将失效；2、套餐含来电显示、国内被叫免费、优惠1个全国亲情网（统付版）功能费、点对点短信0.1元/条、彩信0.3元/条；3、以上国内通话、流量和短信均不适用于中国港澳台地区。",
+        "notes": "",
+        "category": "套餐",
+        "navigationName": "5G套餐",
+        "sourceTableTitles": [
+          "语音流量",
+          "套外资费"
+        ]
+      }
+    },
+    {
+      "id": "cmcc-广东-分省资费-42182-1",
+      "name": "潮玩青春卡套餐 39元档",
+      "area": "广东",
+      "price": 39,
+      "data": 35,
+      "generalData": 5,
+      "directedData": 30,
+      "voice": 0,
+      "sms": "详见详情",
+      "broadband": "详见详情",
+      "audience": "广东移动客户",
+      "contract": "无",
+      "source": "中国移动资费公示专区",
+      "tags": [
+        "套餐",
+        "其他",
+        "分省资费"
+      ],
+      "details": {
+        "schemeId": "GR0000027978",
+        "markId": "42182",
+        "tariffStandard": "套餐",
+        "applicableArea": "广东",
+        "salesChannel": "线上线下",
+        "onlineDate": "1990-01-01",
+        "offlineDate": "2099-12-31",
+        "validity": "无",
+        "networkRequirement": "无",
+        "liability": "无",
+        "overage": "",
+        "services": "【套餐说明】1、本套餐生效后原主资费套餐、原非标准的2/3G手机流量或GPRS套餐将失效；2、套餐含来电显示、国内被叫免费、优惠1个全国亲情网（统付版）功能费、点对点短信0.1元/条、彩信0.3元/条；3、以上国内通话、流量和短信均不适用于中国港澳台地区。",
+        "notes": "",
+        "category": "套餐",
+        "navigationName": "其他",
+        "sourceTableTitles": [
+          "语音流量",
+          "套外资费"
+        ]
+      }
+    },
+    {
+      "id": "cmcc-广东-分省资费-42174-1",
+      "name": "全家享套餐（全国版）（29-59元档） 39元档",
+      "area": "广东",
+      "price": 39,
+      "data": 5,
+      "generalData": 5,
+      "directedData": 0,
+      "voice": 50,
+      "sms": "详见详情",
+      "broadband": "详见详情",
+      "audience": "广东移动客户",
+      "contract": "无",
+      "source": "中国移动资费公示专区",
+      "tags": [
+        "套餐",
+        "5G套餐",
+        "分省资费"
+      ],
+      "details": {
+        "schemeId": "GR0000027972",
+        "markId": "42174",
+        "tariffStandard": "套餐",
+        "applicableArea": "广东",
+        "salesChannel": "线上线下",
+        "onlineDate": "1990-01-01",
+        "offlineDate": "2099-12-31",
+        "validity": "无",
+        "networkRequirement": "无",
+        "liability": "无",
+        "overage": "",
+        "services": "【套餐说明】1、本套餐生效后原主资费套餐、原非标准的2/3G手机流量或GPRS套餐将失效；2、套餐含来电显示、国内被叫免费、优惠1个全国亲情网（统付版）功能费、点对点短信0.1元/条、彩信0.3元/条；3、以上国内通话、流量和短信均不适用于中国港澳台地区。",
+        "notes": "",
+        "category": "套餐",
+        "navigationName": "5G套餐",
+        "sourceTableTitles": [
+          "语音流量",
+          "套外资费"
+        ]
+      }
+    },
+    {
+      "id": "cmcc-广东-分省资费-42182-2",
+      "name": "潮玩青春卡套餐 59元档",
+      "area": "广东",
+      "price": 59,
+      "data": 40,
+      "generalData": 10,
+      "directedData": 30,
+      "voice": 0,
+      "sms": "详见详情",
+      "broadband": "详见详情",
+      "audience": "广东移动客户",
+      "contract": "无",
+      "source": "中国移动资费公示专区",
+      "tags": [
+        "套餐",
+        "其他",
+        "分省资费"
+      ],
+      "details": {
+        "schemeId": "GR0000027978",
+        "markId": "42182",
+        "tariffStandard": "套餐",
+        "applicableArea": "广东",
+        "salesChannel": "线上线下",
+        "onlineDate": "1990-01-01",
+        "offlineDate": "2099-12-31",
+        "validity": "无",
+        "networkRequirement": "无",
+        "liability": "无",
+        "overage": "",
+        "services": "【套餐说明】1、本套餐生效后原主资费套餐、原非标准的2/3G手机流量或GPRS套餐将失效；2、套餐含来电显示、国内被叫免费、优惠1个全国亲情网（统付版）功能费、点对点短信0.1元/条、彩信0.3元/条；3、以上国内通话、流量和短信均不适用于中国港澳台地区。",
+        "notes": "",
+        "category": "套餐",
+        "navigationName": "其他",
+        "sourceTableTitles": [
+          "语音流量",
+          "套外资费"
+        ]
+      }
+    },
+    {
+      "id": "cmcc-广东-分省资费-42174-2",
+      "name": "全家享套餐（全国版）（29-59元档） 59元档",
+      "area": "广东",
+      "price": 59,
+      "data": 10,
+      "generalData": 10,
+      "directedData": 0,
+      "voice": 100,
+      "sms": "详见详情",
+      "broadband": "详见详情",
+      "audience": "广东移动客户",
+      "contract": "无",
+      "source": "中国移动资费公示专区",
+      "tags": [
+        "套餐",
+        "5G套餐",
+        "分省资费"
+      ],
+      "details": {
+        "schemeId": "GR0000027972",
+        "markId": "42174",
+        "tariffStandard": "套餐",
+        "applicableArea": "广东",
+        "salesChannel": "线上线下",
+        "onlineDate": "1990-01-01",
+        "offlineDate": "2099-12-31",
+        "validity": "无",
+        "networkRequirement": "无",
+        "liability": "无",
+        "overage": "",
+        "services": "【套餐说明】1、本套餐生效后原主资费套餐、原非标准的2/3G手机流量或GPRS套餐将失效；2、套餐含来电显示、国内被叫免费、优惠1个全国亲情网（统付版）功能费、点对点短信0.1元/条、彩信0.3元/条；3、以上国内通话、流量和短信均不适用于中国港澳台地区。",
+        "notes": "",
+        "category": "套餐",
+        "navigationName": "5G套餐",
+        "sourceTableTitles": [
+          "语音流量",
+          "套外资费"
+        ]
+      }
+    }
+  ]
+}

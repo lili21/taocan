@@ -1,117 +1,133 @@
 {
   "sourceUrl": "https://h.app.coc.10086.cn/cmcc-app/pc-pages/tariffZonePers.html",
-  "fetchedAt": "2026-07-04T15:16:25.220Z",
+  "fetchedAt": "2026-07-07T16:12:32Z",
   "provinceCount": 31,
-  "responseCount": 93,
-  "failureCount": 0,
-  "failures": [],
-  "sourceItemCount": 9275,
-  "planCount": 1017,
-  "nationalPlanCount": 52,
+  "nationalPlanCount": 167,
+  "planCount": 12338,
   "provinces": [
     {
       "province": "安徽",
-      "planCount": 37
+      "planCount": 239
     },
     {
       "province": "北京",
-      "planCount": 57
+      "planCount": 605
     },
     {
       "province": "重庆",
-      "planCount": 40
+      "planCount": 648
     },
     {
       "province": "福建",
-      "planCount": 96
+      "planCount": 661
     },
     {
       "province": "甘肃",
-      "planCount": 1
+      "planCount": 348
     },
     {
       "province": "广东",
-      "planCount": 9
+      "planCount": 1293
     },
     {
       "province": "广西",
-      "planCount": 21
+      "planCount": 345
     },
     {
       "province": "贵州",
-      "planCount": 15
+      "planCount": 142
     },
     {
       "province": "海南",
-      "planCount": 68
+      "planCount": 249
     },
     {
       "province": "河北",
-      "planCount": 38
+      "planCount": 419
     },
     {
       "province": "河南",
-      "planCount": 33
+      "planCount": 452
     },
     {
       "province": "黑龙江",
-      "planCount": 12
+      "planCount": 220
     },
     {
       "province": "湖北",
-      "planCount": 48
+      "planCount": 281
     },
     {
       "province": "湖南",
-      "planCount": 104
+      "planCount": 304
     },
     {
       "province": "吉林",
-      "planCount": 44
+      "planCount": 352
     },
     {
       "province": "江苏",
-      "planCount": 53
+      "planCount": 0
     },
     {
       "province": "江西",
-      "planCount": 39
+      "planCount": 364
     },
     {
       "province": "辽宁",
-      "planCount": 10
+      "planCount": 292
     },
     {
       "province": "内蒙古",
-      "planCount": 53
+      "planCount": 386
     },
     {
       "province": "宁夏",
-      "planCount": 27
+      "planCount": 74
+    },
+    {
+      "province": "青海",
+      "planCount": 189
     },
     {
       "province": "山东",
-      "planCount": 21
+      "planCount": 643
+    },
+    {
+      "province": "山西",
+      "planCount": 300
+    },
+    {
+      "province": "陕西",
+      "planCount": 350
     },
     {
       "province": "上海",
-      "planCount": 37
+      "planCount": 301
+    },
+    {
+      "province": "四川",
+      "planCount": 907
     },
     {
       "province": "天津",
-      "planCount": 33
+      "planCount": 193
     },
     {
       "province": "西藏",
-      "planCount": 28
+      "planCount": 329
     },
     {
       "province": "新疆",
-      "planCount": 36
+      "planCount": 350
     },
     {
       "province": "云南",
-      "planCount": 5
+      "planCount": 329
+    },
+    {
+      "province": "浙江",
+      "planCount": 606
     }
   ]
 }

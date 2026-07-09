@@ -475,7 +475,7 @@ async function main() {
 
   const plans = uniquePlans(sourceItems.flatMap((item, index) => normalizeItem(item, index)))
     .filter((plan) => plan.name && plan.price > 0)
-    .filter((plan) => plan.details?.category === '套餐')
+    .filter((plan) => ['套餐', '号卡'].includes(plan.details?.category))
     .sort((a, b) => a.price - b.price || b.data - a.data || a.name.localeCompare(b.name, 'zh-Hans-CN'));
 
   const nationalPlans = plans.filter((plan) => plan.area === '全国');

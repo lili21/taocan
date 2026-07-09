@@ -7,9 +7,12 @@
     "dev": "vite --host 127.0.0.1",
     "start": "vite --host 127.0.0.1",
     "build": "vite build",
+    "deploy": "vercel build --prod --yes && vercel deploy --prebuilt --prod --yes --archive=tgz",
     "preview": "vite preview --host 127.0.0.1"
   },
   "dependencies": {
+    "@tanstack/react-virtual": "^3.14.5",
+    "@vercel/analytics": "^2.0.1",
     "@vitejs/plugin-react": "4.3.4",
     "class-variance-authority": "0.7.1",
     "clsx": "2.1.1",

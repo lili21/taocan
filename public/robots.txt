@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://taocan.lili21.me/sitemap.xml

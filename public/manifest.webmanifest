@@ -1,0 +1,22 @@
+{
+  "name": "套餐透明表",
+  "short_name": "套餐表",
+  "description": "查看中国移动公开资费，按全国与省份比较套餐、活动、月租、流量、通话和合约限制。",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "background_color": "#061112",
+  "theme_color": "#061112",
+  "orientation": "portrait-primary",
+  "categories": ["utilities", "finance"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

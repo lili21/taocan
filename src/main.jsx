@@ -1,5 +1,7 @@
-import React, { useEffect, useMemo, useState } from 'react';
+import React, { useEffect, useMemo, useState, useRef } from 'react';
 import { createRoot } from 'react-dom/client';
+import { useVirtualizer } from '@tanstack/react-virtual';
+import { Analytics } from '@vercel/analytics/react';
 import {
   ArrowUpRight,
   ArrowLeft,
@@ -7,6 +9,7 @@ import {
   LocateFixed,
   ListFilter,
   Loader2,
+  Maximize2,
   Moon,
   Sun,
   Zap,
@@ -25,6 +28,8 @@ import { resolveUserProvince } from './lib/locate-ip';
 import './styles.css';
 
 const areas = Object.keys(provinceCenters);
+const defaultArea = '上海';
+const tableGridTemplate = 'minmax(220px,3fr) minmax(90px,1fr) minmax(88px,1fr) minmax(88px,1fr) minmax(88px,1fr) minmax(88px,1fr) minmax(180px,2fr) minmax(86px,1fr)';
 
 function formatData(value) {
   return value > 0 ? `${value}GB` : '-';
@@ -38,6 +43,25 @@ function formatPrice(value) {
   return Number.isInteger(value) ? value : value.toFixed(2);
 }
 
+function uniqueValues(values) {
+  return [...new Set(values.filter(Boolean).map((value) => String(value).trim()).filter(Boolean))];
+}
+
+function getPlanType(plan) {
+  const category = plan.details?.category ?? '';
+  return category.includes('活动') || plan.name.includes('活动') ? 'activity' : 'plan';
+}
+
+function getPlanTags(plan) {
+  const tags = uniqueValues(plan.tags ?? []);
+  const typeLabel = getPlanType(plan) === 'activity' ? '活动' : '套餐';
+  return tags.includes(typeLabel) ? tags : [typeLabel, ...tags];
+}
+
+function formatContract(contract) {
+  return uniqueValues(String(contract ?? '').split(/[；;]/)).join('；');
+}
+
 function nearestProvince(latitude, longitude) {
   return Object.entries(provinceCenters)
     .map(([province, [lat, lon]]) => ({
@@ -49,12 +73,15 @@ function nearestProvince(latitude, longitude) {
 
 function App() {
   const [theme, setTheme] = useState('dark');
-  const [selectedArea, setSelectedArea] = useState('北京');
-  const [maxPrice, setMaxPrice] = useState(100);
+  const [selectedArea, setSelectedArea] = useState(defaultArea);
+  const [maxPrice, setMaxPrice] = useState(999);
   const [minimumData, setMinimumData] = useState(0);
-  const [scopeFilter, setScopeFilter] = useState('all');
-  const [locationStatus, setLocationStatus] = useState('正在识别地区...');
+  const [scopeFilter, setScopeFilter] = useState('national');
+  const [typeFilter, setTypeFilter] = useState('plan');
+  const [locationStatus, setLocationStatus] = useState(`默认展示${defaultArea}，正在识别地区...`);
   const [selectedPlanId, setSelectedPlanId] = useState(null);
+  const [visibleCount, setVisibleCount] = useState(50);
+  const [canEnterFullscreen, setCanEnterFullscreen] = useState(false);
 
   const [nationalPlans, setNationalPlans] = useState([]);
   const [provincePlans, setProvincePlans] = useState([]);
@@ -74,10 +101,10 @@ function App() {
             source === 'cache' ? `已从缓存识别地区 ${province}` : `已根据 IP 识别地区 ${province}`,
           );
         } else {
-          setLocationStatus('未能识别地区，默认展示北京，可手动切换');
+          setLocationStatus(`未能识别地区，默认展示${defaultArea}，可手动切换`);
         }
       } catch {
-        if (!cancelled) setLocationStatus('IP 定位失败，默认展示北京，可手动切换');
+        if (!cancelled) setLocationStatus(`IP 定位失败，默认展示${defaultArea}，可手动切换`);
       }
       try {
         const index = await fetchTariffIndex();
@@ -92,6 +119,12 @@ function App() {
     return () => {
       cancelled = true;
     };
+  }, []);
+
+  useEffect(() => {
+    const isStandalone =
+      window.matchMedia?.('(display-mode: standalone)').matches || window.navigator.standalone;
+    setCanEnterFullscreen(Boolean(document.documentElement.requestFullscreen) && !isStandalone);
   }, []);
 
   useEffect(() => {
@@ -120,8 +153,13 @@ function App() {
     return pool
       .filter((plan) => plan.price <= maxPrice)
       .filter((plan) => plan.data >= minimumData)
+      .filter((plan) => getPlanType(plan) === typeFilter)
       .sort((a, b) => a.price - b.price || b.data - a.data);
-  }, [scopeFilter, maxPrice, minimumData, nationalPlans, provincePlans]);
+  }, [scopeFilter, maxPrice, minimumData, typeFilter, nationalPlans, provincePlans]);
+
+  useEffect(() => {
+    setVisibleCount(50);
+  }, [scopeFilter, maxPrice, minimumData, typeFilter, selectedArea]);
 
   const allLoadedPlans = useMemo(
     () => [...nationalPlans, ...provincePlans],
@@ -156,6 +194,21 @@ function App() {
     );
   };
 
+  const enterImmersiveMode = async () => {
+    if (!document.documentElement.requestFullscreen) {
+      setLocationStatus('当前浏览器不支持直接进入沉浸模式，请添加到主屏幕后打开');
+      return;
+    }
+
+    try {
+      await document.documentElement.requestFullscreen({ navigationUI: 'hide' });
+      setCanEnterFullscreen(false);
+      setLocationStatus('已进入沉浸模式');
+    } catch {
+      setLocationStatus('当前浏览器不允许直接隐藏导航栏，请添加到主屏幕后打开');
+    }
+  };
+
   if (loading) {
     return (
       <main className={theme}>
@@ -169,7 +222,7 @@ function App() {
   return (
     <main className={theme}>
       <div className="min-h-screen bg-background text-foreground">
-        <div className="mx-auto flex w-full max-w-6xl flex-col gap-4 px-4 py-4 sm:px-6 lg:px-8">
+        <div className="mx-auto flex w-full max-w-6xl flex-col gap-4 px-4 pb-[calc(1rem+env(safe-area-inset-bottom))] pt-[calc(1rem+env(safe-area-inset-top))] sm:px-6 lg:px-8">
           <header className="sticky top-0 z-20 flex flex-col gap-3 border-b border-border bg-background/92 px-0 py-3 backdrop-blur md:flex-row md:items-center md:justify-between">
             <div className="flex min-w-0 items-center gap-3">
               <div className="flex h-9 w-9 shrink-0 items-center justify-center rounded-md border border-primary/30 bg-primary/10 text-primary">
@@ -204,6 +257,18 @@ function App() {
               <Button aria-label="定位地区" onClick={locateUser} size="icon" type="button" variant="outline">
                 <LocateFixed className="h-4 w-4" />
               </Button>
+              {canEnterFullscreen && (
+                <Button
+                  aria-label="进入沉浸模式"
+                  className="sm:hidden"
+                  onClick={enterImmersiveMode}
+                  size="icon"
+                  type="button"
+                  variant="outline"
+                >
+                  <Maximize2 className="h-4 w-4" />
+                </Button>
+              )}
               <a
                 className="hidden h-9 items-center gap-1.5 rounded-md border border-border px-3 text-sm text-muted-foreground transition-colors hover:bg-accent hover:text-accent-foreground sm:inline-flex"
                 href={tariffSourceUrl}
@@ -232,26 +297,33 @@ function App() {
           ) : (
             <section className="grid gap-4">
               <Card className="bg-card">
-                <CardContent className="grid gap-4 p-3 lg:grid-cols-[1fr_1fr_1fr_auto] lg:items-end">
+                <CardContent className="grid gap-4 p-3 lg:grid-cols-[1fr_1fr_1fr_1fr_auto] lg:items-end">
                   <FilterGroup
                     label="范围"
                     onChange={setScopeFilter}
                     options={[
-                      { label: '全网+本地区', value: 'all' },
-                      { label: '仅全网', value: 'national' },
-                      { label: '仅本地区', value: 'province' },
+                      { label: '全网', value: 'national' },
+                      { label: '本地区', value: 'province' },
                     ]}
                     value={scopeFilter}
+                  />
+                  <FilterGroup
+                    label="类型"
+                    onChange={setTypeFilter}
+                    options={[
+                      { label: '套餐', value: 'plan' },
+                      { label: '活动', value: 'activity' },
+                    ]}
+                    value={typeFilter}
                   />
                   <FilterGroup
                     label="最高月租"
                     onChange={setMaxPrice}
                     options={[
+                      { label: '不限', value: 999 },
                       { label: '30 元', value: 30 },
                       { label: '50 元', value: 50 },
                       { label: '70 元', value: 70 },
-                      { label: '100 元', value: 100 },
-                      { label: '不限', value: 999 },
                     ]}
                     value={maxPrice}
                   />
@@ -263,7 +335,6 @@ function App() {
                       { label: '30GB', value: 30 },
                       { label: '60GB', value: 60 },
                       { label: '80GB', value: 80 },
-                      { label: '100GB', value: 100 },
                     ]}
                     value={minimumData}
                   />
@@ -272,7 +343,7 @@ function App() {
                     title={metadata ? `已抓取 ${metadata.planCount} 条套餐，接口失败 ${metadata.failureCount} 条` : ''}
                   >
                     <ListFilter className="h-4 w-4" />
-                    {provinceLoading ? '加载中' : `${visibleTariffs.length} 个`}
+                    {provinceLoading ? '加载中' : `${visibleTariffs.length} 条`}
                   </div>
                 </CardContent>
               </Card>
@@ -285,16 +356,16 @@ function App() {
                     </p>
                     <CardTitle>公开资费列表</CardTitle>
                   </div>
-                  <Badge>{visibleTariffs.length} 个套餐</Badge>
+                  <Badge>{visibleTariffs.length} 条资费</Badge>
                 </CardHeader>
                 <div className="grid gap-3 p-3 lg:hidden">
-                  {visibleTariffs.map((plan) => (
+                  {visibleTariffs.slice(0, visibleCount).map((plan) => (
                     <article className="rounded-lg border border-border bg-background p-4" key={plan.id}>
                       <div className="flex items-start justify-between gap-3">
                         <div>
                           <h3 className="font-medium leading-6">{plan.name}</h3>
                           <div className="mt-2 flex flex-wrap gap-1.5">
-                            {plan.tags.map((tag) => (
+                            {getPlanTags(plan).map((tag) => (
                               <Badge className="h-5 px-2 text-[11px]" key={tag}>
                                 {tag}
                               </Badge>
@@ -311,62 +382,42 @@ function App() {
                       </div>
 
                       <div className="mt-4 flex items-center justify-between gap-3">
-                        <p className="text-xs text-muted-foreground">{plan.contract}</p>
-                        <Button onClick={() => setSelectedPlanId(plan.id)} size="sm" type="button" variant="outline">
+                        <p className="text-xs text-muted-foreground">{formatContract(plan.contract)}</p>
+                        <Button className="min-w-14 shrink-0" onClick={() => setSelectedPlanId(plan.id)} size="sm" type="button" variant="outline">
                           详情
                         </Button>
                       </div>
                     </article>
                   ))}
+                  {visibleCount < visibleTariffs.length && (
+                    <button
+                      className="rounded-md border border-border py-2.5 text-sm text-muted-foreground transition-colors hover:bg-accent"
+                      onClick={() => setVisibleCount((c) => c + 50)}
+                      type="button"
+                    >
+                      加载更多（剩余 {visibleTariffs.length - visibleCount} 条）
+                    </button>
+                  )}
                 </div>
 
-                <div className="hidden overflow-x-auto lg:block">
-                  <table className="w-full min-w-[980px] border-collapse text-sm">
-                    <thead>
-                      <tr className="border-b border-border text-left text-xs text-muted-foreground">
-                        <th className="px-5 py-3 font-medium">套餐</th>
-                        <th className="px-5 py-3 font-medium">月租</th>
-                        <th className="px-5 py-3 font-medium">总流量</th>
-                        <th className="px-5 py-3 font-medium">通用流量</th>
-                        <th className="px-5 py-3 font-medium">定向流量</th>
-                        <th className="px-5 py-3 font-medium">通话</th>
-                        <th className="px-5 py-3 font-medium">限制/合约</th>
-                        <th className="px-5 py-3 font-medium"></th>
-                      </tr>
-                    </thead>
-                    <tbody>
-                      {visibleTariffs.map((plan) => (
-                        <tr className="border-b border-border/70 transition-colors hover:bg-accent/35" key={plan.id}>
-                          <td className="px-5 py-4">
-                            <div className="font-medium">{plan.name}</div>
-                            <div className="mt-2 flex flex-wrap gap-1.5">
-                              {plan.tags.map((tag) => (
-                                <Badge className="h-5 px-2 text-[11px]" key={tag}>
-                                  {tag}
-                                </Badge>
-                              ))}
-                            </div>
-                          </td>
-                          <td className="px-5 py-4">
-                            <span className="font-mono text-lg font-semibold text-primary">¥{formatPrice(plan.price)}</span>
-                          </td>
-                          <td className="px-5 py-4 font-medium">{formatData(plan.data)}</td>
-                          <td className="px-5 py-4">{formatData(plan.generalData)}</td>
-                          <td className="px-5 py-4">{formatData(plan.directedData)}</td>
-                          <td className="px-5 py-4">{formatVoice(plan.voice)}</td>
-                          <td className="px-5 py-4">
-                            <div>{plan.contract}</div>
-                            <p className="mt-1 text-xs text-muted-foreground">{plan.audience}</p>
-                          </td>
-                          <td className="px-5 py-4 text-right">
-                            <Button onClick={() => setSelectedPlanId(plan.id)} size="sm" type="button" variant="outline">
-                              详情
-                            </Button>
-                          </td>
-                        </tr>
-                      ))}
-                    </tbody>
-                  </table>
+                <div className="hidden lg:block">
+                  <div
+                    className="grid min-w-[980px] border-b border-border px-5 py-3 text-left text-xs text-muted-foreground"
+                    style={{ gridTemplateColumns: tableGridTemplate }}
+                  >
+                    <div className="font-medium">套餐</div>
+                    <div className="font-medium">月租</div>
+                    <div className="font-medium">总流量</div>
+                    <div className="font-medium">通用流量</div>
+                    <div className="font-medium">定向流量</div>
+                    <div className="font-medium">通话</div>
+                    <div className="font-medium">限制/合约</div>
+                    <div className="font-medium"></div>
+                  </div>
+                  <VirtualTable
+                    plans={visibleTariffs}
+                    onSelect={(id) => setSelectedPlanId(id)}
+                  />
                 </div>
               </Card>
             </section>
@@ -374,6 +425,76 @@ function App() {
         </div>
       </div>
     </main>
+  );
+}
+
+function VirtualTable({ plans, onSelect }) {
+  const parentRef = useRef(null);
+  const rowVirtualizer = useVirtualizer({
+    count: plans.length,
+    getScrollElement: () => parentRef.current,
+    estimateSize: () => 68,
+    overscan: 8,
+  });
+
+  return (
+    <div
+      ref={parentRef}
+      className="overflow-auto"
+      style={{ height: Math.min(plans.length * 68, 600) }}
+    >
+      <div
+        style={{
+          height: `${rowVirtualizer.getTotalSize()}px`,
+          width: '100%',
+          position: 'relative',
+          minWidth: 980,
+        }}
+      >
+        {rowVirtualizer.getVirtualItems().map((virtualRow) => {
+          const plan = plans[virtualRow.index];
+          return (
+            <div
+              key={plan.id}
+              className="absolute left-0 w-full border-b border-border/70 transition-colors hover:bg-accent/35"
+              style={{ height: virtualRow.size, transform: `translateY(${virtualRow.start}px)` }}
+            >
+              <div
+                className="grid h-full items-center px-5 text-sm"
+                style={{ gridTemplateColumns: tableGridTemplate }}
+              >
+                <div className="min-w-0">
+                  <div className="font-medium truncate">{plan.name}</div>
+                  <div className="mt-1 flex flex-wrap gap-1.5">
+                    {getPlanTags(plan).map((tag) => (
+                      <Badge className="h-5 px-2 text-[11px]" key={tag}>
+                        {tag}
+                      </Badge>
+                    ))}
+                  </div>
+                </div>
+                <div>
+                  <span className="font-mono text-lg font-semibold text-primary">¥{formatPrice(plan.price)}</span>
+                </div>
+                <div className="font-medium">{formatData(plan.data)}</div>
+                <div>{formatData(plan.generalData)}</div>
+                <div>{formatData(plan.directedData)}</div>
+                <div>{formatVoice(plan.voice)}</div>
+                <div className="min-w-0">
+                  <div className="truncate">{formatContract(plan.contract)}</div>
+                  <p className="mt-0.5 text-xs text-muted-foreground truncate">{plan.audience}</p>
+                </div>
+                <div className="text-right">
+                  <Button className="min-w-14" onClick={() => onSelect(plan.id)} size="sm" type="button" variant="outline">
+                    详情
+                  </Button>
+                </div>
+              </div>
+            </div>
+          );
+        })}
+      </div>
+    </div>
   );
 }
 
@@ -434,7 +555,7 @@ function PlanDetail({ onBack, plan }) {
           </div>
 
           <div className="flex flex-wrap gap-2">
-            {plan.tags.map((tag) => (
+            {getPlanTags(plan).map((tag) => (
               <Badge key={tag}>{tag}</Badge>
             ))}
           </div>
@@ -501,4 +622,9 @@ function FilterGroup({ label, onChange, options, value }) {
 const rootElement = document.getElementById('root');
 const root = window.__taocanRoot ?? createRoot(rootElement);
 window.__taocanRoot = root;
-root.render(<App />);
+root.render(
+  <>
+    <App />
+    <Analytics />
+  </>,
+);

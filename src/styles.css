@@ -46,12 +46,20 @@
 
   html {
     color-scheme: dark;
+    min-height: 100%;
   }
 
   body {
     @apply m-0 bg-background font-sans text-foreground antialiased;
     font-synthesis: none;
+    min-height: 100%;
     text-rendering: optimizeLegibility;
+    overscroll-behavior-y: none;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  #root {
+    min-height: 100%;
   }
 
   button,
@@ -59,6 +67,22 @@
   select,
   textarea {
     font: inherit;
+  }
+}
+
+@supports (height: 100dvh) {
+  html,
+  body,
+  #root {
+    min-height: 100dvh;
+  }
+}
+
+@supports (-webkit-touch-callout: none) {
+  html,
+  body,
+  #root {
+    min-height: -webkit-fill-available;
   }
 }
 

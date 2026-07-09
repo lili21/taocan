@@ -1,0 +1,16 @@
+{
+  "projectId": "prj_sN8wDdvuEQ5YK82pCnyJu8r7Mk5L",
+  "orgId": "team_vWbSYQFEnwXUUfP4Rno8bLiF",
+  "projectName": "taocan",
+  "settings": {
+    "createdAt": 1783512740465,
+    "framework": "vite",
+    "devCommand": null,
+    "installCommand": null,
+    "buildCommand": null,
+    "outputDirectory": null,
+    "rootDirectory": null,
+    "directoryListing": false,
+    "nodeVersion": "24.x"
+  }
+}

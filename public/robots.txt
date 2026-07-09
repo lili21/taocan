@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://taocan.lili21.me/sitemap.xml
+Sitemap: https://taocan.vercel.app/sitemap.xml

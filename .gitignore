@@ -1,5 +1,5 @@
 node_modules/
 dist/
-src/data/cmcc-tariffs.raw.json
+src/data/*.json
 .vercel/*
 !.vercel/project.json

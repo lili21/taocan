@@ -8,11 +8,11 @@
     />
     <meta
       name="description"
-      content="套餐透明表整理中国移动公开资费，支持按全国与省份查看套餐、活动、月租、流量、通话和合约限制，帮你更清楚地比较手机套餐。"
+      content="套餐透明表整理中国移动、中国联通、中国电信三大运营商公开资费，支持按运营商、全国与省份比较月租、流量、通话和合约限制。"
     />
     <meta
       name="keywords"
-      content="套餐透明表,中国移动套餐,移动资费,手机套餐比较,流量套餐,全国套餐,省份套餐"
+      content="套餐透明表,三大运营商资费,中国移动套餐,中国联通套餐,中国电信套餐,手机套餐比较,流量套餐,全国套餐,省份套餐"
     />
     <meta name="robots" content="index,follow,max-image-preview:large" />
     <meta name="author" content="套餐透明表" />
@@ -31,10 +31,10 @@
     <meta property="og:locale" content="zh_CN" />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="套餐透明表" />
-    <meta property="og:title" content="套餐透明表｜中国移动公开资费查询与套餐比较" />
+    <meta property="og:title" content="套餐透明表｜三大运营商公开资费查询与套餐比较" />
     <meta
       property="og:description"
-      content="查看中国移动公开资费，按全国或省份筛选套餐、活动、月租、流量、通话和合约限制。"
+      content="查看中国移动、中国联通、中国电信公开资费，按运营商、全国或省份筛选和比较手机套餐。"
     />
     <meta property="og:url" content="https://taocan.vercel.app/" />
     <meta property="og:image" content="https://taocan.vercel.app/og-preview.jpg" />
@@ -42,43 +42,159 @@
     <meta property="og:image:type" content="image/jpeg" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
-    <meta property="og:image:alt" content="套餐透明表，中国移动公开资费查询与套餐比较" />
+    <meta property="og:image:alt" content="套餐透明表，三大运营商公开资费查询与套餐比较" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="套餐透明表｜中国移动公开资费查询与套餐比较" />
+    <meta name="twitter:title" content="套餐透明表｜三大运营商公开资费查询与套餐比较" />
     <meta
       name="twitter:description"
-      content="按全国或省份查看移动套餐资费，比较月租、流量、通话和合约限制。"
+      content="按运营商、全国或省份查看移动、联通、电信套餐资费，比较月租、流量、通话和合约限制。"
     />
     <meta name="twitter:url" content="https://taocan.vercel.app/" />
     <meta name="twitter:domain" content="taocan.vercel.app" />
     <meta name="twitter:image" content="https://taocan.vercel.app/og-preview.jpg" />
-    <meta name="twitter:image:alt" content="套餐透明表，中国移动公开资费查询与套餐比较" />
+    <meta name="twitter:image:alt" content="套餐透明表，三大运营商公开资费查询与套餐比较" />
+    <style>
+      .seo-fallback {
+        box-sizing: border-box;
+        min-height: 100vh;
+        padding: 48px max(24px, calc((100vw - 960px) / 2));
+        background: #061112;
+        color: #dffdf1;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+        line-height: 1.7;
+      }
+      .seo-fallback h1 { font-size: clamp(2rem, 5vw, 3.5rem); line-height: 1.15; }
+      .seo-fallback h2 { margin-top: 2rem; }
+      .seo-fallback a { color: #65e6bd; }
+    </style>
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
-        "@type": "WebApplication",
-        "name": "套餐透明表",
-        "url": "https://taocan.vercel.app/",
-        "applicationCategory": "UtilitiesApplication",
-        "operatingSystem": "Web",
-        "inLanguage": "zh-CN",
-        "description": "套餐透明表整理中国移动公开资费，支持按全国与省份查看套餐、活动、月租、流量、通话和合约限制。",
-        "offers": {
-          "@type": "Offer",
-          "price": "0",
-          "priceCurrency": "CNY"
-        },
-        "about": [
-          "中国移动公开资费",
-          "手机套餐查询",
-          "流量套餐比较"
+        "@graph": [
+          {
+            "@type": "WebApplication",
+            "@id": "https://taocan.vercel.app/#app",
+            "name": "套餐透明表",
+            "url": "https://taocan.vercel.app/",
+            "applicationCategory": "UtilitiesApplication",
+            "operatingSystem": "Web",
+            "inLanguage": "zh-CN",
+            "description": "整理中国移动、中国联通、中国电信三大运营商公开资费，支持按运营商、全国与省份比较手机套餐。",
+            "featureList": [
+              "按运营商筛选",
+              "全国与省份资费查询",
+              "月租、流量、通话和合约限制比较"
+            ],
+            "offers": {
+              "@type": "Offer",
+              "price": "0",
+              "priceCurrency": "CNY"
+            },
+            "about": [
+              { "@type": "Organization", "name": "中国移动" },
+              { "@type": "Organization", "name": "中国联通" },
+              { "@type": "Organization", "name": "中国电信" }
+            ]
+          },
+          {
+            "@type": "Dataset",
+            "@id": "https://taocan.vercel.app/#tariff-dataset",
+            "name": "三大运营商公开资费数据集",
+            "description": "中国移动、中国联通、中国电信公开手机套餐资费的结构化整理，字段包括月租、流量、通话、适用地区和合约限制。",
+            "url": "https://taocan.vercel.app/",
+            "inLanguage": "zh-CN",
+            "spatialCoverage": "中国",
+            "creator": { "@id": "https://taocan.vercel.app/#app" },
+            "keywords": [
+              "中国移动套餐",
+              "中国联通套餐",
+              "中国电信套餐",
+              "手机套餐比较",
+              "公开资费"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://taocan.vercel.app/#webpage",
+            "name": "三大运营商公开资费查询与套餐比较",
+            "url": "https://taocan.vercel.app/",
+            "inLanguage": "zh-CN",
+            "dateModified": "2026-07-10",
+            "isPartOf": { "@id": "https://taocan.vercel.app/#app" },
+            "speakable": {
+              "@type": "SpeakableSpecification",
+              "cssSelector": ["h1", ".seo-summary", ".seo-faq-answer"]
+            }
+          },
+          {
+            "@type": "FAQPage",
+            "@id": "https://taocan.vercel.app/#faq",
+            "mainEntity": [
+              {
+                "@type": "Question",
+                "name": "如何比较三大运营商手机套餐？",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "先选择中国移动、中国联通或中国电信，再按全国或本地区资费筛选，比较月租、通用流量、定向流量、通话分钟数和合约限制。页面实际可选范围以已接入数据为准。"
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "套餐透明表的数据来自哪里？",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "数据来自中国移动、中国联通和中国电信的官方公开资费专区，经结构化整理后展示。资费可能调整，办理前应以运营商最新公示和当地营业厅规则为准。"
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "全国资费和本地区资费有什么区别？",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "全国资费面向多个地区公开，本地区资费与所选省份或代表城市相关，适用范围、办理渠道和优惠规则可能不同。"
+                }
+              }
+            ]
+          }
         ]
       }
     </script>
-    <title>套餐透明表｜中国移动公开资费查询与套餐比较</title>
+    <title>套餐透明表｜三大运营商公开资费查询与套餐比较</title>
   </head>
   <body>
-    <div id="root"></div>
+    <div id="root">
+      <main class="seo-fallback">
+        <h1>三大运营商公开资费查询与套餐比较</h1>
+        <p class="seo-summary">
+          套餐透明表面向中国移动、中国联通、中国电信三大运营商，按运营商和地区比较月租、流量、通话与合约限制。截至 2026 年 7 月 10 日，当前索引已整理中国移动 12,338 条、中国联通 5,923 条公开资费，共 18,261 条；中国电信数据将以页面实际接入状态为准。
+        </p>
+
+        <section aria-labelledby="comparison-heading">
+          <h2 id="comparison-heading">可以比较哪些套餐信息？</h2>
+          <ul>
+            <li>月租、总流量、通用流量、定向流量和通话分钟数。</li>
+            <li>全国资费与省份或代表城市口径的本地区资费。</li>
+            <li>适用范围、销售渠道、有效期限、退订方式和套餐外资费。</li>
+          </ul>
+          <p>
+            数据依据
+            <a href="https://h.app.coc.10086.cn/cmcc-app/pc-pages/tariffZonePers.html" rel="noopener noreferrer">中国移动资费公示</a>、
+            <a href="https://img.client.10010.com/zifeizhuanquwt/index.html" rel="noopener noreferrer">中国联通资费专区</a>和
+            <a href="https://www.189.cn/jtzfzq/" rel="noopener noreferrer">中国电信资费专区</a>整理。办理前请核对运营商最新官方规则。
+          </p>
+        </section>
+
+        <section aria-labelledby="faq-heading">
+          <h2 id="faq-heading">常见问题</h2>
+          <h3>如何比较三大运营商手机套餐？</h3>
+          <p class="seo-faq-answer">先选择运营商，再按全国或本地区资费筛选，比较月租、通用与定向流量、通话分钟数和合约限制。页面实际可选范围以已接入数据为准。</p>
+          <h3>套餐透明表的数据来自哪里？</h3>
+          <p class="seo-faq-answer">数据来自三家运营商的官方公开资费专区，经结构化整理后展示，不代表运营商的办理承诺。</p>
+          <h3>全国资费和本地区资费有什么区别？</h3>
+          <p class="seo-faq-answer">全国资费面向多个地区公开；本地区资费与所选省份或代表城市相关，适用范围和优惠规则可能不同。</p>
+        </section>
+      </main>
+    </div>
     <script type="module" src="/src/main.jsx"></script>
   </body>
 </html>

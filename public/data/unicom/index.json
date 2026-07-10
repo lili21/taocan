@@ -1,0 +1,229 @@
+{
+  "operator": "unicom",
+  "sourceUrl": "https://img.client.10010.com/zifeizhuanquwt/index.html",
+  "fetchedAt": "2026-07-10T14:15:47.869Z",
+  "provinceCount": 31,
+  "failureCount": 0,
+  "failures": [],
+  "nationalPlanCount": 106,
+  "planCount": 5923,
+  "provinces": [
+    {
+      "province": "安徽",
+      "provinceCode": "030",
+      "representativeCity": "马鞍山",
+      "cityCode": "300",
+      "planCount": 143
+    },
+    {
+      "province": "北京",
+      "provinceCode": "011",
+      "representativeCity": "北京",
+      "cityCode": "110",
+      "planCount": 134
+    },
+    {
+      "province": "重庆",
+      "provinceCode": "083",
+      "representativeCity": "重庆",
+      "cityCode": "831",
+      "planCount": 79
+    },
+    {
+      "province": "福建",
+      "provinceCode": "038",
+      "representativeCity": "福州",
+      "cityCode": "380",
+      "planCount": 303
+    },
+    {
+      "province": "甘肃",
+      "provinceCode": "087",
+      "representativeCity": "兰州",
+      "cityCode": "870",
+      "planCount": 380
+    },
+    {
+      "province": "广东",
+      "provinceCode": "051",
+      "representativeCity": "广州",
+      "cityCode": "510",
+      "planCount": 214
+    },
+    {
+      "province": "广西",
+      "provinceCode": "059",
+      "representativeCity": "贺州",
+      "cityCode": "588",
+      "planCount": 228
+    },
+    {
+      "province": "贵州",
+      "provinceCode": "085",
+      "representativeCity": "铜仁",
+      "cityCode": "785",
+      "planCount": 179
+    },
+    {
+      "province": "海南",
+      "provinceCode": "050",
+      "representativeCity": "海口",
+      "cityCode": "501",
+      "planCount": 192
+    },
+    {
+      "province": "河北",
+      "provinceCode": "018",
+      "representativeCity": "沧州",
+      "cityCode": "180",
+      "planCount": 186
+    },
+    {
+      "province": "河南",
+      "provinceCode": "076",
+      "representativeCity": "郑州",
+      "cityCode": "760",
+      "planCount": 141
+    },
+    {
+      "province": "黑龙江",
+      "provinceCode": "097",
+      "representativeCity": "哈尔滨",
+      "cityCode": "971",
+      "planCount": 261
+    },
+    {
+      "province": "湖北",
+      "provinceCode": "071",
+      "representativeCity": "武汉",
+      "cityCode": "710",
+      "planCount": 168
+    },
+    {
+      "province": "湖南",
+      "provinceCode": "074",
+      "representativeCity": "长沙",
+      "cityCode": "741",
+      "planCount": 289
+    },
+    {
+      "province": "吉林",
+      "provinceCode": "090",
+      "representativeCity": "长春",
+      "cityCode": "901",
+      "planCount": 32
+    },
+    {
+      "province": "江苏",
+      "provinceCode": "034",
+      "representativeCity": "无锡",
+      "cityCode": "330",
+      "planCount": 356
+    },
+    {
+      "province": "江西",
+      "provinceCode": "075",
+      "representativeCity": "景德镇",
+      "cityCode": "740",
+      "planCount": 160
+    },
+    {
+      "province": "辽宁",
+      "provinceCode": "091",
+      "representativeCity": "沈阳",
+      "cityCode": "910",
+      "planCount": 116
+    },
+    {
+      "province": "内蒙古",
+      "provinceCode": "010",
+      "representativeCity": "呼和浩特",
+      "cityCode": "101",
+      "planCount": 358
+    },
+    {
+      "province": "宁夏",
+      "provinceCode": "088",
+      "representativeCity": "银川",
+      "cityCode": "880",
+      "planCount": 198
+    },
+    {
+      "province": "青海",
+      "provinceCode": "070",
+      "representativeCity": "西宁",
+      "cityCode": "700",
+      "planCount": 50
+    },
+    {
+      "province": "山东",
+      "provinceCode": "017",
+      "representativeCity": "淄博",
+      "cityCode": "150",
+      "planCount": 474
+    },
+    {
+      "province": "山西",
+      "provinceCode": "019",
+      "representativeCity": "太原",
+      "cityCode": "190",
+      "planCount": 178
+    },
+    {
+      "province": "陕西",
+      "provinceCode": "084",
+      "representativeCity": "宝鸡",
+      "cityCode": "840",
+      "planCount": 86
+    },
+    {
+      "province": "上海",
+      "provinceCode": "031",
+      "representativeCity": "上海",
+      "cityCode": "310",
+      "planCount": 460
+    },
+    {
+      "province": "四川",
+      "provinceCode": "081",
+      "representativeCity": "成都",
+      "cityCode": "810",
+      "planCount": 92
+    },
+    {
+      "province": "天津",
+      "provinceCode": "013",
+      "representativeCity": "天津",
+      "cityCode": "130",
+      "planCount": 75
+    },
+    {
+      "province": "西藏",
+      "provinceCode": "079",
+      "representativeCity": "拉萨",
+      "cityCode": "790",
+      "planCount": 96
+    },
+    {
+      "province": "新疆",
+      "provinceCode": "089",
+      "representativeCity": "乌鲁木齐",
+      "cityCode": "890",
+      "planCount": 67
+    },
+    {
+      "province": "云南",
+      "provinceCode": "086",
+      "representativeCity": "德宏",
+      "cityCode": "730",
+      "planCount": 18
+    },
+    {
+      "province": "浙江",
+      "provinceCode": "036",
+      "representativeCity": "杭州",
+      "cityCode": "360",
+      "planCount": 104
+    }
+  ]
+}

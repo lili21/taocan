@@ -5,7 +5,9 @@ import { Analytics } from '@vercel/analytics/react';
 import {
   ArrowUpRight,
   ArrowLeft,
+  Check,
   ChevronDown,
+  Copy,
   LocateFixed,
   ListFilter,
   Loader2,
@@ -21,8 +23,8 @@ import {
   fetchNationalPlans,
   fetchProvincePlans,
   fetchTariffIndex,
+  operators,
   provinceCenters,
-  tariffSourceUrl,
 } from './data/tariffs';
 import { resolveUserProvince } from './lib/locate-ip';
 import './styles.css';
@@ -62,6 +64,38 @@ function formatContract(contract) {
   return uniqueValues(String(contract ?? '').split(/[；;]/)).join('；');
 }
 
+function buildCallScript(plan) {
+  const operator = operators[plan.operator] ?? { label: '运营商', servicePhone: '客服热线' };
+  const schemeId = plan.details?.schemeId || '公示页面未注明';
+  const eligibility = uniqueValues([plan.audience, plan.details?.applicableArea]).join('；') || '公示页面未注明';
+  const salesChannel = plan.details?.salesChannel || '公示页面未注明';
+  const contract = uniqueValues([
+    plan.details?.validity,
+    plan.details?.networkRequirement,
+    plan.contract,
+  ]).join('；') || '公示页面未注明';
+  const hasExplicitRestriction = /新入网|新用户|存量|老用户|仅限|指定|目标客户|在网用户/.test(
+    eligibility,
+  );
+
+  return [
+    `拨打：${operator.label} ${operator.servicePhone}`,
+    '',
+    `你好，我是本机号码用户，想把当前号码变更为“${plan.name}”，方案编号是“${schemeId}”。请按官方资费公示帮我核验本号码是否满足办理条件。`,
+    '',
+    `公示适用范围：${eligibility}`,
+    `公示办理渠道：${salesChannel}`,
+    `公示合约或在网要求：${contract}`,
+    '',
+    hasExplicitRestriction
+      ? '我注意到公示中存在用户资格条件，请按公示原文逐项核验，并说明我的号码具体是否符合。'
+      : '如果系统提示不能办理，请先核对公示中是否明确写有“仅限新入网用户”等资格限制。',
+    '如果不能办理，请明确说明我具体不符合哪一项：用户类型、地区、当前套餐、在网状态、合约，还是办理渠道限制。请不要只回复“系统不支持”。',
+    '如果当前坐席没有办理权限，请告知可办理的线上渠道或营业厅，或转资费专席、值班经理进一步核验。',
+    '请为本次资格核验和办理诉求建立工单，并告知我工单编号以及最终处理时限。谢谢。',
+  ].join('\n');
+}
+
 function nearestProvince(latitude, longitude) {
   return Object.entries(provinceCenters)
     .map(([province, [lat, lon]]) => ({
@@ -73,6 +107,7 @@ function nearestProvince(latitude, longitude) {
 
 function App() {
   const [theme, setTheme] = useState('dark');
+  const [selectedOperator, setSelectedOperator] = useState('cmcc');
   const [selectedArea, setSelectedArea] = useState(defaultArea);
   const [maxPrice, setMaxPrice] = useState(999);
   const [minimumData, setMinimumData] = useState(0);
@@ -106,20 +141,39 @@ function App() {
       } catch {
         if (!cancelled) setLocationStatus(`IP 定位失败，默认展示${defaultArea}，可手动切换`);
       }
-      try {
-        const index = await fetchTariffIndex();
-        if (!cancelled) setMetadata(index);
-      } catch {}
-      try {
-        const plans = await fetchNationalPlans();
-        if (!cancelled) setNationalPlans(plans);
-      } catch {}
-      if (!cancelled) setLoading(false);
     })();
     return () => {
       cancelled = true;
     };
   }, []);
+
+  useEffect(() => {
+    let cancelled = false;
+    setLoading(true);
+    setMetadata(null);
+    setNationalPlans([]);
+    setProvincePlans([]);
+    setSelectedPlanId(null);
+    (async () => {
+      try {
+        const [index, plans] = await Promise.all([
+          fetchTariffIndex(selectedOperator),
+          fetchNationalPlans(selectedOperator),
+        ]);
+        if (!cancelled) {
+          setMetadata(index);
+          setNationalPlans(plans);
+        }
+      } catch {
+        if (!cancelled) setNationalPlans([]);
+      } finally {
+        if (!cancelled) setLoading(false);
+      }
+    })();
+    return () => {
+      cancelled = true;
+    };
+  }, [selectedOperator]);
 
   useEffect(() => {
     const isStandalone =
@@ -129,10 +183,15 @@ function App() {
 
   useEffect(() => {
     let cancelled = false;
+    if (scopeFilter === 'national') {
+      setProvincePlans([]);
+      setProvinceLoading(false);
+      return undefined;
+    }
     setProvinceLoading(true);
     (async () => {
       try {
-        const plans = await fetchProvincePlans(selectedArea);
+        const plans = await fetchProvincePlans(selectedOperator, selectedArea);
         if (!cancelled) setProvincePlans(plans);
       } catch {
         if (!cancelled) setProvincePlans([]);
@@ -143,7 +202,7 @@ function App() {
     return () => {
       cancelled = true;
     };
-  }, [selectedArea]);
+  }, [scopeFilter, selectedOperator, selectedArea]);
 
   const visibleTariffs = useMemo(() => {
     const pool = [
@@ -170,6 +229,13 @@ function App() {
     () => allLoadedPlans.find((plan) => plan.id === selectedPlanId),
     [allLoadedPlans, selectedPlanId],
   );
+  const selectedRegionLabel = useMemo(() => {
+    if (selectedOperator !== 'unicom' || scopeFilter !== 'province') return selectedArea;
+    const province = metadata?.provinces?.find((entry) => entry.province === selectedArea);
+    return province?.representativeCity
+      ? `${selectedArea}（${province.representativeCity}口径）`
+      : selectedArea;
+  }, [metadata, scopeFilter, selectedArea, selectedOperator]);
 
   const locateUser = () => {
     if (!navigator.geolocation) {
@@ -229,7 +295,7 @@ function App() {
                 <Zap className="h-4 w-4" />
               </div>
               <div className="min-w-0">
-                <p className="text-xs font-medium text-muted-foreground">中国移动公开资费</p>
+                <p className="text-xs font-medium text-muted-foreground">{operators[selectedOperator].label}公开资费</p>
                 <h1 className="truncate text-base font-semibold tracking-normal sm:text-lg">套餐透明表</h1>
               </div>
             </div>
@@ -271,7 +337,7 @@ function App() {
               )}
               <a
                 className="hidden h-9 items-center gap-1.5 rounded-md border border-border px-3 text-sm text-muted-foreground transition-colors hover:bg-accent hover:text-accent-foreground sm:inline-flex"
-                href={tariffSourceUrl}
+                href={operators[selectedOperator].sourceUrl}
                 rel="noreferrer"
                 target="_blank"
               >
@@ -297,7 +363,16 @@ function App() {
           ) : (
             <section className="grid gap-4">
               <Card className="bg-card">
-                <CardContent className="grid gap-4 p-3 lg:grid-cols-[1fr_1fr_1fr_1fr_auto] lg:items-end">
+                <CardContent className="grid gap-4 p-3 lg:grid-cols-2 xl:grid-cols-[1fr_1fr_1fr_1fr_1fr_auto] xl:items-end">
+                  <FilterGroup
+                    label="运营商"
+                    onChange={setSelectedOperator}
+                    options={Object.entries(operators).map(([value, operator]) => ({
+                      label: operator.shortLabel,
+                      value,
+                    }))}
+                    value={selectedOperator}
+                  />
                   <FilterGroup
                     label="范围"
                     onChange={setScopeFilter}
@@ -340,7 +415,7 @@ function App() {
                   />
                   <div
                     className="flex h-10 items-center gap-2 rounded-md border border-border px-3 text-sm text-muted-foreground"
-                    title={metadata ? `已抓取 ${metadata.planCount} 条套餐，接口失败 ${metadata.failureCount} 条` : ''}
+                    title={metadata ? `已抓取 ${metadata.planCount} 条套餐，接口失败 ${metadata.failureCount ?? 0} 条` : ''}
                   >
                     <ListFilter className="h-4 w-4" />
                     {provinceLoading ? '加载中' : `${visibleTariffs.length} 条`}
@@ -352,7 +427,7 @@ function App() {
                 <CardHeader className="flex-row items-center justify-between gap-3 border-b border-border">
                   <div>
                     <p className="text-xs font-medium text-primary">
-                      {scopeFilter === 'national' ? '全网资费' : selectedArea}
+                      {scopeFilter === 'national' ? '全网资费' : selectedRegionLabel}
                     </p>
                     <CardTitle>公开资费列表</CardTitle>
                   </div>
@@ -499,6 +574,23 @@ function VirtualTable({ plans, onSelect }) {
 }
 
 function PlanDetail({ onBack, plan }) {
+  const [copyStatus, setCopyStatus] = useState('idle');
+  const callScript = useMemo(() => buildCallScript(plan), [plan]);
+
+  useEffect(() => {
+    setCopyStatus('idle');
+  }, [plan.id]);
+
+  const copyCallScript = async () => {
+    try {
+      await navigator.clipboard.writeText(callScript);
+      setCopyStatus('copied');
+      window.setTimeout(() => setCopyStatus('idle'), 2000);
+    } catch {
+      setCopyStatus('failed');
+    }
+  };
+
   const detailRows = [
     ['方案编号', plan.details?.schemeId],
     ['资费标准', plan.details?.tariffStandard],
@@ -552,6 +644,39 @@ function PlanDetail({ onBack, plan }) {
             {detailRows.map(([label, value]) => (
               <DetailRow key={label} label={label} value={value} />
             ))}
+          </div>
+
+          <div className="rounded-lg border border-primary/25 bg-primary/5 p-4 sm:p-5">
+            <div className="flex flex-col gap-3 sm:flex-row sm:items-start sm:justify-between">
+              <div>
+                <h2 className="font-semibold">办理沟通话术</h2>
+                <p className="mt-1 text-xs leading-5 text-muted-foreground">
+                  已带入公示信息；请客服逐项核验资格，不默认承诺新老用户同权。
+                </p>
+              </div>
+              <Button onClick={copyCallScript} size="sm" type="button" variant="outline">
+                {copyStatus === 'copied' ? <Check className="h-4 w-4" /> : <Copy className="h-4 w-4" />}
+                {copyStatus === 'copied' ? '已复制' : '复制话术'}
+              </Button>
+            </div>
+            <p className="mt-4 select-text whitespace-pre-line rounded-md border border-border bg-background p-4 text-sm leading-6">
+              {callScript}
+            </p>
+            {copyStatus === 'failed' && (
+              <p className="mt-2 text-xs text-destructive">复制失败，请长按或选中文字手动复制。</p>
+            )}
+            <p className="mt-3 text-xs leading-5 text-muted-foreground">
+              建议先取得运营商内部投诉工单；对处理结果不满意或运营商未按期答复时，可前往{' '}
+              <a
+                className="text-primary underline-offset-4 hover:underline"
+                href="https://yhssglxt.miit.gov.cn/web/userAppeal/"
+                rel="noreferrer"
+                target="_blank"
+              >
+                工信部电信用户申诉受理中心
+              </a>
+              。
+            </p>
           </div>
 
           <div className="flex flex-wrap gap-2">

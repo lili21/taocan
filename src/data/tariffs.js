@@ -32,27 +32,42 @@ export const provinceCenters = {
   新疆: [43.8256, 87.6168],
 };
 
-export const tariffSourceUrl = 'https://h.app.coc.10086.cn/cmcc-app/pc-pages/tariffZonePers.html';
+export const operators = {
+  cmcc: {
+    label: '中国移动',
+    shortLabel: '移动',
+    servicePhone: '10086',
+    sourceUrl: 'https://h.app.coc.10086.cn/cmcc-app/pc-pages/tariffZonePers.html',
+    dataRoot: '/data',
+  },
+  unicom: {
+    label: '中国联通',
+    shortLabel: '联通',
+    servicePhone: '10010',
+    sourceUrl: 'https://img.client.10010.com/zifeizhuanquwt/index.html',
+    dataRoot: '/data/unicom',
+  },
+};
 
-export async function fetchTariffIndex() {
-  const res = await fetch('/data/index.json');
+export async function fetchTariffIndex(operator) {
+  const res = await fetch(`${operators[operator].dataRoot}/index.json`);
   if (!res.ok) throw new Error(`index.json: ${res.status}`);
   return res.json();
 }
 
-export async function fetchNationalPlans() {
-  const res = await fetch('/data/national.json');
+export async function fetchNationalPlans(operator) {
+  const res = await fetch(`${operators[operator].dataRoot}/national.json`);
   if (!res.ok) throw new Error(`national.json: ${res.status}`);
   const data = await res.json();
-  return data.plans;
+  return data.plans.map((plan) => ({ operator, ...plan }));
 }
 
-export async function fetchProvincePlans(province) {
-  const res = await fetch(`/data/${encodeURIComponent(province)}.json`);
+export async function fetchProvincePlans(operator, province) {
+  const res = await fetch(`${operators[operator].dataRoot}/${encodeURIComponent(province)}.json`);
   if (!res.ok) {
     if (res.status === 404) return [];
     throw new Error(`${province}.json: ${res.status}`);
   }
   const data = await res.json();
-  return data.plans;
+  return data.plans.map((plan) => ({ operator, ...plan }));
 }

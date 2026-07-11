@@ -124,6 +124,12 @@ function App() {
   const [loading, setLoading] = useState(true);
   const [provinceLoading, setProvinceLoading] = useState(false);
 
+  const telecomAreas = useMemo(
+    () => metadata?.provinces?.filter((province) => typeof province === 'string') ?? [],
+    [metadata],
+  );
+  const selectableAreas = selectedOperator === 'telecom' && telecomAreas.length ? telecomAreas : areas;
+
   useEffect(() => {
     let cancelled = false;
     (async () => {
@@ -174,6 +180,13 @@ function App() {
       cancelled = true;
     };
   }, [selectedOperator]);
+
+  useEffect(() => {
+    if (selectedOperator !== 'telecom' || !telecomAreas.length) return;
+    if (!telecomAreas.includes(selectedArea)) {
+      setSelectedArea(telecomAreas.includes(defaultArea) ? defaultArea : telecomAreas[0]);
+    }
+  }, [selectedArea, selectedOperator, telecomAreas]);
 
   useEffect(() => {
     const isStandalone =
@@ -312,7 +325,7 @@ function App() {
                   }}
                   value={selectedArea}
                 >
-                  {areas.map((area) => (
+                  {selectableAreas.map((area) => (
                     <option key={area} value={area}>
                       {area}
                     </option>
@@ -379,10 +392,12 @@ function App() {
                   <FilterGroup
                     label="范围"
                     onChange={setScopeFilter}
-                    options={[
-                      { label: '全网', value: 'national' },
-                      { label: '本地区', value: 'province' },
-                    ]}
+                    options={selectedOperator === 'telecom'
+                      ? [{ label: '本地区', value: 'province' }]
+                      : [
+                          { label: '全网', value: 'national' },
+                          { label: '本地区', value: 'province' },
+                        ]}
                     value={scopeFilter}
                   />
                   <FilterGroup

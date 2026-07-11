@@ -2,192 +2,18 @@
   "area": "福建",
   "plans": [
     {
-      "id": "telecom-福建-25FJ100216",
-      "name": "全屋WiFi月缴5元优惠套餐（24个月合约）",
-      "area": "福建",
-      "price": 5.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "25FJ100216",
-        "tariffStandard": "5元/月（标题提取，详见官方详情）",
-        "onlineDate": "2025-03-28 00:00:00",
-        "offlineDate": "2027-03-27 23:59:59",
-        "category": "套餐",
-        "sourceUrl": "https://fj.189.cn/ic/support/indexNews?searchKeyword=25FJ100216",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-福建-25FJ100082",
-      "name": "学生证套餐（A版10元）",
-      "area": "福建",
-      "price": 10.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "25FJ100082",
-        "tariffStandard": "10元/月（标题提取，详见官方详情）",
-        "onlineDate": "2025-03-07 00:00:00",
-        "offlineDate": "2027-05-12 23:59:59",
-        "category": "套餐",
-        "sourceUrl": "https://fj.189.cn/ic/support/indexNews?searchKeyword=25FJ100082",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-福建-24FJ101263",
-      "name": "全屋WiFi月缴15元套餐（24个月合约）",
-      "area": "福建",
-      "price": 15.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "24FJ101263",
-        "tariffStandard": "15元/月（标题提取，详见官方详情）",
-        "onlineDate": "2019-10-01 00:00:00",
-        "offlineDate": "2027-09-30 23:59:59",
-        "category": "套餐",
-        "sourceUrl": "https://fj.189.cn/ic/support/indexNews?searchKeyword=24FJ101263",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-福建-24FJ101414",
-      "name": "全屋WiFi月缴20元套餐（24个月合约）",
-      "area": "福建",
-      "price": 20.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "24FJ101414",
-        "tariffStandard": "20元/月（标题提取，详见官方详情）",
-        "onlineDate": "2019-10-01 00:00:00",
-        "offlineDate": "2027-09-30 23:59:59",
-        "category": "套餐",
-        "sourceUrl": "https://fj.189.cn/ic/support/indexNews?searchKeyword=24FJ101414",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-福建-24FJ101386",
-      "name": "天翼看家月缴20元AI套餐（36个月合约）",
-      "area": "福建",
-      "price": 20.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "24FJ101386",
-        "tariffStandard": "20元/月（标题提取，详见官方详情）",
-        "onlineDate": "2024-05-27 00:00:00",
-        "offlineDate": "2028-06-30 23:59:59",
-        "category": "套餐",
-        "sourceUrl": "https://fj.189.cn/ic/support/indexNews?searchKeyword=24FJ101386",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-福建-25FJ100083",
-      "name": "学生证套餐（B版20元）",
-      "area": "福建",
-      "price": 20.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "25FJ100083",
-        "tariffStandard": "20元/月（标题提取，详见官方详情）",
-        "onlineDate": "2025-03-07 00:00:00",
-        "offlineDate": "2027-05-12 23:59:59",
-        "category": "套餐",
-        "sourceUrl": "https://fj.189.cn/ic/support/indexNews?searchKeyword=25FJ100083",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
       "id": "telecom-福建-24FJ101192",
       "name": "星卡29元（2022版）",
       "area": "福建",
       "price": 29.0,
-      "data": 0,
+      "data": 30.0,
       "generalData": 0,
-      "directedData": 0,
+      "directedData": 30.0,
       "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
+      "sms": "以官方详情为准",
+      "broadband": "以官方详情为准",
+      "audience": "福建电信公众用户",
+      "contract": "有效期24个月，双方无异议将自动续展，每次续展24个月",
       "source": "中国电信资费专区",
       "tags": [
         "套餐",
@@ -196,12 +22,20 @@
       ],
       "details": {
         "schemeId": "24FJ101192",
-        "tariffStandard": "29元/月（标题提取，详见官方详情）",
+        "tariffStandard": "29.0元/月",
         "onlineDate": "2021-12-24 00:00:00",
         "offlineDate": "2027-01-31 23:59:59",
         "category": "套餐",
         "sourceUrl": "https://fj.189.cn/ic/support/indexNews?searchKeyword=24FJ101192",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。",
+        "applicableArea": "福建电信公众用户",
+        "salesChannel": "中国电信APP、福建电信营业厅及10000号",
+        "validity": "有效期24个月，双方无异议将自动续展，每次续展24个月",
+        "networkRequirement": "无",
+        "cancelMethod": "中国电信APP、福建电信营业厅及10000号",
+        "liability": "无",
+        "overage": "国内通话：0.1元/分钟；国内通用流量：超套国内流量按照0.03元/MB计费，达到5元后可继续免费使用至1GB，后续以此规则类推，执行套餐外流量费封顶规则；国内短/彩信：0.1元/条",
+        "verified": true
       }
     },
     {
@@ -209,14 +43,14 @@
       "name": "星卡39元（2022版）",
       "area": "福建",
       "price": 39.0,
-      "data": 0,
+      "data": 5.0,
       "generalData": 0,
-      "directedData": 0,
+      "directedData": 5.0,
       "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
+      "sms": "以官方详情为准",
+      "broadband": "以官方详情为准",
+      "audience": "福建电信公众用户",
+      "contract": "有效期24个月，双方无异议将自动续展，每次续展24个月",
       "source": "中国电信资费专区",
       "tags": [
         "套餐",
@@ -225,128 +59,20 @@
       ],
       "details": {
         "schemeId": "24FJ101496",
-        "tariffStandard": "39元/月（标题提取，详见官方详情）",
+        "tariffStandard": "39.0元/月",
         "onlineDate": "2022-01-25 00:00:00",
         "offlineDate": "2027-01-31 23:59:59",
         "category": "套餐",
         "sourceUrl": "https://fj.189.cn/ic/support/indexNews?searchKeyword=24FJ101496",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-福建-24FJ101335",
-      "name": "一握开视频门锁月缴40元套餐（36个月合约）",
-      "area": "福建",
-      "price": 40.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "24FJ101335",
-        "tariffStandard": "40元/月（标题提取，详见官方详情）",
-        "onlineDate": "2023-10-07 00:00:00",
-        "offlineDate": "2027-10-07 23:59:59",
-        "category": "套餐",
-        "sourceUrl": "https://fj.189.cn/ic/support/indexNews?searchKeyword=24FJ101335",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-福建-24FJ101310",
-      "name": "智能门锁月缴40元套餐（合约版）",
-      "area": "福建",
-      "price": 40.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "24FJ101310",
-        "tariffStandard": "40元/月（标题提取，详见官方详情）",
-        "onlineDate": "2022-03-28 00:00:00",
-        "offlineDate": "2028-03-31 23:59:59",
-        "category": "套餐",
-        "sourceUrl": "https://fj.189.cn/ic/support/indexNews?searchKeyword=24FJ101310",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-福建-24FJ101238",
-      "name": "天翼5G特惠48元套餐",
-      "area": "福建",
-      "price": 48.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "24FJ101238",
-        "tariffStandard": "48元/月（标题提取，详见官方详情）",
-        "onlineDate": "2020-11-16 00:00:00",
-        "offlineDate": "2026-11-18 23:59:59",
-        "category": "套餐",
-        "sourceUrl": "https://fj.189.cn/ic/support/indexNews?searchKeyword=24FJ101238",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-福建-24FJ101354",
-      "name": "全自动视频门锁月缴50元套餐（36个月合约）",
-      "area": "福建",
-      "price": 50.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "24FJ101354",
-        "tariffStandard": "50元/月（标题提取，详见官方详情）",
-        "onlineDate": "2023-10-07 00:00:00",
-        "offlineDate": "2027-10-07 23:59:59",
-        "category": "套餐",
-        "sourceUrl": "https://fj.189.cn/ic/support/indexNews?searchKeyword=24FJ101354",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。",
+        "applicableArea": "福建电信公众用户",
+        "salesChannel": "中国电信APP、福建电信营业厅及10000号",
+        "validity": "有效期24个月，双方无异议将自动续展，每次续展24个月",
+        "networkRequirement": "无",
+        "cancelMethod": "中国电信APP、福建电信营业厅及10000号",
+        "liability": "无",
+        "overage": "国内通话：0.1元/分钟；国内通用流量：超套国内流量按照0.03元/MB计费，达到5元后可继续免费使用至1GB，后续以此规则类推，执行套餐外流量费封顶规则；国内短/彩信：0.1元/条",
+        "verified": true
       }
     },
     {
@@ -354,14 +80,14 @@
       "name": "星卡流量版（59元）",
       "area": "福建",
       "price": 59.0,
-      "data": 0,
+      "data": 20.0,
       "generalData": 0,
-      "directedData": 0,
+      "directedData": 20.0,
       "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
+      "sms": "以官方详情为准",
+      "broadband": "以官方详情为准",
+      "audience": "福建电信公众用户",
+      "contract": "有效期24个月，双方无异议将自动续展，每次续展24个月",
       "source": "中国电信资费专区",
       "tags": [
         "套餐",
@@ -370,360 +96,20 @@
       ],
       "details": {
         "schemeId": "24FJ101195",
-        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "tariffStandard": "59.0元/月",
         "onlineDate": "2021-11-12 00:00:00",
         "offlineDate": "2027-10-31 23:59:59",
         "category": "套餐",
         "sourceUrl": "https://fj.189.cn/ic/support/indexNews?searchKeyword=24FJ101195",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-福建-25FJ100065",
-      "name": "5G畅享99元套餐202112",
-      "area": "福建",
-      "price": 99.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "25FJ100065",
-        "tariffStandard": "99元/月（标题提取，详见官方详情）",
-        "onlineDate": "2019-10-31 00:00:00",
-        "offlineDate": "2027-01-31 23:59:59",
-        "category": "套餐",
-        "sourceUrl": "https://fj.189.cn/ic/support/indexNews?searchKeyword=25FJ100065",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-福建-26FJ100025",
-      "name": "京东福卡139元套餐",
-      "area": "福建",
-      "price": 139.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "26FJ100025",
-        "tariffStandard": "139元/月（标题提取，详见官方详情）",
-        "onlineDate": "2026-02-06 00:00:00",
-        "offlineDate": "2028-02-05 23:59:59",
-        "category": "套餐",
-        "sourceUrl": "https://fj.189.cn/ic/support/indexNews?searchKeyword=26FJ100025",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-福建-25FJ100042",
-      "name": "5G畅享169元套餐201910",
-      "area": "福建",
-      "price": 169.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "25FJ100042",
-        "tariffStandard": "169元/月（标题提取，详见官方详情）",
-        "onlineDate": "2019-10-31 00:00:00",
-        "offlineDate": "2027-01-31 23:59:59",
-        "category": "套餐",
-        "sourceUrl": "https://fj.189.cn/ic/support/indexNews?searchKeyword=25FJ100042",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-福建-25FJ100239",
-      "name": "5G-A 199元套餐202509",
-      "area": "福建",
-      "price": 199.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "25FJ100239",
-        "tariffStandard": "199元/月（标题提取，详见官方详情）",
-        "onlineDate": "2025-09-22 00:00:00",
-        "offlineDate": "2027-09-30 23:59:59",
-        "category": "套餐",
-        "sourceUrl": "https://fj.189.cn/ic/support/indexNews?searchKeyword=25FJ100239",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-福建-25FJ100043",
-      "name": "5G畅享199元套餐201910",
-      "area": "福建",
-      "price": 199.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "25FJ100043",
-        "tariffStandard": "199元/月（标题提取，详见官方详情）",
-        "onlineDate": "2019-10-31 00:00:00",
-        "offlineDate": "2027-01-31 23:59:59",
-        "category": "套餐",
-        "sourceUrl": "https://fj.189.cn/ic/support/indexNews?searchKeyword=25FJ100043",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-福建-25FJ100240",
-      "name": "5G-A 239元套餐202509",
-      "area": "福建",
-      "price": 239.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "25FJ100240",
-        "tariffStandard": "239元/月（标题提取，详见官方详情）",
-        "onlineDate": "2025-09-22 00:00:00",
-        "offlineDate": "2027-09-30 23:59:59",
-        "category": "套餐",
-        "sourceUrl": "https://fj.189.cn/ic/support/indexNews?searchKeyword=25FJ100240",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-福建-25FJ100197",
-      "name": "5G-A 299元套餐202503",
-      "area": "福建",
-      "price": 299.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "25FJ100197",
-        "tariffStandard": "299元/月（标题提取，详见官方详情）",
-        "onlineDate": "2025-04-24 00:00:00",
-        "offlineDate": "2027-04-24 23:59:59",
-        "category": "套餐",
-        "sourceUrl": "https://fj.189.cn/ic/support/indexNews?searchKeyword=25FJ100197",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-福建-25FJ100191",
-      "name": "5G畅享299元套餐201910",
-      "area": "福建",
-      "price": 299.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "25FJ100191",
-        "tariffStandard": "299元/月（标题提取，详见官方详情）",
-        "onlineDate": "2019-10-21 00:00:00",
-        "offlineDate": "2027-01-31 23:59:59",
-        "category": "套餐",
-        "sourceUrl": "https://fj.189.cn/ic/support/indexNews?searchKeyword=25FJ100191",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-福建-25FJ100198",
-      "name": "5G-A 399元套餐202503",
-      "area": "福建",
-      "price": 399.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "25FJ100198",
-        "tariffStandard": "399元/月（标题提取，详见官方详情）",
-        "onlineDate": "2025-04-24 00:00:00",
-        "offlineDate": "2027-04-24 23:59:59",
-        "category": "套餐",
-        "sourceUrl": "https://fj.189.cn/ic/support/indexNews?searchKeyword=25FJ100198",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-福建-25FJ100192",
-      "name": "5G畅享399元套餐201910",
-      "area": "福建",
-      "price": 399.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "25FJ100192",
-        "tariffStandard": "399元/月（标题提取，详见官方详情）",
-        "onlineDate": "2019-10-21 00:00:00",
-        "offlineDate": "2027-01-31 23:59:59",
-        "category": "套餐",
-        "sourceUrl": "https://fj.189.cn/ic/support/indexNews?searchKeyword=25FJ100192",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-福建-26FJ100001",
-      "name": "5G畅享599元套餐201910",
-      "area": "福建",
-      "price": 599.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "26FJ100001",
-        "tariffStandard": "599元/月（标题提取，详见官方详情）",
-        "onlineDate": "2019-10-21 00:00:00",
-        "offlineDate": "2027-01-31 23:59:59",
-        "category": "套餐",
-        "sourceUrl": "https://fj.189.cn/ic/support/indexNews?searchKeyword=26FJ100001",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-福建-24FJ101400",
-      "name": "792元话费优惠套餐（36个月合约）",
-      "area": "福建",
-      "price": 792.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "24FJ101400",
-        "tariffStandard": "792元/月（标题提取，详见官方详情）",
-        "onlineDate": "2024-03-04 00:00:00",
-        "offlineDate": "2028-03-31 23:59:59",
-        "category": "套餐",
-        "sourceUrl": "https://fj.189.cn/ic/support/indexNews?searchKeyword=24FJ101400",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。",
+        "applicableArea": "福建电信公众用户",
+        "salesChannel": "中国电信APP、福建电信营业厅及10000号",
+        "validity": "有效期24个月，双方无异议将自动续展，每次续展24个月",
+        "networkRequirement": "无",
+        "cancelMethod": "中国电信APP、福建电信营业厅及10000号",
+        "liability": "无",
+        "overage": "国内通话：0.1元/分钟；国内通用流量：超套国内流量按照0.03元/MB计费，达到5元后可继续免费使用至1GB，后续以此规则类推，执行套餐外流量费封顶规则；国内短/彩信：0.1元/条",
+        "verified": true
       }
     }
   ]

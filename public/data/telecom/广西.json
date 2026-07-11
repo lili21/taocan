@@ -2,47 +2,18 @@
   "area": "广西",
   "plans": [
     {
-      "id": "telecom-广西-25GX100096",
-      "name": "乐派优惠包-10元（无忧卡专属）",
-      "area": "广西",
-      "price": 10.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "25GX100096",
-        "tariffStandard": "10元/月（标题提取，详见官方详情）",
-        "onlineDate": "2024-01-09 00:00:00",
-        "offlineDate": "2026-09-13 23:59:59",
-        "category": "套餐",
-        "sourceUrl": "https://gx.189.cn/accept/zfzq/pc?seqNo=7360140000101082",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
       "id": "telecom-广西-24GX100265",
       "name": "星卡39元（2022版）",
       "area": "广西",
       "price": 39.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
+      "data": 50.0,
+      "generalData": 20.0,
+      "directedData": 30.0,
       "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
+      "sms": "以官方详情为准",
+      "broadband": "以官方详情为准",
+      "audience": "均可订购",
+      "contract": "2年",
       "source": "中国电信资费专区",
       "tags": [
         "套餐",
@@ -51,12 +22,20 @@
       ],
       "details": {
         "schemeId": "24GX100265",
-        "tariffStandard": "39元/月（标题提取，详见官方详情）",
+        "tariffStandard": "39元/月",
         "onlineDate": "2022-01-26 00:00:00",
         "offlineDate": "2027-01-31 23:59:59",
         "category": "套餐",
         "sourceUrl": "https://gx.189.cn/accept/zfzq/pc?seqNo=5000003201100314",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。",
+        "applicableArea": "均可订购",
+        "salesChannel": "线上及线下渠道",
+        "validity": "2年",
+        "networkRequirement": "无",
+        "cancelMethod": "前往电信营业厅、拨打10000号",
+        "liability": "无",
+        "overage": "流量5元/GB，语音0.1元/分钟，短信0.1元/条",
+        "verified": true
       }
     },
     {
@@ -64,14 +43,14 @@
       "name": "星卡流量版（59元）",
       "area": "广西",
       "price": 59.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
+      "data": 80.0,
+      "generalData": 50.0,
+      "directedData": 30.0,
       "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
+      "sms": "以官方详情为准",
+      "broadband": "以官方详情为准",
+      "audience": "均可订购",
+      "contract": "2年",
       "source": "中国电信资费专区",
       "tags": [
         "套餐",
@@ -80,41 +59,20 @@
       ],
       "details": {
         "schemeId": "24GX100240",
-        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "tariffStandard": "59元/月",
         "onlineDate": "2021-11-01 00:00:00",
         "offlineDate": "2027-10-31 23:59:59",
         "category": "套餐",
         "sourceUrl": "https://gx.189.cn/accept/zfzq/pc?seqNo=5000003201100312",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-广西-25GX100084",
-      "name": "天翼畅享套餐99元话费补贴-单宽加C适用-576元-24月",
-      "area": "广西",
-      "price": 99.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "25GX100084",
-        "tariffStandard": "99元/月（标题提取，详见官方详情）",
-        "onlineDate": "2018-07-02 00:00:00",
-        "offlineDate": "2030-06-14 23:59:59",
-        "category": "套餐",
-        "sourceUrl": "https://gx.189.cn/accept/zfzq/pc?seqNo=8901014000010039",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。",
+        "applicableArea": "均可订购",
+        "salesChannel": "线上及线下渠道",
+        "validity": "2年",
+        "networkRequirement": "无",
+        "cancelMethod": "前往电信营业厅、拨打10000号",
+        "liability": "无",
+        "overage": "流量5元/GB，语音0.1元/分钟，短信0.1元/条",
+        "verified": true
       }
     },
     {
@@ -122,14 +80,14 @@
       "name": "派卡体验包120元套餐",
       "area": "广西",
       "price": 120.0,
-      "data": 0,
-      "generalData": 0,
+      "data": 6.0,
+      "generalData": 6.0,
       "directedData": 0,
       "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
+      "sms": "以官方详情为准",
+      "broadband": "以官方详情为准",
+      "audience": "仅限专属编码派卡专属用户群体订购，用户办理时需配合核实身份。",
+      "contract": "一次性",
       "source": "中国电信资费专区",
       "tags": [
         "套餐",
@@ -138,273 +96,20 @@
       ],
       "details": {
         "schemeId": "24GX100061",
-        "tariffStandard": "120元/月（标题提取，详见官方详情）",
+        "tariffStandard": "120元/次",
         "onlineDate": "2017-08-21 00:00:00",
         "offlineDate": "2026-09-13 23:59:59",
         "category": "套餐",
         "sourceUrl": "https://gx.189.cn/accept/zfzq/pc?seqNo=8510451450020001",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-广西-25GX100301",
-      "name": "5G-A 199元套餐202509",
-      "area": "广西",
-      "price": 199.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "25GX100301",
-        "tariffStandard": "199元/月（标题提取，详见官方详情）",
-        "onlineDate": "2025-11-01 00:00:00",
-        "offlineDate": "2027-09-30 23:59:59",
-        "category": "套餐",
-        "sourceUrl": "https://gx.189.cn/accept/zfzq/pc?seqNo=5000003601100058",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-广西-24GX100189",
-      "name": "5G畅享199元套餐",
-      "area": "广西",
-      "price": 199.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "24GX100189",
-        "tariffStandard": "199元/月（标题提取，详见官方详情）",
-        "onlineDate": "2019-10-15 00:00:00",
-        "offlineDate": "2027-01-31 23:59:59",
-        "category": "套餐",
-        "sourceUrl": "https://gx.189.cn/accept/zfzq/pc?seqNo=5000003601100004",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-广西-24GX100192",
-      "name": "5G畅享239元套餐",
-      "area": "广西",
-      "price": 239.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "24GX100192",
-        "tariffStandard": "239元/月（标题提取，详见官方详情）",
-        "onlineDate": "2019-10-15 00:00:00",
-        "offlineDate": "2027-01-31 23:59:59",
-        "category": "套餐",
-        "sourceUrl": "https://gx.189.cn/accept/zfzq/pc?seqNo=5000003601100005",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-广西-25GX100192",
-      "name": "5G-A 299元套餐202503",
-      "area": "广西",
-      "price": 299.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "25GX100192",
-        "tariffStandard": "299元/月（标题提取，详见官方详情）",
-        "onlineDate": "2025-04-24 00:00:00",
-        "offlineDate": "2039-01-01 23:59:59",
-        "category": "套餐",
-        "sourceUrl": "https://gx.189.cn/accept/zfzq/pc?seqNo=5000003601100053",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-广西-24GX100191",
-      "name": "5G畅享299元套餐",
-      "area": "广西",
-      "price": 299.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "24GX100191",
-        "tariffStandard": "299元/月（标题提取，详见官方详情）",
-        "onlineDate": "2019-10-15 00:00:00",
-        "offlineDate": "2027-01-31 23:59:59",
-        "category": "套餐",
-        "sourceUrl": "https://gx.189.cn/accept/zfzq/pc?seqNo=5000003601100006",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-广西-25GX100191",
-      "name": "5G-A 399元套餐202503",
-      "area": "广西",
-      "price": 399.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "25GX100191",
-        "tariffStandard": "399元/月（标题提取，详见官方详情）",
-        "onlineDate": "2025-04-24 00:00:00",
-        "offlineDate": "2039-01-01 23:59:59",
-        "category": "套餐",
-        "sourceUrl": "https://gx.189.cn/accept/zfzq/pc?seqNo=5000003601100054",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-广西-24GX100188",
-      "name": "5G畅享399元套餐",
-      "area": "广西",
-      "price": 399.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "24GX100188",
-        "tariffStandard": "399元/月（标题提取，详见官方详情）",
-        "onlineDate": "2019-10-15 00:00:00",
-        "offlineDate": "2027-01-31 23:59:59",
-        "category": "套餐",
-        "sourceUrl": "https://gx.189.cn/accept/zfzq/pc?seqNo=5000003601100007",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-广西-24GX100193",
-      "name": "5G畅享599元套餐",
-      "area": "广西",
-      "price": 599.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "24GX100193",
-        "tariffStandard": "599元/月（标题提取，详见官方详情）",
-        "onlineDate": "2019-10-15 00:00:00",
-        "offlineDate": "2027-01-31 23:59:59",
-        "category": "套餐",
-        "sourceUrl": "https://gx.189.cn/accept/zfzq/pc?seqNo=5000003601100008",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-广西-24GX100139",
-      "name": "5G畅享999元套餐201910",
-      "area": "广西",
-      "price": 999.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "24GX100139",
-        "tariffStandard": "999元/月（标题提取，详见官方详情）",
-        "onlineDate": "2019-10-29 00:00:00",
-        "offlineDate": "2026-10-31 23:59:59",
-        "category": "套餐",
-        "sourceUrl": "https://gx.189.cn/accept/zfzq/pc?seqNo=5100000701100363",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。",
+        "applicableArea": "仅限专属编码派卡专属用户群体订购，用户办理时需配合核实身份。",
+        "salesChannel": "线下渠道",
+        "validity": "一次性",
+        "networkRequirement": "无",
+        "cancelMethod": "前往归属地电信营业厅或联系政企客户经理、拨打10000号咨询",
+        "liability": "无",
+        "overage": "无",
+        "verified": true
       }
     }
   ]

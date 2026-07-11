@@ -2,134 +2,18 @@
   "area": "四川",
   "plans": [
     {
-      "id": "telecom-四川-25SC100294",
-      "name": "天翼畅享19元套餐存100元 (30元ZF)",
-      "area": "四川",
-      "price": 19.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "25SC100294",
-        "tariffStandard": "19元/月（标题提取，详见官方详情）",
-        "onlineDate": "2021-05-25 00:00:00",
-        "offlineDate": "2041-05-24 00:00:00",
-        "category": "套餐",
-        "sourceUrl": "https://m.sc.189.cn/handlecloud-page/tariffZone/searchDL.html?offerNbr=8903014300010171",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-四川-25SC100302",
-      "name": "天翼畅享19元套餐存200元",
-      "area": "四川",
-      "price": 19.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "25SC100302",
-        "tariffStandard": "19元/月（标题提取，详见官方详情）",
-        "onlineDate": "2023-11-13 00:00:00",
-        "offlineDate": "2043-11-12 00:00:00",
-        "category": "套餐",
-        "sourceUrl": "https://m.sc.189.cn/handlecloud-page/tariffZone/searchDL.html?offerNbr=7620143000400289",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-四川-26SC100090",
-      "name": "一键关爱(乡村)月租型20元",
-      "area": "四川",
-      "price": 20.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "26SC100090",
-        "tariffStandard": "20元/月（标题提取，详见官方详情）",
-        "onlineDate": "2026-02-28 00:00:00",
-        "offlineDate": "2046-01-06 00:00:00",
-        "category": "套餐",
-        "sourceUrl": "https://m.sc.189.cn/handlecloud-page/tariffZone/searchDL.html?offerNbr=7620143000301680",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-四川-26SC100092",
-      "name": "一键关爱(乡村)月租型25元",
-      "area": "四川",
-      "price": 25.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "26SC100092",
-        "tariffStandard": "25元/月（标题提取，详见官方详情）",
-        "onlineDate": "2026-02-28 00:00:00",
-        "offlineDate": "2046-01-06 00:00:00",
-        "category": "套餐",
-        "sourceUrl": "https://m.sc.189.cn/handlecloud-page/tariffZone/searchDL.html?offerNbr=7620143000301682",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
       "id": "telecom-四川-24SC100284",
       "name": "星卡29元（2022版）",
       "area": "四川",
       "price": 29.0,
-      "data": 0,
+      "data": 30.0,
       "generalData": 0,
-      "directedData": 0,
+      "directedData": 30.0,
       "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
+      "sms": "以官方详情为准",
+      "broadband": "以官方详情为准",
+      "audience": "手机用户",
+      "contract": "2年，自订购生效之日起算。如双方在到期前30日内均未提出异议，自动延续2年，以此类推。",
       "source": "中国电信资费专区",
       "tags": [
         "套餐",
@@ -138,41 +22,20 @@
       ],
       "details": {
         "schemeId": "24SC100284",
-        "tariffStandard": "29元/月（标题提取，详见官方详情）",
+        "tariffStandard": "29元/月",
         "onlineDate": "2021-12-23 00:00:00",
         "offlineDate": "2041-12-22 00:00:00",
         "category": "套餐",
         "sourceUrl": "https://m.sc.189.cn/handlecloud-page/tariffZone/searchDL.html?offerNbr=5000003201100313",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-四川-24SC100243",
-      "name": "39元关爱套餐",
-      "area": "四川",
-      "price": 39.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "24SC100243",
-        "tariffStandard": "39元/月（标题提取，详见官方详情）",
-        "onlineDate": "2024-01-09 00:00:00",
-        "offlineDate": "2027-10-31 00:00:00",
-        "category": "套餐",
-        "sourceUrl": "https://m.sc.189.cn/handlecloud-page/tariffZone/searchDL.html?offerNbr=3143000201000053",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。",
+        "applicableArea": "手机用户",
+        "salesChannel": "线上及线下渠道",
+        "validity": "2年，自订购生效之日起算。如双方在到期前30日内均未提出异议，自动延续2年，以此类推。",
+        "networkRequirement": "无",
+        "cancelMethod": "如您需要变更、退订等，可在中国电信APP或线下营业厅办理",
+        "liability": "无",
+        "overage": "国内通话0.1元/分钟；国内流量按照5元/GB收取，前167MB按0.03元/MB收费，达到167MB时，额外赠送用户857MB流量（即5元/GB）；后续仍按上述规则收费（即每超出1GB按照5元/GB收费）；手机短彩信0.1元/条，其他按标准资费计收。",
+        "verified": true
       }
     },
     {
@@ -180,14 +43,14 @@
       "name": "星卡39元（2022版）",
       "area": "四川",
       "price": 39.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
+      "data": 35.0,
+      "generalData": 5.0,
+      "directedData": 30.0,
       "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
+      "sms": "以官方详情为准",
+      "broadband": "以官方详情为准",
+      "audience": "手机用户",
+      "contract": "2年，自订购生效之日起算。如双方在到期前30日内均未提出异议，自动延续2年，以此类推。",
       "source": "中国电信资费专区",
       "tags": [
         "套餐",
@@ -196,12 +59,20 @@
       ],
       "details": {
         "schemeId": "24SC100285",
-        "tariffStandard": "39元/月（标题提取，详见官方详情）",
+        "tariffStandard": "39元/月",
         "onlineDate": "2022-01-20 00:00:00",
         "offlineDate": "2042-01-19 00:00:00",
         "category": "套餐",
         "sourceUrl": "https://m.sc.189.cn/handlecloud-page/tariffZone/searchDL.html?offerNbr=5000003201100314",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。",
+        "applicableArea": "手机用户",
+        "salesChannel": "线上及线下渠道",
+        "validity": "2年，自订购生效之日起算。如双方在到期前30日内均未提出异议，自动延续2年，以此类推。",
+        "networkRequirement": "无",
+        "cancelMethod": "如您需要变更、退订等，可在中国电信APP或线下营业厅办理",
+        "liability": "无",
+        "overage": "国内通话0.1元/分钟；国内流量按照5元/GB收取，前167MB按0.03元/MB收费，达到167MB时，额外赠送用户857MB流量（即5元/GB）；后续仍按上述规则收费（即每超出1GB按照5元/GB收费）；手机短彩信0.1元/条，其他按标准资费计收。每张手机号卡当月套餐外国内流量费达到600元(不含流量包功能费)暂停上网服务，如果客户当月要继续使用，则需另行申请开通，开通后按套餐外资费收取，以此类推，每达到600元均会暂停服务；如果当月暂停上网服务后，没有申请开通，则次月初自动开通。",
+        "verified": true
       }
     },
     {
@@ -209,14 +80,14 @@
       "name": "星卡流量版（59元）",
       "area": "四川",
       "price": 59.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
+      "data": 50.0,
+      "generalData": 20.0,
+      "directedData": 30.0,
       "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
+      "sms": "以官方详情为准",
+      "broadband": "以官方详情为准",
+      "audience": "手机用户",
+      "contract": "2年，自订购生效之日起算。如双方在到期前30日内均未提出异议，自动延续2年，以此类推。",
       "source": "中国电信资费专区",
       "tags": [
         "套餐",
@@ -225,389 +96,20 @@
       ],
       "details": {
         "schemeId": "24SC100280",
-        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "tariffStandard": "59元/月",
         "onlineDate": "2021-11-11 00:00:00",
         "offlineDate": "2041-11-10 00:00:00",
         "category": "套餐",
         "sourceUrl": "https://m.sc.189.cn/handlecloud-page/tariffZone/searchDL.html?offerNbr=5000003201100312",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-四川-24SC100242",
-      "name": "69元关爱套餐",
-      "area": "四川",
-      "price": 69.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "24SC100242",
-        "tariffStandard": "69元/月（标题提取，详见官方详情）",
-        "onlineDate": "2024-01-09 00:00:00",
-        "offlineDate": "2027-10-31 00:00:00",
-        "category": "套餐",
-        "sourceUrl": "https://m.sc.189.cn/handlecloud-page/tariffZone/searchDL.html?offerNbr=3143000201000054",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-四川-25SC100310",
-      "name": "5G畅享99元套餐202112",
-      "area": "四川",
-      "price": 99.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "25SC100310",
-        "tariffStandard": "99元/月（标题提取，详见官方详情）",
-        "onlineDate": "2021-12-29 00:00:00",
-        "offlineDate": "2027-01-30 00:00:00",
-        "category": "套餐",
-        "sourceUrl": "https://m.sc.189.cn/handlecloud-page/tariffZone/searchDL.html?offerNbr=5000003601100041",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-四川-25SC100648",
-      "name": "2025星卡100元购160元话费促销活动",
-      "area": "四川",
-      "price": 100.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "25SC100648",
-        "tariffStandard": "100元/月（标题提取，详见官方详情）",
-        "onlineDate": "2025-10-29 00:00:00",
-        "offlineDate": "2045-08-21 00:00:00",
-        "category": "套餐",
-        "sourceUrl": "https://m.sc.189.cn/handlecloud-page/tariffZone/searchDL.html?offerNbr=8510014300010156",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-四川-25SC100292",
-      "name": "天翼畅享39及以上套餐存100元 (60元ZF)",
-      "area": "四川",
-      "price": 100.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "25SC100292",
-        "tariffStandard": "100元/月（标题提取，详见官方详情）",
-        "onlineDate": "2020-02-12 00:00:00",
-        "offlineDate": "2040-02-11 00:00:00",
-        "category": "套餐",
-        "sourceUrl": "https://m.sc.189.cn/handlecloud-page/tariffZone/searchDL.html?offerNbr=8903014300050038",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-四川-25SC100301",
-      "name": "星卡套餐存100元 (50元ZF)",
-      "area": "四川",
-      "price": 100.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "25SC100301",
-        "tariffStandard": "100元/月（标题提取，详见官方详情）",
-        "onlineDate": "2023-03-08 00:00:00",
-        "offlineDate": "2043-03-07 00:00:00",
-        "category": "套餐",
-        "sourceUrl": "https://m.sc.189.cn/handlecloud-page/tariffZone/searchDL.html?offerNbr=8510014300010098",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-四川-25SC100078",
-      "name": "5G畅享169元套餐201910",
-      "area": "四川",
-      "price": 169.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "25SC100078",
-        "tariffStandard": "169元/月（标题提取，详见官方详情）",
-        "onlineDate": "2019-10-15 00:00:00",
-        "offlineDate": "2039-10-14 00:00:00",
-        "category": "套餐",
-        "sourceUrl": "https://m.sc.189.cn/handlecloud-page/tariffZone/searchDL.html?offerNbr=5000003601100003",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-四川-25SC100679",
-      "name": "5G-A 199元套餐202509",
-      "area": "四川",
-      "price": 199.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "25SC100679",
-        "tariffStandard": "199元/月（标题提取，详见官方详情）",
-        "onlineDate": "2025-09-22 00:00:00",
-        "offlineDate": "2027-09-30 00:00:00",
-        "category": "套餐",
-        "sourceUrl": "https://m.sc.189.cn/handlecloud-page/tariffZone/searchDL.html?offerNbr=5000003601100058",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-四川-25SC100315",
-      "name": "欢心卡套餐话费200元",
-      "area": "四川",
-      "price": 200.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "25SC100315",
-        "tariffStandard": "200元/月（标题提取，详见官方详情）",
-        "onlineDate": "2024-04-18 00:00:00",
-        "offlineDate": "2044-04-17 00:00:00",
-        "category": "套餐",
-        "sourceUrl": "https://m.sc.189.cn/handlecloud-page/tariffZone/searchDL.html?offerNbr=8517014300010069",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-四川-25SC100678",
-      "name": "5G-A 239元套餐202509",
-      "area": "四川",
-      "price": 239.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "25SC100678",
-        "tariffStandard": "239元/月（标题提取，详见官方详情）",
-        "onlineDate": "2025-09-22 00:00:00",
-        "offlineDate": "2027-09-30 00:00:00",
-        "category": "套餐",
-        "sourceUrl": "https://m.sc.189.cn/handlecloud-page/tariffZone/searchDL.html?offerNbr=5000003601100060",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-四川-25SC100082",
-      "name": "5G畅享239元套餐201910",
-      "area": "四川",
-      "price": 239.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "25SC100082",
-        "tariffStandard": "239元/月（标题提取，详见官方详情）",
-        "onlineDate": "2019-10-15 00:00:00",
-        "offlineDate": "2027-01-30 00:00:00",
-        "category": "套餐",
-        "sourceUrl": "https://m.sc.189.cn/handlecloud-page/tariffZone/searchDL.html?offerNbr=5000003601100005",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-四川-25SC100460",
-      "name": "5G-A 299元套餐202503",
-      "area": "四川",
-      "price": 299.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "25SC100460",
-        "tariffStandard": "299元/月（标题提取，详见官方详情）",
-        "onlineDate": "2025-04-21 00:00:00",
-        "offlineDate": "2027-04-24 00:00:00",
-        "category": "套餐",
-        "sourceUrl": "https://m.sc.189.cn/handlecloud-page/tariffZone/searchDL.html?offerNbr=5000003601100053",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-四川-25SC100461",
-      "name": "5G-A 399元套餐202503",
-      "area": "四川",
-      "price": 399.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "25SC100461",
-        "tariffStandard": "399元/月（标题提取，详见官方详情）",
-        "onlineDate": "2025-04-21 00:00:00",
-        "offlineDate": "2027-04-24 00:00:00",
-        "category": "套餐",
-        "sourceUrl": "https://m.sc.189.cn/handlecloud-page/tariffZone/searchDL.html?offerNbr=5000003601100054",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
-      }
-    },
-    {
-      "id": "telecom-四川-25SC100088",
-      "name": "5G畅享599元套餐201910",
-      "area": "四川",
-      "price": 599.0,
-      "data": 0,
-      "generalData": 0,
-      "directedData": 0,
-      "voice": 0,
-      "sms": "详见官方详情",
-      "broadband": "详见官方详情",
-      "audience": "以当地电信办理规则为准",
-      "contract": "详见官方详情",
-      "source": "中国电信资费专区",
-      "tags": [
-        "套餐",
-        "移网",
-        "本省资费"
-      ],
-      "details": {
-        "schemeId": "25SC100088",
-        "tariffStandard": "599元/月（标题提取，详见官方详情）",
-        "onlineDate": "2019-10-15 00:00:00",
-        "offlineDate": "2027-01-30 00:00:00",
-        "category": "套餐",
-        "sourceUrl": "https://m.sc.189.cn/handlecloud-page/tariffZone/searchDL.html?offerNbr=5000003601100008",
-        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。",
+        "applicableArea": "手机用户",
+        "salesChannel": "线上渠道",
+        "validity": "2年，自订购生效之日起算。如双方在到期前30日内均未提出异议，自动延续2年，以此类推。",
+        "networkRequirement": "无",
+        "cancelMethod": "如您需要变更、退订等，可在中国电信APP或线下营业厅办理",
+        "liability": "无",
+        "overage": "国内短彩信0.1元/条，国内通话0.1元/分钟，国内流量按照5元/GB收取（前167MB按0.03元/MB收费，达到167MB时，额外赠送用户857MB流量），其他按标准资费计收。每张手机号卡当月套餐外国内流量费达到600元(不含流量包功能费)暂停上网服务，如果客户当月要继续使用，则需另行申请开通，开通后按套餐外资费收取，以此类推，每达到600元均会暂停服务；如果当月暂停上网服务后，没有申请开通，则次月初自动开通。",
+        "verified": true
       }
     }
   ]

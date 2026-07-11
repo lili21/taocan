@@ -7,8 +7,10 @@ import os
 import re
 import sys
 import threading
+import time
 import urllib.parse
 import urllib.request
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 import websocket
 
@@ -36,7 +38,7 @@ EXCLUDE = re.compile(r"宽带|融合|电视|固话|企业|ICT|云业务|云看�
 
 class CDP:
     def __init__(self, ws_url):
-        self.ws = websocket.create_connection(ws_url, max_size=None)
+        self.ws = websocket.create_connection(ws_url, max_size=None, timeout=10)
         self.mid = 0
         self.lock = threading.Lock()
 
@@ -60,10 +62,29 @@ class CDP:
 
 def connect():
     targets = json.load(urllib.request.urlopen(f"http://127.0.0.1:{CDP_PORT}/json"))
-    target = next((item for item in targets if item.get("type") == "page" and "189.cn" in item.get("url", "")), None)
+    target = next((
+        item for item in targets
+        if item.get("type") == "page" and item.get("url", "").startswith("https://www.189.cn/jtzfzq")
+    ), None)
     if not target:
         raise RuntimeError(f"端口 {CDP_PORT} 没有已打开的中国电信资费专区页面")
     return CDP(target["webSocketDebuggerUrl"])
+
+
+def open_tab(url):
+    request = urllib.request.Request(
+        f"http://127.0.0.1:{CDP_PORT}/json/new?{urllib.parse.quote(url, safe=':/?=&')}",
+        method="PUT",
+    )
+    target = json.load(urllib.request.urlopen(request, timeout=10))
+    return CDP(target["webSocketDebuggerUrl"]), target["id"]
+
+
+def close_tab(target_id):
+    try:
+        urllib.request.urlopen(f"http://127.0.0.1:{CDP_PORT}/json/close/{target_id}").read()
+    except Exception:
+        pass
 
 
 def api(cdp, path, params):
@@ -108,6 +129,216 @@ def metric(value, unit):
 
 def data_metric(value):
     return metric(value, r"(?:GB|G(?=流量))")
+
+
+def labeled(text, label):
+    match = re.search(rf"{label}\s*[：:]\s*\n?([^\n]+)", text)
+    return match.group(1).strip() if match else ""
+
+
+def traffic_gb(value):
+    match = re.search(r"(\d+(?:\.\d+)?)\s*(GB|G|MB|M)\b", value or "", re.I)
+    if not match:
+        return 0
+    number = float(match.group(1))
+    if match.group(2).upper() in ("MB", "M"):
+        number /= 1024
+    return round(number, 2)
+
+
+def service_values(text):
+    match = re.search(r"服务内容\s*\n(.*?)(?:\n超出资费|\n其他服务内容|\n其他事项|$)", text, re.S)
+    if not match:
+        return None
+    section = match.group(1).strip()
+    lines = [line.strip() for line in section.splitlines() if line.strip()]
+    for index, line in enumerate(lines[:-1]):
+        if "通用流量" not in line or "定向流量" not in line:
+            continue
+        headers = re.split(r"\s+", line)
+        values = re.split(r"\s+", lines[index + 1])
+        if len(values) < len(headers):
+            continue
+        row = dict(zip(headers, values))
+        voice_text = row.get("语音", "")
+        voice = metric(voice_text, "分钟")
+        if not voice:
+            voice = first_number(r"(\d+(?:\.\d+)?)", voice_text)
+        return {
+            "general": traffic_gb(row.get("通用流量")),
+            "directed": traffic_gb(row.get("定向流量")),
+            "voice": voice,
+            "sms": row.get("短信", ""),
+            "broadband": row.get("带宽", ""),
+        }
+    general = re.search(r"通用流量\s*[：:]?\s*(\d+(?:\.\d+)?\s*(?:GB|G|MB|M))", section, re.I)
+    directed = re.search(r"定向流量\s*[：:]?\s*(\d+(?:\.\d+)?\s*(?:GB|G|MB|M))", section, re.I)
+    voice = re.search(r"语音\s*[：:]?\s*(\d+(?:\.\d+)?)\s*分钟", section)
+    if general or directed or voice or "通用流量" in section:
+        return {
+            "general": traffic_gb(general.group(1) if general else ""),
+            "directed": traffic_gb(directed.group(1) if directed else ""),
+            "voice": float(voice.group(1)) if voice else 0,
+            "sms": "",
+            "broadband": "",
+        }
+    return None
+
+
+def enrich_from_text(plan, body):
+    services = service_values(body)
+    scheme_id = plan.get("details", {}).get("schemeId", "")
+    if not services or (scheme_id and scheme_id not in body):
+        return None
+    general = services["general"]
+    directed = services["directed"]
+    plan["generalData"] = general
+    plan["directedData"] = directed
+    plan["data"] = round(general + directed, 2)
+    plan["voice"] = services["voice"]
+    if not plan["data"] and not plan["voice"] and not re.search(r"保号|无忧", plan["name"]):
+        return None
+    plan["sms"] = services["sms"] or "以官方详情为准"
+    plan["broadband"] = services["broadband"] or "以官方详情为准"
+    plan["audience"] = labeled(body, "适用范围") or plan["audience"]
+    plan["contract"] = labeled(body, "有效期限") or plan["contract"]
+    details = plan["details"]
+    details.update({
+        "tariffStandard": labeled(body, "资费标准") or details.get("tariffStandard", ""),
+        "applicableArea": plan["audience"],
+        "salesChannel": labeled(body, "销售渠道"),
+        "validity": plan["contract"],
+        "networkRequirement": labeled(body, "在网要求"),
+        "cancelMethod": labeled(body, "退订方式"),
+        "liability": labeled(body, "违约责任"),
+        "overage": labeled(body, "超出资费"),
+        "verified": True,
+    })
+    return plan
+
+
+def fetch_detail(plan):
+    if urllib.parse.urlparse(plan["details"]["sourceUrl"]).hostname == "gd.189.cn":
+        try:
+            report_no = plan["details"]["schemeId"]
+            url = f"https://gd.189.cn/gdzfzq/detailzf/{urllib.parse.quote(report_no)}.json"
+            payload = json.load(urllib.request.urlopen(url, timeout=15))
+            item = payload.get("r", {}).get("r01") or {}
+            if str(item.get("r0107")) != "1":
+                return None
+            general = traffic_gb(f"{item.get('r0119', '')}{item.get('r0120', '')}")
+            directed = traffic_gb(f"{item.get('r0121', '')}{item.get('r0122', '')}")
+            plan.update({
+                "generalData": general,
+                "directedData": directed,
+                "data": round(general + directed, 2),
+                "voice": float(item.get("r0123") or 0),
+                "sms": item.get("r0124") or "以官方详情为准",
+                "broadband": item.get("r0125") or "以官方详情为准",
+                "audience": item.get("r0110") or plan["audience"],
+                "contract": item.get("r0114") or plan["contract"],
+            })
+            if not plan["data"] and not plan["voice"] and not re.search(r"保号|无忧", plan["name"]):
+                return None
+            plan["details"].update({
+                "tariffStandard": f"{item.get('r0108', '')}{item.get('r0109', '')}",
+                "applicableArea": plan["audience"],
+                "salesChannel": item.get("r0111") or "",
+                "validity": plan["contract"],
+                "networkRequirement": item.get("r0116") or "",
+                "cancelMethod": item.get("r0115") or "",
+                "liability": item.get("r0117") or "",
+                "overage": item.get("r0133") or "",
+                "services": item.get("r0127") or "",
+                "notes": item.get("r0130") or "",
+                "verified": True,
+            })
+            return plan
+        except Exception:
+            return None
+    cdp, target_id = open_tab(plan["details"]["sourceUrl"])
+    try:
+        body = ""
+        for _ in range(30):
+            time.sleep(0.5)
+            body = cdp.evaluate("document.body ? document.body.innerText : ''") or ""
+            if len(body) > 200 and (plan["details"]["schemeId"] in body or plan["name"] in body):
+                break
+        return enrich_from_text(plan, body)
+    except Exception:
+        return None
+    finally:
+        close_tab(target_id)
+
+
+def enrich_details(provinces):
+    force = "--force" in sys.argv
+    for province in provinces:
+        path = os.path.join(OUTPUT_DIR, f"{province}.json")
+        with open(path, encoding="utf-8") as source:
+            payload = json.load(source)
+        pending = [plan for plan in payload["plans"] if force or not plan.get("details", {}).get("verified")]
+        verified = [] if force else [
+            plan for plan in payload["plans"]
+            if plan.get("details", {}).get("verified")
+            and (plan.get("data") or plan.get("voice") or re.search(r"保号|无忧", plan["name"]))
+        ]
+        with ThreadPoolExecutor(max_workers=6) as executor:
+            futures = [executor.submit(fetch_detail, plan) for plan in pending]
+            for future in as_completed(futures):
+                plan = future.result()
+                if plan:
+                    verified.append(plan)
+        verified.sort(key=lambda plan: (plan["price"], plan["name"]))
+        write_json(path, {"area": province, "plans": verified})
+        print(f"{province}: 详情核验 {len(verified)}/{len(payload['plans'])}")
+
+
+def merge_verified(source_dir):
+    for province in PROVINCES:
+        current_path = os.path.join(OUTPUT_DIR, f"{province}.json")
+        saved_path = os.path.join(source_dir, f"{province}.json")
+        with open(current_path, encoding="utf-8") as source:
+            current = json.load(source)
+        with open(saved_path, encoding="utf-8") as source:
+            saved = json.load(source)
+        saved_by_id = {plan["id"]: plan for plan in saved["plans"] if plan.get("details", {}).get("verified")}
+        current["plans"] = [saved_by_id.get(plan["id"], plan) for plan in current["plans"]]
+        write_json(current_path, current)
+
+
+def prune_unverified():
+    for province in PROVINCES:
+        path = os.path.join(OUTPUT_DIR, f"{province}.json")
+        with open(path, encoding="utf-8") as source:
+            payload = json.load(source)
+        payload["plans"] = [
+            plan for plan in payload["plans"]
+            if plan.get("details", {}).get("verified")
+            and (plan.get("data") or plan.get("voice") or re.search(r"保号|无忧", plan["name"]))
+        ]
+        write_json(path, payload)
+
+
+def rebuild_index():
+    counts = {}
+    for province in PROVINCES:
+        path = os.path.join(OUTPUT_DIR, f"{province}.json")
+        with open(path, encoding="utf-8") as source:
+            counts[province] = len(json.load(source)["plans"])
+    write_json(os.path.join(OUTPUT_DIR, "national.json"), {"area": "全国", "plans": []})
+    available = [province for province in PROVINCES if counts[province] > 0]
+    write_json(os.path.join(OUTPUT_DIR, "index.json"), {
+        "sourceUrl": BASE_URL,
+        "sourceName": "中国电信资费专区",
+        "updatedAt": "2026-07-11",
+        "planCount": sum(counts.values()),
+        "nationalPlanCount": 0,
+        "provincePlanCounts": counts,
+        "provinces": available,
+        "unavailableProvinces": [province for province in PROVINCES if counts[province] == 0],
+        "methodology": "逐条读取中国电信各省官方资费详情页；仅展示已核验服务内容的记录。中国电信未在集团专区公示全国基础套餐，因此按省展示。",
+    })
 
 
 def normalize_search(item, province):
@@ -186,7 +417,39 @@ def write_json(path, value):
 
 
 def main():
+    if "--probe-url" in sys.argv:
+        index = sys.argv.index("--probe-url")
+        cdp, _ = open_tab(sys.argv[index + 1])
+        time.sleep(8)
+        print(cdp.evaluate("JSON.stringify({url:location.href,title:document.title,text:document.body.innerText.slice(0,12000)})"))
+        return
+    if "--enrich-details" in sys.argv:
+        requested = [item for item in sys.argv[sys.argv.index("--enrich-details") + 1:] if not item.startswith("--")]
+        provinces = requested or list(PROVINCES)
+        enrich_details(provinces)
+        rebuild_index()
+        return
+    if "--merge-verified" in sys.argv:
+        merge_verified(sys.argv[sys.argv.index("--merge-verified") + 1])
+        rebuild_index()
+        return
+    if "--prune-unverified" in sys.argv:
+        prune_unverified()
+        rebuild_index()
+        return
     cdp = connect()
+    if "--probe-catalogs" in sys.argv:
+        for province, code in PROVINCES.items():
+            catalog = api(cdp, "tarifZone12List.do", {"provCode": code}) or []
+            print(province, json.dumps(catalog, ensure_ascii=False)[:800])
+        return
+    if "--probe-titles" in sys.argv:
+        for province, code in PROVINCES.items():
+            items = api(cdp, "tarifZone3Title.do", {
+                "provCode": code, "lable1Id": "671af00f114dd43fc66375b9",
+            }) or []
+            print(province, len(items), json.dumps(items[:1], ensure_ascii=False)[:1600])
+        return
     national_items = api(cdp, "tarifZone3Title.do", {
         "provCode": "1000000037", "lable1Id": "671af00f114dd43fc66375b9",
     }) or []

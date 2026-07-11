@@ -122,6 +122,7 @@ function App() {
   const [provincePlans, setProvincePlans] = useState([]);
   const [metadata, setMetadata] = useState(null);
   const [loading, setLoading] = useState(true);
+  const [hasLoaded, setHasLoaded] = useState(false);
   const [provinceLoading, setProvinceLoading] = useState(false);
 
   const telecomAreas = useMemo(
@@ -173,7 +174,10 @@ function App() {
       } catch {
         if (!cancelled) setNationalPlans([]);
       } finally {
-        if (!cancelled) setLoading(false);
+        if (!cancelled) {
+          setLoading(false);
+          setHasLoaded(true);
+        }
       }
     })();
     return () => {
@@ -288,7 +292,7 @@ function App() {
     }
   };
 
-  if (loading) {
+  if (loading && !hasLoaded) {
     return (
       <main className={theme}>
         <div className="flex min-h-screen items-center justify-center bg-background text-foreground">
@@ -380,6 +384,7 @@ function App() {
                   <FilterGroup
                     label="运营商"
                     onChange={(operator) => {
+                      setLoading(true);
                       setSelectedOperator(operator);
                       if (operator === 'telecom') setScopeFilter('province');
                     }}
@@ -436,12 +441,12 @@ function App() {
                     title={metadata ? `已抓取 ${metadata.planCount} 条套餐，接口失败 ${metadata.failureCount ?? 0} 条` : ''}
                   >
                     <ListFilter className="h-4 w-4" />
-                    {provinceLoading ? '加载中' : `${visibleTariffs.length} 条`}
+                    {loading || provinceLoading ? '加载中' : `${visibleTariffs.length} 条`}
                   </div>
                 </CardContent>
               </Card>
 
-              <Card className="overflow-hidden bg-card">
+              <Card aria-busy={loading || provinceLoading} className="relative overflow-hidden bg-card">
                 <CardHeader className="flex-row items-center justify-between gap-3 border-b border-border">
                   <div>
                     <p className="text-xs font-medium text-primary">
@@ -451,7 +456,15 @@ function App() {
                   </div>
                   <Badge>{visibleTariffs.length} 条资费</Badge>
                 </CardHeader>
-                <div className="grid gap-3 p-3 lg:hidden">
+                {(loading || provinceLoading) && (
+                  <div className="absolute inset-x-0 bottom-0 top-[73px] z-10 flex items-center justify-center bg-card/80 backdrop-blur-[1px]">
+                    <div className="flex items-center gap-2 text-sm text-muted-foreground">
+                      <Loader2 className="h-4 w-4 animate-spin text-primary" />
+                      正在加载资费
+                    </div>
+                  </div>
+                )}
+                <div className={`grid gap-3 p-3 transition-opacity lg:hidden ${loading || provinceLoading ? 'opacity-40' : ''}`}>
                   {visibleTariffs.slice(0, visibleCount).map((plan) => (
                     <article className="rounded-lg border border-border bg-background p-4" key={plan.id}>
                       <div className="flex items-start justify-between gap-3">
@@ -493,7 +506,7 @@ function App() {
                   )}
                 </div>
 
-                <div className="hidden lg:block">
+                <div className={`hidden transition-opacity lg:block ${loading || provinceLoading ? 'opacity-40' : ''}`}>
                   <div
                     className="grid min-w-[980px] border-b border-border px-5 py-3 text-left text-xs text-muted-foreground"
                     style={{ gridTemplateColumns: tableGridTemplate }}

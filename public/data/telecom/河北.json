@@ -1,0 +1,2006 @@
+{
+  "area": "河北",
+  "plans": [
+    {
+      "id": "telecom-河北-24HE101855",
+      "name": "家家乐-9元套餐-NGN【FTTH】（201811）",
+      "area": "河北",
+      "price": 9.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HE101855",
+        "tariffStandard": "9元/月（标题提取，详见官方详情）",
+        "onlineDate": "2020-01-07 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=24HE101855",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-24HE101871",
+      "name": "无忧卡10元套餐",
+      "area": "河北",
+      "price": 10.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HE101871",
+        "tariffStandard": "10元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-06-25 00:00:00",
+        "offlineDate": "2027-07-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=24HE101871",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-24HE101867",
+      "name": "天翼云盒20元套餐【单品】",
+      "area": "河北",
+      "price": 20.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HE101867",
+        "tariffStandard": "20元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-02-02 00:00:00",
+        "offlineDate": "2026-11-30 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=24HE101867",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-24HE101874",
+      "name": "星卡29元（2022版）",
+      "area": "河北",
+      "price": 29.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HE101874",
+        "tariffStandard": "29元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-12-23 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=24HE101874",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-24HE101875",
+      "name": "星卡39元（2022版）",
+      "area": "河北",
+      "price": 39.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HE101875",
+        "tariffStandard": "39元/月（标题提取，详见官方详情）",
+        "onlineDate": "2022-01-20 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=24HE101875",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-24HE102387",
+      "name": "5G畅享59元套餐",
+      "area": "河北",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HE102387",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-11-01 00:00:00",
+        "offlineDate": "2026-11-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=24HE102387",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-25HE100365",
+      "name": "促销-59元档套餐优惠至39元（次月生效）",
+      "area": "河北",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HE100365",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-18 00:00:00",
+        "offlineDate": "2027-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=25HE100365",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-25HE100364",
+      "name": "促销-59元档套餐优惠至39元（立即生效）",
+      "area": "河北",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HE100364",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-18 00:00:00",
+        "offlineDate": "2027-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=25HE100364",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-25HE100279",
+      "name": "促销-套餐优惠（59元套餐优惠至29元）",
+      "area": "河北",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HE100279",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-11-14 00:00:00",
+        "offlineDate": "2028-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=25HE100279",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-25HE100317",
+      "name": "促销-套餐优惠（59元套餐优惠至29元）（立即生效）",
+      "area": "河北",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HE100317",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-11-30 00:00:00",
+        "offlineDate": "2027-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=25HE100317",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-25HE100324",
+      "name": "促销-套餐优惠（59元套餐优惠至41元）（立即生效）",
+      "area": "河北",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HE100324",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-11-30 00:00:00",
+        "offlineDate": "2027-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=25HE100324",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-25HE100322",
+      "name": "促销-套餐优惠（59元套餐优惠至44元）（次月生效）",
+      "area": "河北",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HE100322",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-11-30 00:00:00",
+        "offlineDate": "2027-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=25HE100322",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-24HE101876",
+      "name": "星卡流量版（59元）",
+      "area": "河北",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HE101876",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2020-11-07 00:00:00",
+        "offlineDate": "2027-11-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=24HE101876",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-24HE101834",
+      "name": "5G畅享79元套餐",
+      "area": "河北",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HE101834",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-11-01 00:00:00",
+        "offlineDate": "2026-11-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=24HE101834",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-25HE100366",
+      "name": "促销-79元档套餐优惠至49元（次月生效）",
+      "area": "河北",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HE100366",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-18 00:00:00",
+        "offlineDate": "2027-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=25HE100366",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-25HE100373",
+      "name": "促销-79元档套餐优惠至49元（立即生效）",
+      "area": "河北",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HE100373",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-18 00:00:00",
+        "offlineDate": "2027-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=25HE100373",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-25HE100274",
+      "name": "促销-套餐优惠（5G畅享79元套餐月费优惠至69元）",
+      "area": "河北",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HE100274",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-11-01 00:00:00",
+        "offlineDate": "2026-11-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=25HE100274",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-25HE100278",
+      "name": "促销-套餐优惠（79元套餐优惠至39元）",
+      "area": "河北",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HE100278",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-11-14 00:00:00",
+        "offlineDate": "2028-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=25HE100278",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-25HE100333",
+      "name": "促销-套餐优惠（79元套餐优惠至55元）（次月生效）",
+      "area": "河北",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HE100333",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-11-30 00:00:00",
+        "offlineDate": "2027-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=25HE100333",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-25HE100336",
+      "name": "促销-套餐优惠（79元套餐优惠至55元）（立即生效）",
+      "area": "河北",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HE100336",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-11-30 00:00:00",
+        "offlineDate": "2027-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=25HE100336",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-25HE100315",
+      "name": "促销-套餐优惠（79元套餐优惠至59元）（立即生效）",
+      "area": "河北",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HE100315",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-11-30 00:00:00",
+        "offlineDate": "2027-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=25HE100315",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-25HE100370",
+      "name": "校园-79元档套餐优惠至29元（次月生效）",
+      "area": "河北",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HE100370",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-18 00:00:00",
+        "offlineDate": "2028-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=25HE100370",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-25HE100374",
+      "name": "校园-79元档套餐优惠至29元（立即生效）",
+      "area": "河北",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HE100374",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-18 00:00:00",
+        "offlineDate": "2028-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=25HE100374",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-25HE100368",
+      "name": "校园-79元档套餐优惠至39元（次月生效）",
+      "area": "河北",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HE100368",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-18 00:00:00",
+        "offlineDate": "2028-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=25HE100368",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-25HE100375",
+      "name": "校园-79元档套餐优惠至39元（立即生效）",
+      "area": "河北",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HE100375",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-18 00:00:00",
+        "offlineDate": "2028-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=25HE100375",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-25HE100367",
+      "name": "校园-79元档套餐优惠至49元（次月生效）",
+      "area": "河北",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HE100367",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-18 00:00:00",
+        "offlineDate": "2028-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=25HE100367",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-25HE100376",
+      "name": "校园-79元档套餐优惠至49元（立即生效）",
+      "area": "河北",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HE100376",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-18 00:00:00",
+        "offlineDate": "2028-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=25HE100376",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-26HE100107",
+      "name": "校园-79元档套餐优惠至59元（次月生效）",
+      "area": "河北",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26HE100107",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-01-01 00:00:00",
+        "offlineDate": "2028-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=26HE100107",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-26HE100108",
+      "name": "校园-79元档套餐优惠至59元（立即生效）",
+      "area": "河北",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26HE100108",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-01-01 00:00:00",
+        "offlineDate": "2028-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=26HE100108",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-24HE101853",
+      "name": "电信畅享79元10G套餐(升级版)",
+      "area": "河北",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HE101853",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2020-11-07 00:00:00",
+        "offlineDate": "2027-11-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=24HE101853",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-24HE101835",
+      "name": "5G畅享99元套餐",
+      "area": "河北",
+      "price": 99.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HE101835",
+        "tariffStandard": "99元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-12-29 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=24HE101835",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-25HE100276",
+      "name": "促销-套餐优惠（5G畅享99元套餐月费优惠至89元）",
+      "area": "河北",
+      "price": 99.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HE100276",
+        "tariffStandard": "99元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-11-01 00:00:00",
+        "offlineDate": "2026-11-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=25HE100276",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-25HE100282",
+      "name": "促销-套餐优惠（99元套餐优惠至49元）",
+      "area": "河北",
+      "price": 99.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HE100282",
+        "tariffStandard": "99元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-11-14 00:00:00",
+        "offlineDate": "2028-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=25HE100282",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-25HE100305",
+      "name": "促销-套餐优惠（99元套餐优惠至49元）（次月生效）",
+      "area": "河北",
+      "price": 99.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HE100305",
+        "tariffStandard": "99元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-11-30 00:00:00",
+        "offlineDate": "2027-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=25HE100305",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-25HE100308",
+      "name": "促销-套餐优惠（99元套餐优惠至49元）（立即生效）",
+      "area": "河北",
+      "price": 99.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HE100308",
+        "tariffStandard": "99元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-11-30 00:00:00",
+        "offlineDate": "2027-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=25HE100308",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-25HE100310",
+      "name": "促销-套餐优惠（99元套餐优惠至69元）（次月生效）",
+      "area": "河北",
+      "price": 99.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HE100310",
+        "tariffStandard": "99元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-11-30 00:00:00",
+        "offlineDate": "2027-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=25HE100310",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-25HE100306",
+      "name": "促销-套餐优惠（99元套餐优惠至69元）（立即生效）",
+      "area": "河北",
+      "price": 99.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HE100306",
+        "tariffStandard": "99元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-11-30 00:00:00",
+        "offlineDate": "2027-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=25HE100306",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-25HE100304",
+      "name": "促销-套餐优惠（99元套餐优惠至74元）（立即生效）",
+      "area": "河北",
+      "price": 99.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HE100304",
+        "tariffStandard": "99元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-11-30 00:00:00",
+        "offlineDate": "2027-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=25HE100304",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-24HE102380",
+      "name": "5G畅享129元套餐",
+      "area": "河北",
+      "price": 129.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HE102380",
+        "tariffStandard": "129元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-31 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=24HE102380",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-25HE100280",
+      "name": "促销-套餐优惠（129元套餐优惠至59元）",
+      "area": "河北",
+      "price": 129.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HE100280",
+        "tariffStandard": "129元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-11-14 00:00:00",
+        "offlineDate": "2028-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=25HE100280",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-25HE100323",
+      "name": "促销-套餐优惠（129元套餐优惠至64元）（次月生效）",
+      "area": "河北",
+      "price": 129.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HE100323",
+        "tariffStandard": "129元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-11-30 00:00:00",
+        "offlineDate": "2027-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=25HE100323",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-25HE100325",
+      "name": "促销-套餐优惠（129元套餐优惠至64元）（立即生效）",
+      "area": "河北",
+      "price": 129.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HE100325",
+        "tariffStandard": "129元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-11-30 00:00:00",
+        "offlineDate": "2027-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=25HE100325",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-25HE100331",
+      "name": "促销-套餐优惠（129元套餐优惠至90元）（立即生效）",
+      "area": "河北",
+      "price": 129.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HE100331",
+        "tariffStandard": "129元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-11-30 00:00:00",
+        "offlineDate": "2027-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=25HE100331",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-25HE100330",
+      "name": "促销-套餐优惠（129元套餐优惠至96元）（次月生效）",
+      "area": "河北",
+      "price": 129.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HE100330",
+        "tariffStandard": "129元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-11-30 00:00:00",
+        "offlineDate": "2027-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=25HE100330",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-25HE100328",
+      "name": "促销-套餐优惠（129元套餐优惠至96元）（立即生效）",
+      "area": "河北",
+      "price": 129.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HE100328",
+        "tariffStandard": "129元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-11-30 00:00:00",
+        "offlineDate": "2027-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=25HE100328",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-24HE100119",
+      "name": "智企领航AI套餐129元",
+      "area": "河北",
+      "price": 129.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HE100119",
+        "tariffStandard": "129元/月（标题提取，详见官方详情）",
+        "onlineDate": "2022-03-24 00:00:00",
+        "offlineDate": "2028-05-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=24HE100119",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-24HE102381",
+      "name": "5G畅享169元套餐",
+      "area": "河北",
+      "price": 169.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HE102381",
+        "tariffStandard": "169元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-31 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=24HE102381",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-25HE100318",
+      "name": "促销-套餐优惠（169元套餐优惠至118元）（次月生效）",
+      "area": "河北",
+      "price": 169.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HE100318",
+        "tariffStandard": "169元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-11-30 00:00:00",
+        "offlineDate": "2027-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=25HE100318",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-25HE100309",
+      "name": "促销-套餐优惠（169元套餐优惠至118元）（立即生效）",
+      "area": "河北",
+      "price": 169.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HE100309",
+        "tariffStandard": "169元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-11-30 00:00:00",
+        "offlineDate": "2027-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=25HE100309",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-25HE100314",
+      "name": "促销-套餐优惠（169元套餐优惠至126元）（次月生效）",
+      "area": "河北",
+      "price": 169.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HE100314",
+        "tariffStandard": "169元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-11-30 00:00:00",
+        "offlineDate": "2027-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=25HE100314",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-25HE100307",
+      "name": "促销-套餐优惠（169元套餐优惠至126元）（立即生效）",
+      "area": "河北",
+      "price": 169.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HE100307",
+        "tariffStandard": "169元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-11-30 00:00:00",
+        "offlineDate": "2027-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=25HE100307",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-25HE100283",
+      "name": "促销-套餐优惠（169元套餐优惠至79元）",
+      "area": "河北",
+      "price": 169.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HE100283",
+        "tariffStandard": "169元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-11-14 00:00:00",
+        "offlineDate": "2028-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=25HE100283",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-25HE100316",
+      "name": "促销-套餐优惠（169元套餐优惠至84元）（立即生效）",
+      "area": "河北",
+      "price": 169.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HE100316",
+        "tariffStandard": "169元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-11-30 00:00:00",
+        "offlineDate": "2027-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=25HE100316",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-24HE102382",
+      "name": "5G畅享199元套餐",
+      "area": "河北",
+      "price": 199.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HE102382",
+        "tariffStandard": "199元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-31 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=24HE102382",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-25HE100299",
+      "name": "促销-套餐优惠（199元套餐优惠至139元）（次月生效）",
+      "area": "河北",
+      "price": 199.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HE100299",
+        "tariffStandard": "199元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-11-30 00:00:00",
+        "offlineDate": "2027-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=25HE100299",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-25HE100301",
+      "name": "促销-套餐优惠（199元套餐优惠至99元）（立即生效）",
+      "area": "河北",
+      "price": 199.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HE100301",
+        "tariffStandard": "199元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-11-30 00:00:00",
+        "offlineDate": "2027-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=25HE100301",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-24HE100120",
+      "name": "智企领航AI套餐199元",
+      "area": "河北",
+      "price": 199.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HE100120",
+        "tariffStandard": "199元/月（标题提取，详见官方详情）",
+        "onlineDate": "2022-03-24 00:00:00",
+        "offlineDate": "2028-05-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=24HE100120",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-24HE102383",
+      "name": "5G畅享239元套餐",
+      "area": "河北",
+      "price": 239.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HE102383",
+        "tariffStandard": "239元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-31 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=24HE102383",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-26HE100120",
+      "name": "促销-套餐优惠（239元套餐优惠至167元）（次月生效）",
+      "area": "河北",
+      "price": 239.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26HE100120",
+        "tariffStandard": "239元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-02-07 00:00:00",
+        "offlineDate": "2026-08-07 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=26HE100120",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-26HE100119",
+      "name": "促销-套餐优惠（239元套餐优惠至167元）（立即生效）",
+      "area": "河北",
+      "price": 239.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26HE100119",
+        "tariffStandard": "239元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-02-07 00:00:00",
+        "offlineDate": "2026-08-07 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=26HE100119",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-24HE102384",
+      "name": "5G畅享299元套餐",
+      "area": "河北",
+      "price": 299.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HE102384",
+        "tariffStandard": "299元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-31 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=24HE102384",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-26HE100121",
+      "name": "促销-套餐优惠（299元套餐优惠至209元）（立即生效）",
+      "area": "河北",
+      "price": 299.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26HE100121",
+        "tariffStandard": "299元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-02-07 00:00:00",
+        "offlineDate": "2026-08-07 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=26HE100121",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-24HE100117",
+      "name": "智企领航AI套餐299元",
+      "area": "河北",
+      "price": 299.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HE100117",
+        "tariffStandard": "299元/月（标题提取，详见官方详情）",
+        "onlineDate": "2022-03-24 00:00:00",
+        "offlineDate": "2028-05-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=24HE100117",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-24HE102385",
+      "name": "5G畅享399元套餐",
+      "area": "河北",
+      "price": 399.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HE102385",
+        "tariffStandard": "399元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-31 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=24HE102385",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-26HE100124",
+      "name": "促销-套餐优惠（399元套餐优惠至279元）（次月生效）",
+      "area": "河北",
+      "price": 399.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26HE100124",
+        "tariffStandard": "399元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-02-07 00:00:00",
+        "offlineDate": "2026-08-07 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=26HE100124",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-26HE100123",
+      "name": "促销-套餐优惠（399元套餐优惠至279元）（立即生效）",
+      "area": "河北",
+      "price": 399.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26HE100123",
+        "tariffStandard": "399元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-02-07 00:00:00",
+        "offlineDate": "2026-08-07 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=26HE100123",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-24HE100115",
+      "name": "智企领航AI套餐399元",
+      "area": "河北",
+      "price": 399.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HE100115",
+        "tariffStandard": "399元/月（标题提取，详见官方详情）",
+        "onlineDate": "2022-03-24 00:00:00",
+        "offlineDate": "2028-05-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=24HE100115",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-24HE102386",
+      "name": "5G畅享599元套餐",
+      "area": "河北",
+      "price": 599.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HE102386",
+        "tariffStandard": "599元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-31 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=24HE102386",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河北-24HE100116",
+      "name": "智企领航AI套餐599元",
+      "area": "河北",
+      "price": 599.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HE100116",
+        "tariffStandard": "599元/月（标题提取，详见官方详情）",
+        "onlineDate": "2022-03-24 00:00:00",
+        "offlineDate": "2028-05-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://pxt.he.189.cn/wechat-server/CLMobile/src/threeHalls/informationDisclosureServices/indexPC.html?param=24HE100116",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    }
+  ]
+}

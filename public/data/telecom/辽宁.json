@@ -1,0 +1,1078 @@
+{
+  "area": "辽宁",
+  "plans": [
+    {
+      "id": "telecom-辽宁-25LN100301",
+      "name": "辽宁天翼18元套餐201910校园5.5折促销202008",
+      "area": "辽宁",
+      "price": 18.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25LN100301",
+        "tariffStandard": "18元/月（标题提取，详见官方详情）",
+        "onlineDate": "2020-08-19 00:00:00",
+        "offlineDate": "2030-08-10 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapln.189.cn/webapi/tariff-area!queryTariffInfoDetailWt.action?tariff_report_id=25LN100301",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-辽宁-25LN100128",
+      "name": "电信步步高19元套餐201901",
+      "area": "辽宁",
+      "price": 19.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25LN100128",
+        "tariffStandard": "19元/月（标题提取，详见官方详情）",
+        "onlineDate": "2018-12-24 00:00:00",
+        "offlineDate": "2026-11-30 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapln.189.cn/webapi/tariff-area!queryTariffInfoDetailWt.action?tariff_report_id=25LN100128",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-辽宁-25LN100291",
+      "name": "辽宁校园新19元套餐",
+      "area": "辽宁",
+      "price": 19.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25LN100291",
+        "tariffStandard": "19元/月（标题提取，详见官方详情）",
+        "onlineDate": "2017-07-11 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapln.189.cn/webapi/tariff-area!queryTariffInfoDetailWt.action?tariff_report_id=25LN100291",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-辽宁-25LN100246",
+      "name": "星卡29元（2022版）",
+      "area": "辽宁",
+      "price": 29.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25LN100246",
+        "tariffStandard": "29元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-12-28 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapln.189.cn/webapi/tariff-area!queryTariffInfoDetailWt.action?tariff_report_id=25LN100246",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-辽宁-25LN100289",
+      "name": "电信校园青春卡29元",
+      "area": "辽宁",
+      "price": 29.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25LN100289",
+        "tariffStandard": "29元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-05-05 00:00:00",
+        "offlineDate": "2027-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapln.189.cn/webapi/tariff-area!queryTariffInfoDetailWt.action?tariff_report_id=25LN100289",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-辽宁-24LN100708",
+      "name": "天翼39元套餐（辽宁）202201",
+      "area": "辽宁",
+      "price": 39.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24LN100708",
+        "tariffStandard": "39元/月（标题提取，详见官方详情）",
+        "onlineDate": "2022-01-07 00:00:00",
+        "offlineDate": "2027-05-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapln.189.cn/webapi/tariff-area!queryTariffInfoDetailWt.action?tariff_report_id=24LN100708",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-辽宁-24LN100293",
+      "name": "天翼大流量39元套餐201804",
+      "area": "辽宁",
+      "price": 39.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24LN100293",
+        "tariffStandard": "39元/月（标题提取，详见官方详情）",
+        "onlineDate": "2018-04-03 00:00:00",
+        "offlineDate": "2027-10-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapln.189.cn/webapi/tariff-area!queryTariffInfoDetailWt.action?tariff_report_id=24LN100293",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-辽宁-24LN100784",
+      "name": "星卡39元（2022版）",
+      "area": "辽宁",
+      "price": 39.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24LN100784",
+        "tariffStandard": "39元/月（标题提取，详见官方详情）",
+        "onlineDate": "2022-01-26 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapln.189.cn/webapi/tariff-area!queryTariffInfoDetailWt.action?tariff_report_id=24LN100784",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-辽宁-25LN100130",
+      "name": "电信步步高39元套餐201901",
+      "area": "辽宁",
+      "price": 39.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25LN100130",
+        "tariffStandard": "39元/月（标题提取，详见官方详情）",
+        "onlineDate": "2018-12-24 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapln.189.cn/webapi/tariff-area!queryTariffInfoDetailWt.action?tariff_report_id=25LN100130",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-辽宁-24LN100662",
+      "name": "500M单宽套餐-月费40元202303",
+      "area": "辽宁",
+      "price": 40.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24LN100662",
+        "tariffStandard": "40元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-03-24 00:00:00",
+        "offlineDate": "2027-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapln.189.cn/webapi/tariff-area!queryTariffInfoDetailWt.action?tariff_report_id=24LN100662",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-辽宁-25LN100173",
+      "name": "5G畅享59元套餐",
+      "area": "辽宁",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25LN100173",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-09-01 00:00:00",
+        "offlineDate": "2026-10-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapln.189.cn/webapi/tariff-area!queryTariffInfoDetailWt.action?tariff_report_id=25LN100173",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-辽宁-24LN100294",
+      "name": "天翼大流量59元套餐201804",
+      "area": "辽宁",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24LN100294",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2018-04-03 00:00:00",
+        "offlineDate": "2027-10-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapln.189.cn/webapi/tariff-area!queryTariffInfoDetailWt.action?tariff_report_id=24LN100294",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-辽宁-24LN100681",
+      "name": "星卡流量版（59元）",
+      "area": "辽宁",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24LN100681",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-11-30 00:00:00",
+        "offlineDate": "2027-10-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapln.189.cn/webapi/tariff-area!queryTariffInfoDetailWt.action?tariff_report_id=24LN100681",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-辽宁-24LN100887",
+      "name": "300M单宽套餐-月费70元202303",
+      "area": "辽宁",
+      "price": 70.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24LN100887",
+        "tariffStandard": "70元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-03-24 00:00:00",
+        "offlineDate": "2027-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapln.189.cn/webapi/tariff-area!queryTariffInfoDetailWt.action?tariff_report_id=24LN100887",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-辽宁-25LN100174",
+      "name": "5G畅享79元套餐",
+      "area": "辽宁",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25LN100174",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-09-01 00:00:00",
+        "offlineDate": "2026-10-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapln.189.cn/webapi/tariff-area!queryTariffInfoDetailWt.action?tariff_report_id=25LN100174",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-辽宁-24LN100785",
+      "name": "5G畅享79元套餐（辽宁）202109",
+      "area": "辽宁",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24LN100785",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-09-14 00:00:00",
+        "offlineDate": "2027-01-02 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapln.189.cn/webapi/tariff-area!queryTariffInfoDetailWt.action?tariff_report_id=24LN100785",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-辽宁-24LN100295",
+      "name": "天翼大流量79元套餐201804",
+      "area": "辽宁",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24LN100295",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2018-04-03 00:00:00",
+        "offlineDate": "2027-10-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapln.189.cn/webapi/tariff-area!queryTariffInfoDetailWt.action?tariff_report_id=24LN100295",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-辽宁-24LN100660",
+      "name": "5G畅享99元套餐202112",
+      "area": "辽宁",
+      "price": 99.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24LN100660",
+        "tariffStandard": "99元/月（标题提取，详见官方详情）",
+        "onlineDate": "2022-01-01 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapln.189.cn/webapi/tariff-area!queryTariffInfoDetailWt.action?tariff_report_id=24LN100660",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-辽宁-25LN100171",
+      "name": "500M单宽套餐-月费100元202412",
+      "area": "辽宁",
+      "price": 100.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25LN100171",
+        "tariffStandard": "100元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-08-25 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapln.189.cn/webapi/tariff-area!queryTariffInfoDetailWt.action?tariff_report_id=25LN100171",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-辽宁-24LN100610",
+      "name": "5G畅享129元套餐201910",
+      "area": "辽宁",
+      "price": 129.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24LN100610",
+        "tariffStandard": "129元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-31 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapln.189.cn/webapi/tariff-area!queryTariffInfoDetailWt.action?tariff_report_id=24LN100610",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-辽宁-24LN100871",
+      "name": "5G畅享单卡129元套餐202010",
+      "area": "辽宁",
+      "price": 129.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24LN100871",
+        "tariffStandard": "129元/月（标题提取，详见官方详情）",
+        "onlineDate": "2020-10-10 00:00:00",
+        "offlineDate": "2027-09-30 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapln.189.cn/webapi/tariff-area!queryTariffInfoDetailWt.action?tariff_report_id=24LN100871",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-辽宁-25LN100172",
+      "name": "1000M单宽套餐-月费150元202412",
+      "area": "辽宁",
+      "price": 150.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25LN100172",
+        "tariffStandard": "150元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-08-25 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapln.189.cn/webapi/tariff-area!queryTariffInfoDetailWt.action?tariff_report_id=25LN100172",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-辽宁-24LN100921",
+      "name": "5G畅享169元套餐201910",
+      "area": "辽宁",
+      "price": 169.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24LN100921",
+        "tariffStandard": "169元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-31 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapln.189.cn/webapi/tariff-area!queryTariffInfoDetailWt.action?tariff_report_id=24LN100921",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-辽宁-25LN100327",
+      "name": "5G-A 199元套餐202509",
+      "area": "辽宁",
+      "price": 199.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25LN100327",
+        "tariffStandard": "199元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-09-22 00:00:00",
+        "offlineDate": "2027-09-30 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapln.189.cn/webapi/tariff-area!queryTariffInfoDetailWt.action?tariff_report_id=25LN100327",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-辽宁-25LN100328",
+      "name": "5G-A 199元套餐202509（辽宁）",
+      "area": "辽宁",
+      "price": 199.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25LN100328",
+        "tariffStandard": "199元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-09-22 00:00:00",
+        "offlineDate": "2027-09-30 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapln.189.cn/webapi/tariff-area!queryTariffInfoDetailWt.action?tariff_report_id=25LN100328",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-辽宁-24LN100796",
+      "name": "5G畅享199元套餐201910",
+      "area": "辽宁",
+      "price": 199.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24LN100796",
+        "tariffStandard": "199元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-31 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapln.189.cn/webapi/tariff-area!queryTariffInfoDetailWt.action?tariff_report_id=24LN100796",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-辽宁-25LN100325",
+      "name": "5G-A 239元套餐202509",
+      "area": "辽宁",
+      "price": 239.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25LN100325",
+        "tariffStandard": "239元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-09-22 00:00:00",
+        "offlineDate": "2027-09-30 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapln.189.cn/webapi/tariff-area!queryTariffInfoDetailWt.action?tariff_report_id=25LN100325",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-辽宁-25LN100326",
+      "name": "5G-A 239元套餐202509（辽宁）",
+      "area": "辽宁",
+      "price": 239.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25LN100326",
+        "tariffStandard": "239元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-09-22 00:00:00",
+        "offlineDate": "2027-09-30 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapln.189.cn/webapi/tariff-area!queryTariffInfoDetailWt.action?tariff_report_id=25LN100326",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-辽宁-24LN100879",
+      "name": "5G畅享239元套餐201910",
+      "area": "辽宁",
+      "price": 239.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24LN100879",
+        "tariffStandard": "239元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-31 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapln.189.cn/webapi/tariff-area!queryTariffInfoDetailWt.action?tariff_report_id=24LN100879",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-辽宁-25LN100049",
+      "name": "5G-A 299元套餐202503",
+      "area": "辽宁",
+      "price": 299.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25LN100049",
+        "tariffStandard": "299元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-04-24 00:00:00",
+        "offlineDate": "2027-04-24 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapln.189.cn/webapi/tariff-area!queryTariffInfoDetailWt.action?tariff_report_id=25LN100049",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-辽宁-25LN100046",
+      "name": "5G-A 299元套餐202503（辽宁）",
+      "area": "辽宁",
+      "price": 299.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25LN100046",
+        "tariffStandard": "299元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-04-24 00:00:00",
+        "offlineDate": "2027-04-24 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapln.189.cn/webapi/tariff-area!queryTariffInfoDetailWt.action?tariff_report_id=25LN100046",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-辽宁-24LN100932",
+      "name": "5G畅享299元套餐201910",
+      "area": "辽宁",
+      "price": 299.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24LN100932",
+        "tariffStandard": "299元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-31 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapln.189.cn/webapi/tariff-area!queryTariffInfoDetailWt.action?tariff_report_id=24LN100932",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-辽宁-25LN100052",
+      "name": "5G-A 399元套餐202503",
+      "area": "辽宁",
+      "price": 399.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25LN100052",
+        "tariffStandard": "399元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-04-24 00:00:00",
+        "offlineDate": "2027-04-24 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapln.189.cn/webapi/tariff-area!queryTariffInfoDetailWt.action?tariff_report_id=25LN100052",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-辽宁-25LN100051",
+      "name": "5G-A 399元套餐202503（辽宁）",
+      "area": "辽宁",
+      "price": 399.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25LN100051",
+        "tariffStandard": "399元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-04-24 00:00:00",
+        "offlineDate": "2027-04-24 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapln.189.cn/webapi/tariff-area!queryTariffInfoDetailWt.action?tariff_report_id=25LN100051",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-辽宁-24LN100953",
+      "name": "5G畅享399元套餐201910",
+      "area": "辽宁",
+      "price": 399.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24LN100953",
+        "tariffStandard": "399元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-31 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapln.189.cn/webapi/tariff-area!queryTariffInfoDetailWt.action?tariff_report_id=24LN100953",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-辽宁-24LN100202",
+      "name": "5G129套餐480元赠费促销-24个月-202012",
+      "area": "辽宁",
+      "price": 480.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24LN100202",
+        "tariffStandard": "480元/月（标题提取，详见官方详情）",
+        "onlineDate": "2020-12-15 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapln.189.cn/webapi/tariff-area!queryTariffInfoDetailWt.action?tariff_report_id=24LN100202",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-辽宁-24LN100682",
+      "name": "5G畅享599元套餐201910",
+      "area": "辽宁",
+      "price": 599.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24LN100682",
+        "tariffStandard": "599元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-31 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapln.189.cn/webapi/tariff-area!queryTariffInfoDetailWt.action?tariff_report_id=24LN100682",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    }
+  ]
+}

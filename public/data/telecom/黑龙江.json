@@ -1,0 +1,788 @@
+{
+  "area": "黑龙江",
+  "plans": [
+    {
+      "id": "telecom-黑龙江-24HL100419",
+      "name": "9元无忧卡",
+      "area": "黑龙江",
+      "price": 9.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HL100419",
+        "tariffStandard": "9元/月（标题提取，详见官方详情）",
+        "onlineDate": "2020-09-02 00:00:00",
+        "offlineDate": "2027-09-03 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hl.189.cn/zfzq/detail/b0e21041f10e4318a3c85af7fa48d36a",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-黑龙江-25HL100271",
+      "name": "全屋WiFi10元36期主套餐(美好家）",
+      "area": "黑龙江",
+      "price": 10.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HL100271",
+        "tariffStandard": "10元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-03-26 00:00:00",
+        "offlineDate": "2026-09-24 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hl.189.cn/zfzq/detail/463f440f94224ec9a6186eec4731daa0",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-黑龙江-25HL100384",
+      "name": "天翼智屏15元36期主套餐（成本型）（美好家）",
+      "area": "黑龙江",
+      "price": 15.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HL100384",
+        "tariffStandard": "15元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-05 00:00:00",
+        "offlineDate": "2027-11-16 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hl.189.cn/zfzq/detail/d530a907a3bc441f9164d69abe418241",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-黑龙江-25HL100020",
+      "name": "我的E家_E-语音套餐(15元)",
+      "area": "黑龙江",
+      "price": 15.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HL100020",
+        "tariffStandard": "15元/月（标题提取，详见官方详情）",
+        "onlineDate": "2008-02-28 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hl.189.cn/zfzq/detail/06616ab27d6f454c82441a5b30ec1eee",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-黑龙江-25HL100281",
+      "name": "中屏（音箱）20元36期主套餐(美好家）",
+      "area": "黑龙江",
+      "price": 20.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HL100281",
+        "tariffStandard": "20元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-03-19 00:00:00",
+        "offlineDate": "2026-09-24 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hl.189.cn/zfzq/detail/a539d3c641a14d078c12b93e381478d7",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-黑龙江-26HL100012",
+      "name": "天翼智屏20元36期主套餐（成本型）（美好家）",
+      "area": "黑龙江",
+      "price": 20.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26HL100012",
+        "tariffStandard": "20元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-01-31 00:00:00",
+        "offlineDate": "2028-01-19 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hl.189.cn/zfzq/detail/8ece0e777a1045799bda15ec15ada3c5",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-黑龙江-25HL100388",
+      "name": "FTTR 25元月付主套餐-36期（1主+1从）（美好家）",
+      "area": "黑龙江",
+      "price": 25.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HL100388",
+        "tariffStandard": "25元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-01-16 00:00:00",
+        "offlineDate": "2027-11-16 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hl.189.cn/zfzq/detail/2ee95904506e40c08ae15b35f7acebbb",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-黑龙江-25HL100272",
+      "name": "FTTR 30元月付主套餐-36期（1主+1从）(美好家）",
+      "area": "黑龙江",
+      "price": 30.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HL100272",
+        "tariffStandard": "30元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-03-26 00:00:00",
+        "offlineDate": "2026-09-24 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hl.189.cn/zfzq/detail/46bce40bbf07441c8a660850c621d7e3",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-黑龙江-24HL100274",
+      "name": "星卡39元（2022版）",
+      "area": "黑龙江",
+      "price": 39.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HL100274",
+        "tariffStandard": "39元/月（标题提取，详见官方详情）",
+        "onlineDate": "2022-01-26 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hl.189.cn/zfzq/detail/4a1008107cec4622afe72342e1afe330",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-黑龙江-25HL100014",
+      "name": "月承诺消费50元套餐",
+      "area": "黑龙江",
+      "price": 50.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HL100014",
+        "tariffStandard": "50元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-03-20 00:00:00",
+        "offlineDate": "2030-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hl.189.cn/zfzq/detail/974db09ef34c4ea382d8233446b42b73",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-黑龙江-24HL100212",
+      "name": "5G畅享59元套餐",
+      "area": "黑龙江",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HL100212",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-09-01 00:00:00",
+        "offlineDate": "2026-10-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hl.189.cn/zfzq/detail/b118e41547b147b7835ab195bc1a22e4",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-黑龙江-25HL100353",
+      "name": "星卡流量版（59元）",
+      "area": "黑龙江",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HL100353",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-11-11 00:00:00",
+        "offlineDate": "2027-10-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hl.189.cn/zfzq/detail/fb9a2664a415430487816f2e92ecc0cc",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-黑龙江-24HL100211",
+      "name": "5G畅享79元套餐",
+      "area": "黑龙江",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HL100211",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-01-16 00:00:00",
+        "offlineDate": "2026-10-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hl.189.cn/zfzq/detail/2d085c8ed17d452db5ce1bdcaad05678",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-黑龙江-24HL100210",
+      "name": "5G畅享99元套餐202112",
+      "area": "黑龙江",
+      "price": 99.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HL100210",
+        "tariffStandard": "99元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-01-16 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hl.189.cn/zfzq/detail/89f5c932a6f5463da2e0a58ecdb45a81",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-黑龙江-25HL100013",
+      "name": "月承诺消费100元套餐",
+      "area": "黑龙江",
+      "price": 100.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HL100013",
+        "tariffStandard": "100元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-03-20 00:00:00",
+        "offlineDate": "2030-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hl.189.cn/zfzq/detail/5b16149d48ae47519787664a8b62e29c",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-黑龙江-24HL100209",
+      "name": "5G畅享129元套餐201910",
+      "area": "黑龙江",
+      "price": 129.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HL100209",
+        "tariffStandard": "129元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-01-16 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hl.189.cn/zfzq/detail/c3fc0786142b419185395ae57ecf54cb",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-黑龙江-25HL100012",
+      "name": "月承诺消费150元套餐",
+      "area": "黑龙江",
+      "price": 150.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HL100012",
+        "tariffStandard": "150元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-03-20 00:00:00",
+        "offlineDate": "2030-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hl.189.cn/zfzq/detail/87301f19ba504b6fb5e41e5272229f46",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-黑龙江-24HL100208",
+      "name": "5G畅享169元套餐201910",
+      "area": "黑龙江",
+      "price": 169.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HL100208",
+        "tariffStandard": "169元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-01-16 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hl.189.cn/zfzq/detail/f7a41fe58560422c8ec8a84531e74628",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-黑龙江-25HL100369",
+      "name": "5G-A 199元套餐202509",
+      "area": "黑龙江",
+      "price": 199.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HL100369",
+        "tariffStandard": "199元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-10-15 00:00:00",
+        "offlineDate": "2027-09-30 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hl.189.cn/zfzq/detail/5cdb0360e10d4240967114e8e7ba8e61",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-黑龙江-24HL100207",
+      "name": "5G畅享199元套餐201910",
+      "area": "黑龙江",
+      "price": 199.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HL100207",
+        "tariffStandard": "199元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-31 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hl.189.cn/zfzq/detail/6955085dbe82458884a88a6a612537b9",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-黑龙江-25HL100368",
+      "name": "5G-A 239元套餐202509",
+      "area": "黑龙江",
+      "price": 239.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HL100368",
+        "tariffStandard": "239元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-10-15 00:00:00",
+        "offlineDate": "2027-09-30 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hl.189.cn/zfzq/detail/d7831d59efea422398825f306b626fc9",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-黑龙江-24HL100206",
+      "name": "5G畅享239元套餐201910",
+      "area": "黑龙江",
+      "price": 239.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HL100206",
+        "tariffStandard": "239元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-31 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hl.189.cn/zfzq/detail/b92ab9e3eda64f14aa0c9ffec0cb490b",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-黑龙江-25HL100345",
+      "name": "5G-A299元套餐202503",
+      "area": "黑龙江",
+      "price": 299.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HL100345",
+        "tariffStandard": "299元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-07-17 00:00:00",
+        "offlineDate": "2027-04-24 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hl.189.cn/zfzq/detail/bb252bcccd8c4507a2a531e35e98702e",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-黑龙江-24HL100205",
+      "name": "5G畅享299元套餐201910",
+      "area": "黑龙江",
+      "price": 299.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HL100205",
+        "tariffStandard": "299元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-31 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hl.189.cn/zfzq/detail/44009628bbd242d6aec9607d33d65cd1",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-黑龙江-25HL100346",
+      "name": "5G-A399元套餐202503",
+      "area": "黑龙江",
+      "price": 399.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HL100346",
+        "tariffStandard": "399元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-07-17 00:00:00",
+        "offlineDate": "2027-04-24 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hl.189.cn/zfzq/detail/a84c7be238394e75b1184a764ed657e1",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-黑龙江-24HL100204",
+      "name": "5G畅享399元套餐201910",
+      "area": "黑龙江",
+      "price": 399.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HL100204",
+        "tariffStandard": "399元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-31 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hl.189.cn/zfzq/detail/7e53b560c1c9478dafee26d031377095",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-黑龙江-24HL100203",
+      "name": "5G畅享599元套餐201910",
+      "area": "黑龙江",
+      "price": 599.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HL100203",
+        "tariffStandard": "599元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-31 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hl.189.cn/zfzq/detail/378d48d073d749bea7e79e79441a29f8",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    }
+  ]
+}

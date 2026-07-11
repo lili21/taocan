@@ -47,6 +47,13 @@ export const operators = {
     sourceUrl: 'https://img.client.10010.com/zifeizhuanquwt/index.html',
     dataRoot: '/data/unicom',
   },
+  telecom: {
+    label: '中国电信',
+    shortLabel: '电信',
+    servicePhone: '10000',
+    sourceUrl: 'https://www.189.cn/jtzfzq/',
+    dataRoot: '/data/telecom',
+  },
 };
 
 export async function fetchTariffIndex(operator) {

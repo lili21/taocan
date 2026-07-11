@@ -1,0 +1,933 @@
+{
+  "area": "安徽",
+  "plans": [
+    {
+      "id": "telecom-安徽-24AH100065",
+      "name": "量子安全信息上报套餐-20元包月",
+      "area": "安徽",
+      "price": 20.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24AH100065",
+        "tariffStandard": "20元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-04-01 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapah.189.cn/tariff/toIndex.wap?reportNo=mR2oJwVd8cI%3D",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-安徽-25AH100001",
+      "name": "星卡29元（2022版）",
+      "area": "安徽",
+      "price": 29.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25AH100001",
+        "tariffStandard": "29元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-12-22 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapah.189.cn/tariff/toIndex.wap?reportNo=yx1VjgdLWjY%3D",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-安徽-25AH100535",
+      "name": "政企优享30元套餐",
+      "area": "安徽",
+      "price": 30.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25AH100535",
+        "tariffStandard": "30元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-11-18 00:00:00",
+        "offlineDate": "2026-11-18 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapah.189.cn/tariff/toIndex.wap?reportNo=E4AfXZ9TmMg%3D",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-安徽-25AH100422",
+      "name": "平安星网_青少年关爱35元",
+      "area": "安徽",
+      "price": 35.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25AH100422",
+        "tariffStandard": "35元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-12-10 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapah.189.cn/tariff/toIndex.wap?reportNo=rVm7OWRKElA%3D",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-安徽-25AH100697",
+      "name": "安徽星卡2025版39元",
+      "area": "安徽",
+      "price": 39.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25AH100697",
+        "tariffStandard": "39元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-07-09 00:00:00",
+        "offlineDate": "2027-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapah.189.cn/tariff/toIndex.wap?reportNo=b7LcBDIA3%2BM%3D",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-安徽-26AH100004",
+      "name": "星卡39元套餐_202512",
+      "area": "安徽",
+      "price": 39.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26AH100004",
+        "tariffStandard": "39元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-01-01 00:00:00",
+        "offlineDate": "2028-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapah.189.cn/tariff/toIndex.wap?reportNo=UChf3fUhrw8%3D",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-安徽-25AH100023",
+      "name": "星卡39元（2022版）",
+      "area": "安徽",
+      "price": 39.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25AH100023",
+        "tariffStandard": "39元/月（标题提取，详见官方详情）",
+        "onlineDate": "2022-01-20 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapah.189.cn/tariff/toIndex.wap?reportNo=Bg5E%2FY5L%2FYY%3D",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-安徽-24AH101590",
+      "name": "畅享套餐动态优惠0-40元",
+      "area": "安徽",
+      "price": 40.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24AH101590",
+        "tariffStandard": "40元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-11-23 00:00:00",
+        "offlineDate": "2026-11-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapah.189.cn/tariff/toIndex.wap?reportNo=SRWcvw%2BRS3s%3D",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-安徽-25AH100534",
+      "name": "政企优享58元套餐",
+      "area": "安徽",
+      "price": 58.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25AH100534",
+        "tariffStandard": "58元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-11-22 00:00:00",
+        "offlineDate": "2026-11-18 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapah.189.cn/tariff/toIndex.wap?reportNo=n%2Fw%2BWCPDVy0%3D",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-安徽-24AH100437",
+      "name": "5G畅享59元套餐",
+      "area": "安徽",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24AH100437",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-09-01 00:00:00",
+        "offlineDate": "2026-10-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapah.189.cn/tariff/toIndex.wap?reportNo=mCbXd2krKhw%3D",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-安徽-26AH100006",
+      "name": "5G畅享单品59元套餐_202512",
+      "area": "安徽",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26AH100006",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-01-01 00:00:00",
+        "offlineDate": "2028-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapah.189.cn/tariff/toIndex.wap?reportNo=rzoGwvqP2Io%3D",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-安徽-25AH100274",
+      "name": "星卡流量版（59元）",
+      "area": "安徽",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25AH100274",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-11-10 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapah.189.cn/tariff/toIndex.wap?reportNo=fvVJreOxx3c%3D",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-安徽-25AH100003",
+      "name": "5G畅享79元套餐",
+      "area": "安徽",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25AH100003",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-09-01 00:00:00",
+        "offlineDate": "2026-10-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapah.189.cn/tariff/toIndex.wap?reportNo=x%2FLhdd1xH7A%3D",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-安徽-26AH100005",
+      "name": "5G畅享单品79元套餐_202512",
+      "area": "安徽",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26AH100005",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-01-01 00:00:00",
+        "offlineDate": "2028-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapah.189.cn/tariff/toIndex.wap?reportNo=jyrqjSIOWC0%3D",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-安徽-26AH100007",
+      "name": "5G畅享套餐79元_202512",
+      "area": "安徽",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26AH100007",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-01-01 00:00:00",
+        "offlineDate": "2028-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapah.189.cn/tariff/toIndex.wap?reportNo=YqmPEk1Inl8%3D",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-安徽-24AH100425",
+      "name": "电信畅享79元套餐201909（升级版）",
+      "area": "安徽",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24AH100425",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-01 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapah.189.cn/tariff/toIndex.wap?reportNo=yrKPeyXJMQk%3D",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-安徽-25AH100010",
+      "name": "5G畅享99元套餐202112",
+      "area": "安徽",
+      "price": 99.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25AH100010",
+        "tariffStandard": "99元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-12-28 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapah.189.cn/tariff/toIndex.wap?reportNo=ZuC9humvpsk%3D",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-安徽-26AH100008",
+      "name": "5G畅享套餐99元_202512",
+      "area": "安徽",
+      "price": 99.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26AH100008",
+        "tariffStandard": "99元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-01-01 00:00:00",
+        "offlineDate": "2028-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapah.189.cn/tariff/toIndex.wap?reportNo=DvuAXddt32k%3D",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-安徽-25AH100018",
+      "name": "5G畅享129元套餐201910",
+      "area": "安徽",
+      "price": 129.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25AH100018",
+        "tariffStandard": "129元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-31 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapah.189.cn/tariff/toIndex.wap?reportNo=942BdzbIrmY%3D",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-安徽-26AH100009",
+      "name": "5G畅享套餐139元_202512",
+      "area": "安徽",
+      "price": 139.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26AH100009",
+        "tariffStandard": "139元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-01-01 00:00:00",
+        "offlineDate": "2028-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapah.189.cn/tariff/toIndex.wap?reportNo=NuoBlqcd%2Bvg%3D",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-安徽-25AH100005",
+      "name": "5G畅享169元套餐201910",
+      "area": "安徽",
+      "price": 169.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25AH100005",
+        "tariffStandard": "169元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-31 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapah.189.cn/tariff/toIndex.wap?reportNo=xjzD%2BGnosX8%3D",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-安徽-26AH100046",
+      "name": "5G畅享套餐169元",
+      "area": "安徽",
+      "price": 169.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26AH100046",
+        "tariffStandard": "169元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-03-09 00:00:00",
+        "offlineDate": "2028-02-11 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapah.189.cn/tariff/toIndex.wap?reportNo=UhwZgJnHkkA%3D",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-安徽-26AH100010",
+      "name": "5G畅享套餐169元_202512",
+      "area": "安徽",
+      "price": 169.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26AH100010",
+        "tariffStandard": "169元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-01-01 00:00:00",
+        "offlineDate": "2028-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapah.189.cn/tariff/toIndex.wap?reportNo=GcHEcEIPkoE%3D",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-安徽-26AH100099",
+      "name": "5G-A套餐单品199元",
+      "area": "安徽",
+      "price": 199.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26AH100099",
+        "tariffStandard": "199元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-06-09 00:00:00",
+        "offlineDate": "2027-10-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapah.189.cn/tariff/toIndex.wap?reportNo=462xj159z0bOBrAEiuywKg%3D%3D",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-安徽-25AH100007",
+      "name": "5G畅享199元套餐201910",
+      "area": "安徽",
+      "price": 199.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25AH100007",
+        "tariffStandard": "199元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-31 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapah.189.cn/tariff/toIndex.wap?reportNo=kfZIRuHXeQ8%3D",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-安徽-26AH100100",
+      "name": "5G-A套餐单品239元",
+      "area": "安徽",
+      "price": 239.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26AH100100",
+        "tariffStandard": "239元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-06-09 00:00:00",
+        "offlineDate": "2027-10-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapah.189.cn/tariff/toIndex.wap?reportNo=462xj159z0ZuoIpG9w4%2Bug%3D%3D",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-安徽-25AH100006",
+      "name": "5G畅享239元套餐201910",
+      "area": "安徽",
+      "price": 239.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25AH100006",
+        "tariffStandard": "239元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-31 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapah.189.cn/tariff/toIndex.wap?reportNo=vwN9gYZGTSg%3D",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-安徽-25AH100269",
+      "name": "5G-A套餐单品299元",
+      "area": "安徽",
+      "price": 299.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25AH100269",
+        "tariffStandard": "299元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-05-25 00:00:00",
+        "offlineDate": "2027-10-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapah.189.cn/tariff/toIndex.wap?reportNo=LirkPz2wuMM%3D",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-安徽-25AH100011",
+      "name": "5G畅享299元套餐201910",
+      "area": "安徽",
+      "price": 299.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25AH100011",
+        "tariffStandard": "299元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-31 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapah.189.cn/tariff/toIndex.wap?reportNo=mN31vwz7YLg%3D",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-安徽-25AH100268",
+      "name": "5G-A套餐单品399元",
+      "area": "安徽",
+      "price": 399.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25AH100268",
+        "tariffStandard": "399元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-05-25 00:00:00",
+        "offlineDate": "2027-10-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapah.189.cn/tariff/toIndex.wap?reportNo=PCfDR%2FBkfEs%3D",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-安徽-25AH100016",
+      "name": "5G畅享399元套餐201910",
+      "area": "安徽",
+      "price": 399.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25AH100016",
+        "tariffStandard": "399元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-31 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapah.189.cn/tariff/toIndex.wap?reportNo=U3%2B1Ek5gFS8%3D",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-安徽-25AH100019",
+      "name": "5G畅享599元套餐201910",
+      "area": "安徽",
+      "price": 599.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25AH100019",
+        "tariffStandard": "599元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-31 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapah.189.cn/tariff/toIndex.wap?reportNo=BBpR2RPW9sU%3D",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1426 @@
+{
+  "area": "北京",
+  "plans": [
+    {
+      "id": "telecom-北京-24BJ101047",
+      "name": "短信10元套餐",
+      "area": "北京",
+      "price": 10.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24BJ101047",
+        "tariffStandard": "10元/月（标题提取，详见官方详情）",
+        "onlineDate": "2009-11-20 00:00:00",
+        "offlineDate": "2030-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=24BJ101047",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-24BJ101814",
+      "name": "孝心卡套餐(19元)北京版",
+      "area": "北京",
+      "price": 19.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24BJ101814",
+        "tariffStandard": "19元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-05-19 00:00:00",
+        "offlineDate": "2029-06-30 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=24BJ101814",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-24BJ100376",
+      "name": "星卡39元(2022版)",
+      "area": "北京",
+      "price": 39.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24BJ100376",
+        "tariffStandard": "39元/月（标题提取，详见官方详情）",
+        "onlineDate": "2022-01-20 00:00:00",
+        "offlineDate": "2027-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=24BJ100376",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-24BJ101805",
+      "name": "平价套餐预存包（预存50元）",
+      "area": "北京",
+      "price": 50.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24BJ101805",
+        "tariffStandard": "50元/月（标题提取，详见官方详情）",
+        "onlineDate": "2020-06-03 00:00:00",
+        "offlineDate": "2027-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=24BJ101805",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-25BJ100689",
+      "name": "5G畅享55元套餐202512",
+      "area": "北京",
+      "price": 55.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25BJ100689",
+        "tariffStandard": "55元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-22 00:00:00",
+        "offlineDate": "2027-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=25BJ100689",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-24BJ100971",
+      "name": "5G畅享59元套餐",
+      "area": "北京",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24BJ100971",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-09-01 00:00:00",
+        "offlineDate": "2026-10-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=24BJ100971",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-24BJ100377",
+      "name": "星卡流量版（59元）",
+      "area": "北京",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24BJ100377",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-01-01 00:00:00",
+        "offlineDate": "2027-10-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=24BJ100377",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-24BJ100614",
+      "name": "5G畅享79元套餐",
+      "area": "北京",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24BJ100614",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-09-01 00:00:00",
+        "offlineDate": "2026-10-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=24BJ100614",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-24BJ101019",
+      "name": "电信畅享79元10G套餐(升级版)",
+      "area": "北京",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24BJ101019",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-01-04 00:00:00",
+        "offlineDate": "2027-10-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=24BJ101019",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-24BJ101873",
+      "name": "5G畅享99元套餐202112",
+      "area": "北京",
+      "price": 99.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24BJ101873",
+        "tariffStandard": "99元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-01-01 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=24BJ101873",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-24BJ100895",
+      "name": "电信畅享99元20G套餐(升级版)",
+      "area": "北京",
+      "price": 99.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24BJ100895",
+        "tariffStandard": "99元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-01-04 00:00:00",
+        "offlineDate": "2027-10-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=24BJ100895",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-25BJ100642",
+      "name": "5G全家享319主套餐打折至119元",
+      "area": "北京",
+      "price": 119.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25BJ100642",
+        "tariffStandard": "119元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-01-06 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=25BJ100642",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-25BJ100591",
+      "name": "5G畅享129元套餐201910",
+      "area": "北京",
+      "price": 129.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25BJ100591",
+        "tariffStandard": "129元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-14 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=25BJ100591",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-24BJ101092",
+      "name": "139元套餐打折至99元",
+      "area": "北京",
+      "price": 139.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24BJ101092",
+        "tariffStandard": "139元/月（标题提取，详见官方详情）",
+        "onlineDate": "2022-11-25 00:00:00",
+        "offlineDate": "2030-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=24BJ101092",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-24BJ101380",
+      "name": "5G全家享139元套餐202101",
+      "area": "北京",
+      "price": 139.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24BJ101380",
+        "tariffStandard": "139元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-01-23 00:00:00",
+        "offlineDate": "2029-06-30 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=24BJ101380",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-24BJ101379",
+      "name": "5G全家享149元套餐",
+      "area": "北京",
+      "price": 149.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24BJ101379",
+        "tariffStandard": "149元/月（标题提取，详见官方详情）",
+        "onlineDate": "2020-10-29 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=24BJ101379",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-24BJ101602",
+      "name": "5G畅享169元套餐201910",
+      "area": "北京",
+      "price": 169.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24BJ101602",
+        "tariffStandard": "169元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-14 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=24BJ101602",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-24BJ101795",
+      "name": "189元套餐打折至109元",
+      "area": "北京",
+      "price": 189.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24BJ101795",
+        "tariffStandard": "189元/月（标题提取，详见官方详情）",
+        "onlineDate": "2022-10-11 00:00:00",
+        "offlineDate": "2030-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=24BJ101795",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-24BJ101377",
+      "name": "5G全家享189元套餐",
+      "area": "北京",
+      "price": 189.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24BJ101377",
+        "tariffStandard": "189元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-04-09 00:00:00",
+        "offlineDate": "2029-06-30 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=24BJ101377",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-25BJ100123",
+      "name": "5G全家享189元套餐2484元趸交合约",
+      "area": "北京",
+      "price": 189.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25BJ100123",
+        "tariffStandard": "189元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-03-22 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=25BJ100123",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-24BJ101027",
+      "name": "5G全家享189元套餐打折至39元（24月）",
+      "area": "北京",
+      "price": 189.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24BJ101027",
+        "tariffStandard": "189元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-06-12 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=24BJ101027",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-24BJ101030",
+      "name": "5G全家享189元套餐打折至39元（新用户首月）",
+      "area": "北京",
+      "price": 189.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24BJ101030",
+        "tariffStandard": "189元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-02-24 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=24BJ101030",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-24BJ101029",
+      "name": "5G全家享189元套餐打折至69元（新用户首月）",
+      "area": "北京",
+      "price": 189.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24BJ101029",
+        "tariffStandard": "189元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-02-24 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=24BJ101029",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-25BJ100213",
+      "name": "5G全家享189元套餐打折至79元",
+      "area": "北京",
+      "price": 189.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25BJ100213",
+        "tariffStandard": "189元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-01-06 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=25BJ100213",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-25BJ100569",
+      "name": "5G-A199元套餐202509",
+      "area": "北京",
+      "price": 199.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25BJ100569",
+        "tariffStandard": "199元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-09-30 00:00:00",
+        "offlineDate": "2027-09-30 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=25BJ100569",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-24BJ101601",
+      "name": "5G畅享199元套餐201910",
+      "area": "北京",
+      "price": 199.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24BJ101601",
+        "tariffStandard": "199元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-14 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=24BJ101601",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-24BJ101902",
+      "name": "219元套餐打折至109元-存量月付",
+      "area": "北京",
+      "price": 219.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24BJ101902",
+        "tariffStandard": "219元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-03-28 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=24BJ101902",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-24BJ100588",
+      "name": "219元套餐打折至129元",
+      "area": "北京",
+      "price": 219.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24BJ100588",
+        "tariffStandard": "219元/月（标题提取，详见官方详情）",
+        "onlineDate": "2022-10-10 00:00:00",
+        "offlineDate": "2030-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=24BJ100588",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-25BJ100153",
+      "name": "219元套餐打折至89元-存量月付",
+      "area": "北京",
+      "price": 219.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25BJ100153",
+        "tariffStandard": "219元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-06-28 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=25BJ100153",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-24BJ100584",
+      "name": "5G全家享219元套餐",
+      "area": "北京",
+      "price": 219.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24BJ100584",
+        "tariffStandard": "219元/月（标题提取，详见官方详情）",
+        "onlineDate": "2020-10-29 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=24BJ100584",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-25BJ100125",
+      "name": "5G全家享219元套餐2376元趸交合约",
+      "area": "北京",
+      "price": 219.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25BJ100125",
+        "tariffStandard": "219元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-03-18 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=25BJ100125",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-25BJ100214",
+      "name": "5G全家享219元套餐打折至99元",
+      "area": "北京",
+      "price": 219.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25BJ100214",
+        "tariffStandard": "219元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-01-06 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=25BJ100214",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-24BJ100550",
+      "name": "5G全家享219元套餐打折至99元（新用户首月）",
+      "area": "北京",
+      "price": 219.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24BJ100550",
+        "tariffStandard": "219元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-03-18 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=24BJ100550",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-25BJ100571",
+      "name": "5G-A239元套餐202509",
+      "area": "北京",
+      "price": 239.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25BJ100571",
+        "tariffStandard": "239元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-09-30 00:00:00",
+        "offlineDate": "2027-09-30 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=25BJ100571",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-24BJ100483",
+      "name": "5G畅享239元套餐201910",
+      "area": "北京",
+      "price": 239.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24BJ100483",
+        "tariffStandard": "239元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-14 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=24BJ100483",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-24BJ100586",
+      "name": "5G全家享259元套餐",
+      "area": "北京",
+      "price": 259.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24BJ100586",
+        "tariffStandard": "259元/月（标题提取，详见官方详情）",
+        "onlineDate": "2022-03-25 00:00:00",
+        "offlineDate": "2027-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=24BJ100586",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-25BJ100570",
+      "name": "5G-A299元套餐202503",
+      "area": "北京",
+      "price": 299.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25BJ100570",
+        "tariffStandard": "299元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-05-17 00:00:00",
+        "offlineDate": "2027-04-24 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=25BJ100570",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-24BJ101461",
+      "name": "5G畅享299元套餐201910",
+      "area": "北京",
+      "price": 299.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24BJ101461",
+        "tariffStandard": "299元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-14 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=24BJ101461",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-24BJ101905",
+      "name": "319元套餐打折至149元-存量月付",
+      "area": "北京",
+      "price": 319.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24BJ101905",
+        "tariffStandard": "319元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-03-29 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=24BJ101905",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-24BJ100820",
+      "name": "319元套餐打折至159元",
+      "area": "北京",
+      "price": 319.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24BJ100820",
+        "tariffStandard": "319元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-07-04 00:00:00",
+        "offlineDate": "2030-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=24BJ100820",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-24BJ100585",
+      "name": "5G全家享319元套餐",
+      "area": "北京",
+      "price": 319.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24BJ100585",
+        "tariffStandard": "319元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-11-17 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=24BJ100585",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-25BJ100572",
+      "name": "5G-A399元套餐202503",
+      "area": "北京",
+      "price": 399.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25BJ100572",
+        "tariffStandard": "399元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-05-17 00:00:00",
+        "offlineDate": "2027-04-24 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=25BJ100572",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-24BJ101999",
+      "name": "5G畅享399元套餐201910",
+      "area": "北京",
+      "price": 399.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24BJ101999",
+        "tariffStandard": "399元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-14 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=24BJ101999",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-24BJ100448",
+      "name": "419元套餐打折至199元-存量月付",
+      "area": "北京",
+      "price": 419.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24BJ100448",
+        "tariffStandard": "419元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-03-29 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=24BJ100448",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-25BJ100545",
+      "name": "乘风破浪校园学子套餐500元档",
+      "area": "北京",
+      "price": 500.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25BJ100545",
+        "tariffStandard": "500元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-07-17 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=25BJ100545",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-25BJ100549",
+      "name": "风华正茂校园学子套餐520元档",
+      "area": "北京",
+      "price": 520.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25BJ100549",
+        "tariffStandard": "520元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-07-15 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=25BJ100549",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-24BJ100972",
+      "name": "5G畅享599元套餐201910",
+      "area": "北京",
+      "price": 599.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24BJ100972",
+        "tariffStandard": "599元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-14 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=24BJ100972",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-25BJ100546",
+      "name": "乘风破浪校园学子套餐800元档",
+      "area": "北京",
+      "price": 800.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25BJ100546",
+        "tariffStandard": "800元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-07-15 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=25BJ100546",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-北京-25BJ100547",
+      "name": "风华正茂校园学子套餐950元档",
+      "area": "北京",
+      "price": 950.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25BJ100547",
+        "tariffStandard": "950元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-07-15 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://bj.189.cn/ninclude/expenses_New/expensesDetail.jsp?expensesId=25BJ100547",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    }
+  ]
+}

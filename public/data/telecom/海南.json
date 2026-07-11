@@ -1,0 +1,817 @@
+{
+  "area": "海南",
+  "plans": [
+    {
+      "id": "telecom-海南-24HI100755",
+      "name": "5G中小学校园公话卡5元套餐",
+      "area": "海南",
+      "price": 5.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HI100755",
+        "tariffStandard": "5元/月（标题提取，详见官方详情）",
+        "onlineDate": "2022-10-28 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hi.189.cn/v2020/ExpensesDetail?id=923087795",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-海南-24HI100508",
+      "name": "10元电信无忧卡",
+      "area": "海南",
+      "price": 10.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HI100508",
+        "tariffStandard": "10元/月（标题提取，详见官方详情）",
+        "onlineDate": "2020-10-27 00:00:00",
+        "offlineDate": "2028-12-31 00:00:00",
+        "category": "套餐",
+        "sourceUrl": "https://hi.189.cn/v2020/ExpensesDetail?id=922068620",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-海南-24HI100753",
+      "name": "5G中小学校园公话卡10元套餐",
+      "area": "海南",
+      "price": 10.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HI100753",
+        "tariffStandard": "10元/月（标题提取，详见官方详情）",
+        "onlineDate": "2022-11-09 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hi.189.cn/v2020/ExpensesDetail?id=923089700",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-海南-24HI100756",
+      "name": "29元励志卡套餐",
+      "area": "海南",
+      "price": 29.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HI100756",
+        "tariffStandard": "29元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-07-01 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hi.189.cn/v2020/ExpensesDetail?id=922740902",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-海南-24HI100767",
+      "name": "29元活力套餐",
+      "area": "海南",
+      "price": 29.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HI100767",
+        "tariffStandard": "29元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-08-16 00:00:00",
+        "offlineDate": "2027-12-15 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hi.189.cn/v2020/ExpensesDetail?id=923895690",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-海南-24HI100634",
+      "name": "加装手机29元套餐",
+      "area": "海南",
+      "price": 29.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HI100634",
+        "tariffStandard": "29元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-04-23 00:00:00",
+        "offlineDate": "2027-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hi.189.cn/v2020/ExpensesDetail?id=923759366",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-海南-24HI100202",
+      "name": "孝心卡29元套餐",
+      "area": "海南",
+      "price": 29.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HI100202",
+        "tariffStandard": "29元/月（标题提取，详见官方详情）",
+        "onlineDate": "2020-11-11 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hi.189.cn/v2020/ExpensesDetail?id=922543798",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-海南-24HI100430",
+      "name": "星卡29元",
+      "area": "海南",
+      "price": 29.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HI100430",
+        "tariffStandard": "29元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-12-28 00:00:00",
+        "offlineDate": "2027-01-31 00:00:00",
+        "category": "套餐",
+        "sourceUrl": "https://hi.189.cn/v2020/ExpensesDetail?id=922564458",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-海南-24HI100741",
+      "name": "39元励志卡套餐",
+      "area": "海南",
+      "price": 39.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HI100741",
+        "tariffStandard": "39元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-07-16 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hi.189.cn/v2020/ExpensesDetail?id=923881862",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-海南-24HI100429",
+      "name": "星卡39元",
+      "area": "海南",
+      "price": 39.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HI100429",
+        "tariffStandard": "39元/月（标题提取，详见官方详情）",
+        "onlineDate": "2022-01-26 00:00:00",
+        "offlineDate": "2027-01-31 00:00:00",
+        "category": "套餐",
+        "sourceUrl": "https://hi.189.cn/v2020/ExpensesDetail?id=922564796",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-海南-24HI100768",
+      "name": "校园39元套餐",
+      "area": "海南",
+      "price": 39.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HI100768",
+        "tariffStandard": "39元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-08-20 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hi.189.cn/v2020/ExpensesDetail?id=923759780",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-海南-25HI100332",
+      "name": "畅享39元套餐202601版",
+      "area": "海南",
+      "price": 39.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HI100332",
+        "tariffStandard": "39元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-31 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hi.189.cn/v2020/ExpensesDetail?id=924456998",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-海南-24HI100475",
+      "name": "5G畅享59元套餐",
+      "area": "海南",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HI100475",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-09-01 00:00:00",
+        "offlineDate": "2026-10-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hi.189.cn/v2020/ExpensesDetail?id=923570840",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-海南-24HI100633",
+      "name": "加装手机59元套餐",
+      "area": "海南",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HI100633",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-04-23 00:00:00",
+        "offlineDate": "2027-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hi.189.cn/v2020/ExpensesDetail?id=923759423",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-海南-24HI100431",
+      "name": "星卡流量版（59元）",
+      "area": "海南",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HI100431",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-11-30 00:00:00",
+        "offlineDate": "2027-10-31 00:00:00",
+        "category": "套餐",
+        "sourceUrl": "https://hi.189.cn/v2020/ExpensesDetail?id=922543718",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-海南-24HI100617",
+      "name": "畅享59元套餐B版",
+      "area": "海南",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HI100617",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-09-03 00:00:00",
+        "offlineDate": "2027-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hi.189.cn/v2020/ExpensesDetail?id=923908730",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-海南-24HI100397",
+      "name": "5G畅享79元套餐",
+      "area": "海南",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HI100397",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-09-01 00:00:00",
+        "offlineDate": "2026-11-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hi.189.cn/v2020/ExpensesDetail?id=923570849",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-海南-24HI100611",
+      "name": "畅享79元套餐B版",
+      "area": "海南",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HI100611",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-09-03 00:00:00",
+        "offlineDate": "2027-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hi.189.cn/v2020/ExpensesDetail?id=923909386",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-海南-24HI100427",
+      "name": "5G畅享99元套餐",
+      "area": "海南",
+      "price": 99.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HI100427",
+        "tariffStandard": "99元/月（标题提取，详见官方详情）",
+        "onlineDate": "2022-01-01 00:00:00",
+        "offlineDate": "2027-01-31 00:00:00",
+        "category": "套餐",
+        "sourceUrl": "https://hi.189.cn/v2020/ExpensesDetail?id=922564565",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-海南-24HI100610",
+      "name": "畅享99元套餐B版",
+      "area": "海南",
+      "price": 99.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HI100610",
+        "tariffStandard": "99元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-09-03 00:00:00",
+        "offlineDate": "2027-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hi.189.cn/v2020/ExpensesDetail?id=923909397",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-海南-24HI100317",
+      "name": "5G畅享129元套餐",
+      "area": "海南",
+      "price": 129.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HI100317",
+        "tariffStandard": "129元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-31 00:00:00",
+        "offlineDate": "2027-01-31 00:00:00",
+        "category": "套餐",
+        "sourceUrl": "https://hi.189.cn/v2020/ExpensesDetail?id=921310084",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-海南-24HI100616",
+      "name": "畅享139元套餐B版",
+      "area": "海南",
+      "price": 139.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HI100616",
+        "tariffStandard": "139元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-09-03 00:00:00",
+        "offlineDate": "2027-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hi.189.cn/v2020/ExpensesDetail?id=923908751",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-海南-24HI100315",
+      "name": "5G畅享169元套餐",
+      "area": "海南",
+      "price": 169.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HI100315",
+        "tariffStandard": "169元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-31 00:00:00",
+        "offlineDate": "2027-01-31 00:00:00",
+        "category": "套餐",
+        "sourceUrl": "https://hi.189.cn/v2020/ExpensesDetail?id=921310128",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-海南-25HI100261",
+      "name": "5G-A199元套餐",
+      "area": "海南",
+      "price": 199.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HI100261",
+        "tariffStandard": "199元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-09-30 00:00:00",
+        "offlineDate": "2027-09-30 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hi.189.cn/v2020/ExpensesDetail?id=924323052",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-海南-25HI100262",
+      "name": "5G-A239元套餐",
+      "area": "海南",
+      "price": 239.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HI100262",
+        "tariffStandard": "239元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-09-30 00:00:00",
+        "offlineDate": "2027-09-30 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hi.189.cn/v2020/ExpensesDetail?id=924323048",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-海南-25HI100141",
+      "name": "5G-A299元套餐",
+      "area": "海南",
+      "price": 299.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HI100141",
+        "tariffStandard": "299元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-04-24 00:00:00",
+        "offlineDate": "2027-04-24 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hi.189.cn/v2020/ExpensesDetail?id=924106382",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-海南-25HI100142",
+      "name": "5G-A399元套餐",
+      "area": "海南",
+      "price": 399.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HI100142",
+        "tariffStandard": "399元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-04-24 00:00:00",
+        "offlineDate": "2027-04-24 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://hi.189.cn/v2020/ExpensesDetail?id=924109936",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-海南-24HI100316",
+      "name": "5G畅享599元套餐",
+      "area": "海南",
+      "price": 599.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HI100316",
+        "tariffStandard": "599元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-31 00:00:00",
+        "offlineDate": "2027-01-31 00:00:00",
+        "category": "套餐",
+        "sourceUrl": "https://hi.189.cn/v2020/ExpensesDetail?id=921310105",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    }
+  ]
+}

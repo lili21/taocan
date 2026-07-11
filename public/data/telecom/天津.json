@@ -1,0 +1,614 @@
+{
+  "area": "天津",
+  "plans": [
+    {
+      "id": "telecom-天津-24TJ101549",
+      "name": "十全十美套餐200M（天翼高清10元）",
+      "area": "天津",
+      "price": 10.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24TJ101549",
+        "tariffStandard": "10元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-07-15 00:00:00",
+        "offlineDate": "2036-01-01 00:00:00",
+        "category": "套餐",
+        "sourceUrl": "https://tj.189.cn/tj/postageNew/postageInfo.action?id=720",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-天津-24TJ101550",
+      "name": "十全十美套餐300M（天翼高清10元）",
+      "area": "天津",
+      "price": 10.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24TJ101550",
+        "tariffStandard": "10元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-07-15 00:00:00",
+        "offlineDate": "2036-01-01 00:00:00",
+        "category": "套餐",
+        "sourceUrl": "https://tj.189.cn/tj/postageNew/postageInfo.action?id=721",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-天津-25TJ100030",
+      "name": "星卡29元（2022版）",
+      "area": "天津",
+      "price": 29.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25TJ100030",
+        "tariffStandard": "29元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-12-28 00:00:00",
+        "offlineDate": "2036-01-01 00:00:00",
+        "category": "套餐",
+        "sourceUrl": "https://tj.189.cn/tj/postageNew/postageInfo.action?id=1160",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-天津-26TJ100040",
+      "name": "5G畅享39元套餐（2026款）",
+      "area": "天津",
+      "price": 39.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26TJ100040",
+        "tariffStandard": "39元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-02-03 00:00:00",
+        "offlineDate": "2035-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://tj.189.cn/tj/postageNew/postageInfo.action?id=1547",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-天津-25TJ100031",
+      "name": "星卡39元（2022版）",
+      "area": "天津",
+      "price": 39.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25TJ100031",
+        "tariffStandard": "39元/月（标题提取，详见官方详情）",
+        "onlineDate": "2022-01-26 00:00:00",
+        "offlineDate": "2036-01-01 00:00:00",
+        "category": "套餐",
+        "sourceUrl": "https://tj.189.cn/tj/postageNew/postageInfo.action?id=1161",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-天津-24TJ101516",
+      "name": "5G畅享59元套餐",
+      "area": "天津",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24TJ101516",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-08-31 00:00:00",
+        "offlineDate": "2036-01-01 00:00:00",
+        "category": "套餐",
+        "sourceUrl": "https://tj.189.cn/tj/postageNew/postageInfo.action?id=490",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-天津-26TJ100041",
+      "name": "5G畅享59元套餐（2026款）",
+      "area": "天津",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26TJ100041",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-02-03 00:00:00",
+        "offlineDate": "2035-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://tj.189.cn/tj/postageNew/postageInfo.action?id=1548",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-天津-25TJ100029",
+      "name": "星卡流量版（59元）",
+      "area": "天津",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25TJ100029",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-11-30 00:00:00",
+        "offlineDate": "2036-01-01 00:00:00",
+        "category": "套餐",
+        "sourceUrl": "https://tj.189.cn/tj/postageNew/postageInfo.action?id=1159",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-天津-24TJ100028",
+      "name": "5G畅享79元套餐",
+      "area": "天津",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24TJ100028",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-12-10 00:00:00",
+        "offlineDate": "2036-01-01 00:00:00",
+        "category": "套餐",
+        "sourceUrl": "https://tj.189.cn/tj/postageNew/postageInfo.action?id=826",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-天津-24TJ101512",
+      "name": "5G畅享99元套餐",
+      "area": "天津",
+      "price": 99.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24TJ101512",
+        "tariffStandard": "99元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-12-31 00:00:00",
+        "offlineDate": "2036-01-01 00:00:00",
+        "category": "套餐",
+        "sourceUrl": "https://tj.189.cn/tj/postageNew/postageInfo.action?id=486",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-天津-24TJ100053",
+      "name": "5G畅享129元套餐",
+      "area": "天津",
+      "price": 129.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24TJ100053",
+        "tariffStandard": "129元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-16 00:00:00",
+        "offlineDate": "2036-01-01 00:00:00",
+        "category": "套餐",
+        "sourceUrl": "https://tj.189.cn/tj/postageNew/postageInfo.action?id=479",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-天津-24TJ101507",
+      "name": "5G畅享169元套餐",
+      "area": "天津",
+      "price": 169.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24TJ101507",
+        "tariffStandard": "169元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-16 00:00:00",
+        "offlineDate": "2036-01-01 00:00:00",
+        "category": "套餐",
+        "sourceUrl": "https://tj.189.cn/tj/postageNew/postageInfo.action?id=480",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-天津-25TJ100284",
+      "name": "5G-A199元套餐202509",
+      "area": "天津",
+      "price": 199.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25TJ100284",
+        "tariffStandard": "199元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-10-11 00:00:00",
+        "offlineDate": "2036-01-01 00:00:00",
+        "category": "套餐",
+        "sourceUrl": "https://tj.189.cn/tj/postageNew/postageInfo.action?id=1430",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-天津-24TJ101508",
+      "name": "5G畅享199元套餐",
+      "area": "天津",
+      "price": 199.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24TJ101508",
+        "tariffStandard": "199元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-16 00:00:00",
+        "offlineDate": "2035-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://tj.189.cn/tj/postageNew/postageInfo.action?id=481",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-天津-25TJ100285",
+      "name": "5G-A239元套餐202509",
+      "area": "天津",
+      "price": 239.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25TJ100285",
+        "tariffStandard": "239元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-10-11 00:00:00",
+        "offlineDate": "2036-01-01 00:00:00",
+        "category": "套餐",
+        "sourceUrl": "https://tj.189.cn/tj/postageNew/postageInfo.action?id=1431",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-天津-24TJ101620",
+      "name": "5G畅享239元套餐",
+      "area": "天津",
+      "price": 239.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24TJ101620",
+        "tariffStandard": "239元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-16 00:00:00",
+        "offlineDate": "2035-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://tj.189.cn/tj/postageNew/postageInfo.action?id=482",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-天津-25TJ100216",
+      "name": "5G-A299元套餐",
+      "area": "天津",
+      "price": 299.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25TJ100216",
+        "tariffStandard": "299元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-07-31 00:00:00",
+        "offlineDate": "2036-01-01 00:00:00",
+        "category": "套餐",
+        "sourceUrl": "https://tj.189.cn/tj/postageNew/postageInfo.action?id=1359",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-天津-24TJ101509",
+      "name": "5G畅享299元套餐",
+      "area": "天津",
+      "price": 299.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24TJ101509",
+        "tariffStandard": "299元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-16 00:00:00",
+        "offlineDate": "2035-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://tj.189.cn/tj/postageNew/postageInfo.action?id=483",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-天津-25TJ100219",
+      "name": "5G-A399元套餐",
+      "area": "天津",
+      "price": 399.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25TJ100219",
+        "tariffStandard": "399元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-07-31 00:00:00",
+        "offlineDate": "2036-01-01 00:00:00",
+        "category": "套餐",
+        "sourceUrl": "https://tj.189.cn/tj/postageNew/postageInfo.action?id=1362",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-天津-24TJ101510",
+      "name": "5G畅享399元套餐",
+      "area": "天津",
+      "price": 399.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24TJ101510",
+        "tariffStandard": "399元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-16 00:00:00",
+        "offlineDate": "2035-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://tj.189.cn/tj/postageNew/postageInfo.action?id=484",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-天津-24TJ101511",
+      "name": "5G畅享599元套餐",
+      "area": "天津",
+      "price": 599.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24TJ101511",
+        "tariffStandard": "599元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-16 00:00:00",
+        "offlineDate": "2036-01-01 00:00:00",
+        "category": "套餐",
+        "sourceUrl": "https://tj.189.cn/tj/postageNew/postageInfo.action?id=485",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,527 @@
+{
+  "area": "贵州",
+  "plans": [
+    {
+      "id": "telecom-贵州-25GZ100105",
+      "name": "10元套餐费优惠合约-36期",
+      "area": "贵州",
+      "price": 10.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25GZ100105",
+        "tariffStandard": "10元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-10-18 00:00:00",
+        "offlineDate": "2026-10-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://m.gz.189.cn/wdweb/zfzq/cp/detail?rn=25GZ100105",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-贵州-26GZ100315",
+      "name": "基础功能服务10元月套餐",
+      "area": "贵州",
+      "price": 10.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26GZ100315",
+        "tariffStandard": "10元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-11-30 00:00:00",
+        "offlineDate": "2027-06-03 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://m.gz.189.cn/wdweb/zfzq/cp/detail?rn=26GZ100315",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-贵州-25GZ100546",
+      "name": "20元套餐费优惠合约36期（WiFi/FTTR）",
+      "area": "贵州",
+      "price": 20.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25GZ100546",
+        "tariffStandard": "20元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-10-24 00:00:00",
+        "offlineDate": "2027-09-30 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://m.gz.189.cn/wdweb/zfzq/cp/detail?rn=25GZ100546",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-贵州-24GZ100158",
+      "name": "星卡29元（2022版）",
+      "area": "贵州",
+      "price": 29.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24GZ100158",
+        "tariffStandard": "29元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-12-23 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://m.gz.189.cn/wdweb/zfzq/cp/detail?rn=24GZ100158",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-贵州-26GZ100018",
+      "name": "30元套餐费优惠合约36期（天翼智屏标准版）",
+      "area": "贵州",
+      "price": 30.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26GZ100018",
+        "tariffStandard": "30元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-01-14 00:00:00",
+        "offlineDate": "2027-04-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://m.gz.189.cn/wdweb/zfzq/cp/detail?rn=26GZ100018",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-贵州-24GZ100159",
+      "name": "星卡39元（2022版）",
+      "area": "贵州",
+      "price": 39.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24GZ100159",
+        "tariffStandard": "39元/月（标题提取，详见官方详情）",
+        "onlineDate": "2022-01-20 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://m.gz.189.cn/wdweb/zfzq/cp/detail?rn=24GZ100159",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-贵州-24GZ100136",
+      "name": "5G畅享59元套餐",
+      "area": "贵州",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24GZ100136",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-08-30 00:00:00",
+        "offlineDate": "2026-10-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://m.gz.189.cn/wdweb/zfzq/cp/detail?rn=24GZ100136",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-贵州-24GZ100161",
+      "name": "星卡流量版（59元）",
+      "area": "贵州",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24GZ100161",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-11-11 00:00:00",
+        "offlineDate": "2027-11-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://m.gz.189.cn/wdweb/zfzq/cp/detail?rn=24GZ100161",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-贵州-25GZ100101",
+      "name": "70元套餐费优惠合约-36期（FTTR+手机+云设备）",
+      "area": "贵州",
+      "price": 70.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25GZ100101",
+        "tariffStandard": "70元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-08-14 00:00:00",
+        "offlineDate": "2026-10-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://m.gz.189.cn/wdweb/zfzq/cp/detail?rn=25GZ100101",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-贵州-24GZ100137",
+      "name": "5G畅享99元套餐202112",
+      "area": "贵州",
+      "price": 99.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24GZ100137",
+        "tariffStandard": "99元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-12-29 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://m.gz.189.cn/wdweb/zfzq/cp/detail?rn=24GZ100137",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-贵州-24GZ100176",
+      "name": "5G畅享129元套餐201910",
+      "area": "贵州",
+      "price": 129.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24GZ100176",
+        "tariffStandard": "129元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-15 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://m.gz.189.cn/wdweb/zfzq/cp/detail?rn=24GZ100176",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-贵州-24GZ100138",
+      "name": "5G畅享169元套餐201910",
+      "area": "贵州",
+      "price": 169.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24GZ100138",
+        "tariffStandard": "169元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-15 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://m.gz.189.cn/wdweb/zfzq/cp/detail?rn=24GZ100138",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-贵州-24GZ100154",
+      "name": "5G畅享199元套餐201910",
+      "area": "贵州",
+      "price": 199.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24GZ100154",
+        "tariffStandard": "199元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-15 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://m.gz.189.cn/wdweb/zfzq/cp/detail?rn=24GZ100154",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-贵州-24GZ100160",
+      "name": "5G畅享239元套餐201910",
+      "area": "贵州",
+      "price": 239.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24GZ100160",
+        "tariffStandard": "239元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-15 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://m.gz.189.cn/wdweb/zfzq/cp/detail?rn=24GZ100160",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-贵州-24GZ100140",
+      "name": "5G畅享299元套餐201910",
+      "area": "贵州",
+      "price": 299.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24GZ100140",
+        "tariffStandard": "299元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-15 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://m.gz.189.cn/wdweb/zfzq/cp/detail?rn=24GZ100140",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-贵州-24GZ100157",
+      "name": "5G畅享399元套餐201910",
+      "area": "贵州",
+      "price": 399.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24GZ100157",
+        "tariffStandard": "399元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-15 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://m.gz.189.cn/wdweb/zfzq/cp/detail?rn=24GZ100157",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-贵州-24GZ100141",
+      "name": "5G畅享599元套餐201910",
+      "area": "贵州",
+      "price": 599.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24GZ100141",
+        "tariffStandard": "599元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-15 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://m.gz.189.cn/wdweb/zfzq/cp/detail?rn=24GZ100141",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-贵州-24GZ100143",
+      "name": "5G畅享899元套餐202005",
+      "area": "贵州",
+      "price": 899.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24GZ100143",
+        "tariffStandard": "899元/月（标题提取，详见官方详情）",
+        "onlineDate": "2020-05-30 00:00:00",
+        "offlineDate": "2027-02-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://m.gz.189.cn/wdweb/zfzq/cp/detail?rn=24GZ100143",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    }
+  ]
+}

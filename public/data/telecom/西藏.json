@@ -1,0 +1,1368 @@
+{
+  "area": "西藏",
+  "plans": [
+    {
+      "id": "telecom-西藏-25XZ101185",
+      "name": "3元5G升级关爱包30GB（全国）",
+      "area": "西藏",
+      "price": 3.0,
+      "data": 30,
+      "generalData": 30,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25XZ101185",
+        "tariffStandard": "3元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-03-21 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=25XZ101185",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-25XZ100412",
+      "name": "5元2GB全国流量次包（5G套餐）",
+      "area": "西藏",
+      "price": 5.0,
+      "data": 2,
+      "generalData": 2,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25XZ100412",
+        "tariffStandard": "5元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-09-01 00:00:00",
+        "offlineDate": "2026-09-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=25XZ100412",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-25XZ100397",
+      "name": "天翼对讲政企5元档套餐-预付费",
+      "area": "西藏",
+      "price": 5.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25XZ100397",
+        "tariffStandard": "5元/月（标题提取，详见官方详情）",
+        "onlineDate": "2016-03-30 00:00:00",
+        "offlineDate": "2046-04-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=25XZ100397",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-25XZ100094",
+      "name": "eSIM手表9元套餐50元促销-9月",
+      "area": "西藏",
+      "price": 9.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25XZ100094",
+        "tariffStandard": "9元/月（标题提取，详见官方详情）",
+        "onlineDate": "2018-01-10 00:00:00",
+        "offlineDate": "2026-10-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=25XZ100094",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-25XZ100101",
+      "name": "eSIM手表套餐9元",
+      "area": "西藏",
+      "price": 9.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25XZ100101",
+        "tariffStandard": "9元/月（标题提取，详见官方详情）",
+        "onlineDate": "2018-01-10 00:00:00",
+        "offlineDate": "2026-10-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=25XZ100101",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-25XZ100240",
+      "name": "10元5GB全国流量月包（5G套餐）",
+      "area": "西藏",
+      "price": 10.0,
+      "data": 5,
+      "generalData": 5,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25XZ100240",
+        "tariffStandard": "10元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-09-01 00:00:00",
+        "offlineDate": "2026-09-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=25XZ100240",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-25XZ100097",
+      "name": "eSIM手表套餐19元",
+      "area": "西藏",
+      "price": 19.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25XZ100097",
+        "tariffStandard": "19元/月（标题提取，详见官方详情）",
+        "onlineDate": "2018-01-10 00:00:00",
+        "offlineDate": "2026-10-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=25XZ100097",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-25XZ100212",
+      "name": "20元5G升级关爱包100GB（全国）",
+      "area": "西藏",
+      "price": 20.0,
+      "data": 100,
+      "generalData": 100,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25XZ100212",
+        "tariffStandard": "20元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-11-01 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=25XZ100212",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-24XZ100165",
+      "name": "星卡29元（2022版）",
+      "area": "西藏",
+      "price": 29.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24XZ100165",
+        "tariffStandard": "29元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-12-28 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=24XZ100165",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-25XZ100213",
+      "name": "30元5G升级关爱包200GB（全国）",
+      "area": "西藏",
+      "price": 30.0,
+      "data": 200,
+      "generalData": 200,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25XZ100213",
+        "tariffStandard": "30元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-11-01 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=25XZ100213",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-24XZ100166",
+      "name": "星卡39元（2022版）",
+      "area": "西藏",
+      "price": 39.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24XZ100166",
+        "tariffStandard": "39元/月（标题提取，详见官方详情）",
+        "onlineDate": "2022-01-26 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=24XZ100166",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-25XZ101721",
+      "name": "电信步步高39元套餐201901",
+      "area": "西藏",
+      "price": 39.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25XZ101721",
+        "tariffStandard": "39元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-07-10 00:00:00",
+        "offlineDate": "2099-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=25XZ101721",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-25XZ101720",
+      "name": "电信步步高39元套餐201909",
+      "area": "西藏",
+      "price": 39.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25XZ101720",
+        "tariffStandard": "39元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-07-10 00:00:00",
+        "offlineDate": "2099-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=25XZ101720",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-25XZ101088",
+      "name": "伊利专用2025版50元套餐",
+      "area": "西藏",
+      "price": 50.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25XZ101088",
+        "tariffStandard": "50元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-04-12 00:00:00",
+        "offlineDate": "2027-05-09 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=25XZ101088",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-25XZ100002",
+      "name": "复制于59元大牛卡套餐(6G)20250311202736",
+      "area": "西藏",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25XZ100002",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-07-10 00:00:00",
+        "offlineDate": "2099-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=25XZ100002",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-26XZ100004",
+      "name": "复制于59元大牛卡套餐(6G)20260313165044",
+      "area": "西藏",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26XZ100004",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2018-07-22 00:00:00",
+        "offlineDate": "2031-03-15 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=26XZ100004",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-26XZ100001",
+      "name": "复制于59元大牛卡套餐(6G)20260316094639",
+      "area": "西藏",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26XZ100001",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2018-07-22 00:00:00",
+        "offlineDate": "2031-03-15 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=26XZ100001",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-24XZ100163",
+      "name": "星卡流量版（59元）",
+      "area": "西藏",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24XZ100163",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-11-30 00:00:00",
+        "offlineDate": "2027-10-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=24XZ100163",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-24XZ100159",
+      "name": "星卡（59元）",
+      "area": "西藏",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24XZ100159",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2020-05-15 00:00:00",
+        "offlineDate": "2027-04-30 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=24XZ100159",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-25XZ100172",
+      "name": "电信畅享79元套餐201909（升级版）",
+      "area": "西藏",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25XZ100172",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-01 00:00:00",
+        "offlineDate": "2027-10-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=25XZ100172",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-25XZ100302",
+      "name": "新酒店完美联盟201609 90元套餐-后付费",
+      "area": "西藏",
+      "price": 90.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25XZ100302",
+        "tariffStandard": "90元/月（标题提取，详见官方详情）",
+        "onlineDate": "2016-09-08 00:00:00",
+        "offlineDate": "2099-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=25XZ100302",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-26XZ100087",
+      "name": "5G畅享99元单品套餐8折优惠（36期）",
+      "area": "西藏",
+      "price": 99.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26XZ100087",
+        "tariffStandard": "99元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-04-20 00:00:00",
+        "offlineDate": "2027-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=26XZ100087",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-25XZ100512",
+      "name": "新装套餐话费预存包（100元）",
+      "area": "西藏",
+      "price": 100.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25XZ100512",
+        "tariffStandard": "100元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-02-01 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=25XZ100512",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-24XZ100155",
+      "name": "5G畅享129元套餐201910",
+      "area": "西藏",
+      "price": 129.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24XZ100155",
+        "tariffStandard": "129元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-31 00:00:00",
+        "offlineDate": "2027-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=24XZ100155",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-25XZ100912",
+      "name": "套餐升档打折促销129元—199元档（8.5折）",
+      "area": "西藏",
+      "price": 129.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25XZ100912",
+        "tariffStandard": "129元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-12-22 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=25XZ100912",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-25XZ100828",
+      "name": "电信畅享129元20G套餐(升级版)",
+      "area": "西藏",
+      "price": 129.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25XZ100828",
+        "tariffStandard": "129元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-01-01 00:00:00",
+        "offlineDate": "2027-10-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=25XZ100828",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-25XZ100321",
+      "name": "新酒店完美联盟201609 138元套餐-后付费",
+      "area": "西藏",
+      "price": 138.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25XZ100321",
+        "tariffStandard": "138元/月（标题提取，详见官方详情）",
+        "onlineDate": "2016-09-08 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=25XZ100321",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-26XZ100086",
+      "name": "5G畅享139元、199、299单品套餐7折优惠（36期）",
+      "area": "西藏",
+      "price": 139.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26XZ100086",
+        "tariffStandard": "139元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-04-20 00:00:00",
+        "offlineDate": "2027-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=26XZ100086",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-25XZ101365",
+      "name": "千兆FTTR月付型套餐190元（公众版）",
+      "area": "西藏",
+      "price": 190.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25XZ101365",
+        "tariffStandard": "190元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-10-25 00:00:00",
+        "offlineDate": "2028-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=25XZ101365",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-25XZ101812",
+      "name": "5G-A 199元套餐202509",
+      "area": "西藏",
+      "price": 199.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25XZ101812",
+        "tariffStandard": "199元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-09-22 00:00:00",
+        "offlineDate": "2027-09-30 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=25XZ101812",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-24XZ100158",
+      "name": "5G畅享199元套餐201910",
+      "area": "西藏",
+      "price": 199.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24XZ100158",
+        "tariffStandard": "199元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-31 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=24XZ100158",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-26XZ100026",
+      "name": "畅享40GB(199元)套餐-后付费",
+      "area": "西藏",
+      "price": 199.0,
+      "data": 40,
+      "generalData": 40,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26XZ100026",
+        "tariffStandard": "199元/月（标题提取，详见官方详情）",
+        "onlineDate": "2017-05-10 00:00:00",
+        "offlineDate": "2027-11-28 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=26XZ100026",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-25XZ100936",
+      "name": "云桌面—基础套餐——204元/月",
+      "area": "西藏",
+      "price": 204.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25XZ100936",
+        "tariffStandard": "204元/月（标题提取，详见官方详情）",
+        "onlineDate": "2020-01-01 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=25XZ100936",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-25XZ101811",
+      "name": "5G-A 239元套餐202509",
+      "area": "西藏",
+      "price": 239.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25XZ101811",
+        "tariffStandard": "239元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-10-01 00:00:00",
+        "offlineDate": "2027-09-30 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=25XZ101811",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-24XZ100157",
+      "name": "5G畅享239元套餐201910",
+      "area": "西藏",
+      "price": 239.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24XZ100157",
+        "tariffStandard": "239元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-31 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=24XZ100157",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-25XZ101079",
+      "name": "5G-A 299元套餐202503",
+      "area": "西藏",
+      "price": 299.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25XZ101079",
+        "tariffStandard": "299元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-04-24 00:00:00",
+        "offlineDate": "2027-04-24 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=25XZ101079",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-24XZ100153",
+      "name": "5G畅享299元套餐201910",
+      "area": "西藏",
+      "price": 299.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24XZ100153",
+        "tariffStandard": "299元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-31 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=24XZ100153",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-25XZ100368",
+      "name": "套餐升档打折促销299元—999元档（8折）",
+      "area": "西藏",
+      "price": 299.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25XZ100368",
+        "tariffStandard": "299元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-12-22 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=25XZ100368",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-25XZ100001",
+      "name": "天翼领航光速A8套餐不限时358元档-后付费",
+      "area": "西藏",
+      "price": 358.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25XZ100001",
+        "tariffStandard": "358元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-07-10 00:00:00",
+        "offlineDate": "2099-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=25XZ100001",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-25XZ101609",
+      "name": "云桌面—基础套餐——380元/月",
+      "area": "西藏",
+      "price": 380.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25XZ101609",
+        "tariffStandard": "380元/月（标题提取，详见官方详情）",
+        "onlineDate": "2020-01-01 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=25XZ101609",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-25XZ101078",
+      "name": "5G-A 399元套餐202503",
+      "area": "西藏",
+      "price": 399.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25XZ101078",
+        "tariffStandard": "399元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-04-24 00:00:00",
+        "offlineDate": "2027-04-24 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=25XZ101078",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-24XZ100156",
+      "name": "5G畅享399元套餐201910",
+      "area": "西藏",
+      "price": 399.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24XZ100156",
+        "tariffStandard": "399元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-31 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=24XZ100156",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-25XZ101817",
+      "name": "400元智屏套餐",
+      "area": "西藏",
+      "price": 400.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25XZ101817",
+        "tariffStandard": "400元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-10-16 00:00:00",
+        "offlineDate": "2029-10-16 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=25XZ101817",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-25XZ101674",
+      "name": "20200108天通公免500元月套餐（公免版）",
+      "area": "西藏",
+      "price": 500.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25XZ101674",
+        "tariffStandard": "500元/月（标题提取，详见官方详情）",
+        "onlineDate": "2020-02-25 00:00:00",
+        "offlineDate": "2030-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=25XZ101674",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-24XZ100154",
+      "name": "5G畅享599元套餐201910",
+      "area": "西藏",
+      "price": 599.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24XZ100154",
+        "tariffStandard": "599元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-31 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=24XZ100154",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-25XZ100848",
+      "name": "云桌面—基础套餐——691元/月",
+      "area": "西藏",
+      "price": 691.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25XZ100848",
+        "tariffStandard": "691元/月（标题提取，详见官方详情）",
+        "onlineDate": "2020-01-01 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=25XZ100848",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-西藏-25XZ100314",
+      "name": "全额购套餐打折包（存量用户直降799元）",
+      "area": "西藏",
+      "price": 799.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25XZ100314",
+        "tariffStandard": "799元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-03-12 00:00:00",
+        "offlineDate": "2029-03-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapxz.189.cn/clover-web/ability/Tariff/C-net/TariffQueryDetail.html?reportNo=25XZ100314",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    }
+  ]
+}

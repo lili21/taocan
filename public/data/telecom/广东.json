@@ -1,0 +1,1600 @@
+{
+  "area": "广东",
+  "plans": [
+    {
+      "id": "telecom-广东-25GD101774",
+      "name": "星卡1元升级语音流量包",
+      "area": "广东",
+      "price": 1.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25GD101774",
+        "tariffStandard": "1元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-01-04 00:00:00",
+        "offlineDate": "2029-12-20 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=25GD101774",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-25GD100200",
+      "name": "数字名片（5元）包月套餐",
+      "area": "广东",
+      "price": 5.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25GD100200",
+        "tariffStandard": "5元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-12-31 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=25GD100200",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-25GD100203",
+      "name": "来电名片叠加包套餐C_5元/月（限1000元以上套餐订购）",
+      "area": "广东",
+      "price": 5.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25GD100203",
+        "tariffStandard": "5元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-10-31 00:00:00",
+        "offlineDate": "2026-10-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=25GD100203",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-24GD100341",
+      "name": "eSIM手表9元套餐50元促销-9月",
+      "area": "广东",
+      "price": 9.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24GD100341",
+        "tariffStandard": "9元/月（标题提取，详见官方详情）",
+        "onlineDate": "2018-01-08 00:00:00",
+        "offlineDate": "2026-10-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=24GD100341",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-24GD100339",
+      "name": "eSIM手表套餐9元（预付费）",
+      "area": "广东",
+      "price": 9.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24GD100339",
+        "tariffStandard": "9元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-01-01 00:00:00",
+        "offlineDate": "2026-10-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=24GD100339",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-25GD100084",
+      "name": "10元套餐优惠_24个月",
+      "area": "广东",
+      "price": 10.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25GD100084",
+        "tariffStandard": "10元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-11-04 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=25GD100084",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-24GD100211",
+      "name": "商务音频彩铃子号包月套餐（10元/月）",
+      "area": "广东",
+      "price": 10.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24GD100211",
+        "tariffStandard": "10元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-01-11 00:00:00",
+        "offlineDate": "2027-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=24GD100211",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-24GD100338",
+      "name": "天翼高清包月套餐（10元/月）",
+      "area": "广东",
+      "price": 10.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24GD100338",
+        "tariffStandard": "10元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-01-01 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=24GD100338",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-24GD100337",
+      "name": "广东IPTV子账号包月套餐（10元）",
+      "area": "广东",
+      "price": 10.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24GD100337",
+        "tariffStandard": "10元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-01-01 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=24GD100337",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-25GD100788",
+      "name": "挂机短信_包月套餐（10元）",
+      "area": "广东",
+      "price": 10.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25GD100788",
+        "tariffStandard": "10元/月（标题提取，详见官方详情）",
+        "onlineDate": "2014-03-25 00:00:00",
+        "offlineDate": "2033-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=25GD100788",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-24GD100085",
+      "name": "无忧卡（升级版）-10元",
+      "area": "广东",
+      "price": 10.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24GD100085",
+        "tariffStandard": "10元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-01-01 00:00:00",
+        "offlineDate": "2028-06-30 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=24GD100085",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-25GD100193",
+      "name": "来电名片（10元）包月套餐",
+      "area": "广东",
+      "price": 10.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25GD100193",
+        "tariffStandard": "10元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-12-04 00:00:00",
+        "offlineDate": "2027-07-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=25GD100193",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-25GD100147",
+      "name": "FTTR 从网关月调测套餐3年期_15元",
+      "area": "广东",
+      "price": 15.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25GD100147",
+        "tariffStandard": "15元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-10-10 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=25GD100147",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-25GD101744",
+      "name": "全屋WiFi月服务套餐（15元）",
+      "area": "广东",
+      "price": 15.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25GD101744",
+        "tariffStandard": "15元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-04-01 00:00:00",
+        "offlineDate": "2027-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=25GD101744",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-24GD100723",
+      "name": "天翼高清包月套餐（15元/月）",
+      "area": "广东",
+      "price": 15.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24GD100723",
+        "tariffStandard": "15元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-01-01 00:00:00",
+        "offlineDate": "2027-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=24GD100723",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-24GD100340",
+      "name": "eSIM手表套餐19元（预付费）",
+      "area": "广东",
+      "price": 19.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24GD100340",
+        "tariffStandard": "19元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-01-01 00:00:00",
+        "offlineDate": "2026-10-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=24GD100340",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-25GD101749",
+      "name": "全屋WiFi月服务套餐（20元）",
+      "area": "广东",
+      "price": 20.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25GD101749",
+        "tariffStandard": "20元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-07-05 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=25GD101749",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-26GD100173",
+      "name": "天翼高清全能看包月套餐 （20元/月）",
+      "area": "广东",
+      "price": 20.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26GD100173",
+        "tariffStandard": "20元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-02-28 00:00:00",
+        "offlineDate": "2028-02-27 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=26GD100173",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-25GD100146",
+      "name": "FTTR主网关月调测套餐3年期_25元",
+      "area": "广东",
+      "price": 25.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25GD100146",
+        "tariffStandard": "25元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-10-10 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=25GD100146",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-24GD100218",
+      "name": "星卡29元（2022版）",
+      "area": "广东",
+      "price": 29.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24GD100218",
+        "tariffStandard": "29元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-12-23 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=24GD100218",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-25GD101631",
+      "name": "畅享29元套餐",
+      "area": "广东",
+      "price": 29.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25GD101631",
+        "tariffStandard": "29元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-07-21 00:00:00",
+        "offlineDate": "2027-07-08 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=25GD101631",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-26GD100175",
+      "name": "天翼高清全能看合约套餐（30元/月）",
+      "area": "广东",
+      "price": 30.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26GD100175",
+        "tariffStandard": "30元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-02-28 00:00:00",
+        "offlineDate": "2028-02-27 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=26GD100175",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-26GD100156",
+      "name": "挂机5G消息39元包月套餐",
+      "area": "广东",
+      "price": 39.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26GD100156",
+        "tariffStandard": "39元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-04-01 00:00:00",
+        "offlineDate": "2028-03-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=26GD100156",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-24GD100224",
+      "name": "星卡39元（2022版）",
+      "area": "广东",
+      "price": 39.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24GD100224",
+        "tariffStandard": "39元/月（标题提取，详见官方详情）",
+        "onlineDate": "2022-01-20 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=24GD100224",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-25GD100192",
+      "name": "来电名片（39元）包月套餐",
+      "area": "广东",
+      "price": 39.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25GD100192",
+        "tariffStandard": "39元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-12-04 00:00:00",
+        "offlineDate": "2027-07-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=25GD100192",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-25GD101630",
+      "name": "畅享39元套餐",
+      "area": "广东",
+      "price": 39.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25GD101630",
+        "tariffStandard": "39元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-07-21 00:00:00",
+        "offlineDate": "2027-07-08 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=25GD101630",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-25GD101849",
+      "name": "FTTR主网关月调测套餐2年期_40元",
+      "area": "广东",
+      "price": 40.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25GD101849",
+        "tariffStandard": "40元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-10-10 00:00:00",
+        "offlineDate": "2026-10-10 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=25GD101849",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-25GD100182",
+      "name": "商务彩铃主号包月商企分享版套餐（50元/月）",
+      "area": "广东",
+      "price": 50.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25GD100182",
+        "tariffStandard": "50元/月（标题提取，详见官方详情）",
+        "onlineDate": "2022-09-20 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=25GD100182",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-24GD100277",
+      "name": "商务彩铃主号包月套餐（50元/月）",
+      "area": "广东",
+      "price": 50.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24GD100277",
+        "tariffStandard": "50元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-12-01 00:00:00",
+        "offlineDate": "2027-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=24GD100277",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-24GD100581",
+      "name": "5G畅享59元套餐",
+      "area": "广东",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24GD100581",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-08-30 00:00:00",
+        "offlineDate": "2026-10-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=24GD100581",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-24GD100217",
+      "name": "星卡流量版（59元）",
+      "area": "广东",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24GD100217",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-11-11 00:00:00",
+        "offlineDate": "2027-10-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=24GD100217",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-25GD100188",
+      "name": "来电名片（59元）包月套餐",
+      "area": "广东",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25GD100188",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-12-04 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=25GD100188",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-25GD100791",
+      "name": "挂机短信_包月套餐（68元）",
+      "area": "广东",
+      "price": 68.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25GD100791",
+        "tariffStandard": "68元/月（标题提取，详见官方详情）",
+        "onlineDate": "2014-03-25 00:00:00",
+        "offlineDate": "2033-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=25GD100791",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-24GD100436",
+      "name": "5G畅享79元套餐",
+      "area": "广东",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24GD100436",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-08-30 00:00:00",
+        "offlineDate": "2026-10-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=24GD100436",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-24GD100824",
+      "name": "5G畅享99元套餐202112",
+      "area": "广东",
+      "price": 99.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24GD100824",
+        "tariffStandard": "99元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-12-29 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=24GD100824",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-25GD101947",
+      "name": "固网调测套餐（不出外线补收费）_99元",
+      "area": "广东",
+      "price": 99.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25GD101947",
+        "tariffStandard": "99元/月（标题提取，详见官方详情）",
+        "onlineDate": "2020-05-22 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=25GD101947",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-24GD100528",
+      "name": "预存100元得220元（抵扣套餐费）",
+      "area": "广东",
+      "price": 100.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24GD100528",
+        "tariffStandard": "100元/月（标题提取，详见官方详情）",
+        "onlineDate": "2022-05-13 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=24GD100528",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-24GD100620",
+      "name": "预存100元（39元星卡与暖心卡）",
+      "area": "广东",
+      "price": 100.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24GD100620",
+        "tariffStandard": "100元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-05-19 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=24GD100620",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-24GD100076",
+      "name": "5G畅享129元套餐201910",
+      "area": "广东",
+      "price": 129.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24GD100076",
+        "tariffStandard": "129元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-01-01 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=24GD100076",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-24GD100170",
+      "name": "5G畅享169元套餐201910",
+      "area": "广东",
+      "price": 169.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24GD100170",
+        "tariffStandard": "169元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-01-01 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=24GD100170",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-24GD100075",
+      "name": "5G畅享199元套餐201910",
+      "area": "广东",
+      "price": 199.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24GD100075",
+        "tariffStandard": "199元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-01-01 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=24GD100075",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-25GD101945",
+      "name": "固网调测套餐（不出外线补收费）_199元",
+      "area": "广东",
+      "price": 199.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25GD101945",
+        "tariffStandard": "199元/月（标题提取，详见官方详情）",
+        "onlineDate": "2020-05-22 00:00:00",
+        "offlineDate": "2027-06-30 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=25GD101945",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-25GD100195",
+      "name": "来电名片（200元）包月套餐",
+      "area": "广东",
+      "price": 200.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25GD100195",
+        "tariffStandard": "200元/月（标题提取，详见官方详情）",
+        "onlineDate": "2022-03-30 00:00:00",
+        "offlineDate": "2027-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=25GD100195",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-25GD100002",
+      "name": "音频商务彩铃制作费（200元）套餐",
+      "area": "广东",
+      "price": 200.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25GD100002",
+        "tariffStandard": "200元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-12-26 00:00:00",
+        "offlineDate": "2027-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=25GD100002",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-24GD100083",
+      "name": "5G畅享239元套餐201910",
+      "area": "广东",
+      "price": 239.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24GD100083",
+        "tariffStandard": "239元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-01-01 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=24GD100083",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-24GD100081",
+      "name": "5G畅享299元套餐201910",
+      "area": "广东",
+      "price": 299.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24GD100081",
+        "tariffStandard": "299元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-01-01 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=24GD100081",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-25GD101946",
+      "name": "固网调测套餐（不出外线补收费）_299元",
+      "area": "广东",
+      "price": 299.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25GD101946",
+        "tariffStandard": "299元/月（标题提取，详见官方详情）",
+        "onlineDate": "2020-05-22 00:00:00",
+        "offlineDate": "2027-06-30 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=25GD101946",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-25GD102062",
+      "name": "5G-A 399元套餐202503",
+      "area": "广东",
+      "price": 399.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25GD102062",
+        "tariffStandard": "399元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-04-21 00:00:00",
+        "offlineDate": "2027-04-24 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=25GD102062",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-24GD100074",
+      "name": "5G畅享399元套餐201910",
+      "area": "广东",
+      "price": 399.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24GD100074",
+        "tariffStandard": "399元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-01-01 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=24GD100074",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-24GD100240",
+      "name": "全额预存分期代收合约套餐_（翼合网）直降400元_12个月",
+      "area": "广东",
+      "price": 400.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24GD100240",
+        "tariffStandard": "400元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-08-30 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=24GD100240",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-26GD100134",
+      "name": "来电名片（500元）包年套餐",
+      "area": "广东",
+      "price": 500.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26GD100134",
+        "tariffStandard": "500元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-02-01 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=26GD100134",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-25GD100189",
+      "name": "来电名片（500元）包月套餐",
+      "area": "广东",
+      "price": 500.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25GD100189",
+        "tariffStandard": "500元/月（标题提取，详见官方详情）",
+        "onlineDate": "2020-04-10 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=25GD100189",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-24GD100077",
+      "name": "5G畅享599元套餐201910",
+      "area": "广东",
+      "price": 599.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24GD100077",
+        "tariffStandard": "599元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-01-01 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=24GD100077",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-24GD100253",
+      "name": "全额预存分期代收合约套餐_（翼合网）直降600元_24个月",
+      "area": "广东",
+      "price": 600.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24GD100253",
+        "tariffStandard": "600元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-08-30 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=24GD100253",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-广东-24GD100244",
+      "name": "全额预存分期代收合约套餐_（翼合网）直降800元_24个月",
+      "area": "广东",
+      "price": 800.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24GD100244",
+        "tariffStandard": "800元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-07-11 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://gd.189.cn/support/fee/zone/index.html#/detail?report_no=24GD100244",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1310 @@
+{
+  "area": "宁夏",
+  "plans": [
+    {
+      "id": "telecom-宁夏-24NX100034",
+      "name": "201607升值包iTV每月25元套餐",
+      "area": "宁夏",
+      "price": 25.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24NX100034",
+        "tariffStandard": "25元/月（标题提取，详见官方详情）",
+        "onlineDate": "2016-06-30 00:00:00",
+        "offlineDate": "2027-02-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=24NX100034",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-26NX100014",
+      "name": "5G畅享套餐优惠包39元档202601",
+      "area": "宁夏",
+      "price": 39.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26NX100014",
+        "tariffStandard": "39元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-01-22 00:00:00",
+        "offlineDate": "2027-01-21 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=26NX100014",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-24NX100115",
+      "name": "星卡39元（2022版）",
+      "area": "宁夏",
+      "price": 39.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24NX100115",
+        "tariffStandard": "39元/月（标题提取，详见官方详情）",
+        "onlineDate": "2022-01-20 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=24NX100115",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-24NX100087",
+      "name": "5G畅享59元套餐专属权益包202310",
+      "area": "宁夏",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24NX100087",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-10-13 00:00:00",
+        "offlineDate": "2027-10-12 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=24NX100087",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-25NX100153",
+      "name": "5G畅享59元套餐（存量迁转）",
+      "area": "宁夏",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25NX100153",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-10-03 00:00:00",
+        "offlineDate": "2027-10-03 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=25NX100153",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-26NX100015",
+      "name": "5G畅享套餐优惠包59元档202601",
+      "area": "宁夏",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26NX100015",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-01-22 00:00:00",
+        "offlineDate": "2027-01-21 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=26NX100015",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-25NX100062",
+      "name": "星卡流量版（59元）",
+      "area": "宁夏",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25NX100062",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-11-11 00:00:00",
+        "offlineDate": "2027-12-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=25NX100062",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-25NX100203",
+      "name": "5G畅享79元套餐202601",
+      "area": "宁夏",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25NX100203",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-20 00:00:00",
+        "offlineDate": "2027-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=25NX100203",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-24NX100091",
+      "name": "5G畅享79元套餐专属权益包202310",
+      "area": "宁夏",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24NX100091",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-10-13 00:00:00",
+        "offlineDate": "2027-10-12 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=24NX100091",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-26NX100079",
+      "name": "5G畅享79元套餐存费送权益合约（12个月）",
+      "area": "宁夏",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26NX100079",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-03-27 00:00:00",
+        "offlineDate": "2027-03-27 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=26NX100079",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-26NX100078",
+      "name": "5G畅享79元套餐存费送权益合约（3个月）",
+      "area": "宁夏",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26NX100078",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-03-27 00:00:00",
+        "offlineDate": "2027-03-27 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=26NX100078",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-26NX100076",
+      "name": "5G畅享79元套餐存费送权益合约（6个月）",
+      "area": "宁夏",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26NX100076",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-03-27 00:00:00",
+        "offlineDate": "2027-03-27 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=26NX100076",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-25NX100220",
+      "name": "5G畅享79元套餐话补合约202512",
+      "area": "宁夏",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25NX100220",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-20 00:00:00",
+        "offlineDate": "2027-12-18 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=25NX100220",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-26NX100013",
+      "name": "5G畅享套餐优惠包79元档202601",
+      "area": "宁夏",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26NX100013",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-01-22 00:00:00",
+        "offlineDate": "2027-01-21 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=26NX100013",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-24NX100094",
+      "name": "5G畅享89元套餐专属权益包202407",
+      "area": "宁夏",
+      "price": 89.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24NX100094",
+        "tariffStandard": "89元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-07-11 00:00:00",
+        "offlineDate": "2027-07-10 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=24NX100094",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-25NX100202",
+      "name": "5G畅享99元套餐202601",
+      "area": "宁夏",
+      "price": 99.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25NX100202",
+        "tariffStandard": "99元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-20 00:00:00",
+        "offlineDate": "2027-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=25NX100202",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-24NX100096",
+      "name": "5G畅享99元套餐专属权益包202407",
+      "area": "宁夏",
+      "price": 99.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24NX100096",
+        "tariffStandard": "99元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-07-11 00:00:00",
+        "offlineDate": "2027-07-10 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=24NX100096",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-26NX100081",
+      "name": "5G畅享99元套餐存费送权益合约（12个月）",
+      "area": "宁夏",
+      "price": 99.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26NX100081",
+        "tariffStandard": "99元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-03-27 00:00:00",
+        "offlineDate": "2027-03-27 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=26NX100081",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-26NX100080",
+      "name": "5G畅享99元套餐存费送权益合约（3个月）",
+      "area": "宁夏",
+      "price": 99.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26NX100080",
+        "tariffStandard": "99元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-03-27 00:00:00",
+        "offlineDate": "2027-03-27 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=26NX100080",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-26NX100094",
+      "name": "5G畅享99元套餐存费送权益合约（6个月）",
+      "area": "宁夏",
+      "price": 99.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26NX100094",
+        "tariffStandard": "99元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-03-27 00:00:00",
+        "offlineDate": "2027-03-27 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=26NX100094",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-25NX100222",
+      "name": "5G畅享99元套餐话补合约202512",
+      "area": "宁夏",
+      "price": 99.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25NX100222",
+        "tariffStandard": "99元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-20 00:00:00",
+        "offlineDate": "2027-12-18 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=25NX100222",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-24NX100077",
+      "name": "5G畅享129元套餐专属权益包202407",
+      "area": "宁夏",
+      "price": 129.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24NX100077",
+        "tariffStandard": "129元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-07-11 00:00:00",
+        "offlineDate": "2027-07-10 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=24NX100077",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-25NX100217",
+      "name": "5G畅享139元套餐202601",
+      "area": "宁夏",
+      "price": 139.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25NX100217",
+        "tariffStandard": "139元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-20 00:00:00",
+        "offlineDate": "2027-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=25NX100217",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-26NX100084",
+      "name": "5G畅享139元套餐存费送权益合约（12个月）",
+      "area": "宁夏",
+      "price": 139.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26NX100084",
+        "tariffStandard": "139元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-03-27 00:00:00",
+        "offlineDate": "2027-03-27 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=26NX100084",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-26NX100082",
+      "name": "5G畅享139元套餐存费送权益合约（3个月）",
+      "area": "宁夏",
+      "price": 139.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26NX100082",
+        "tariffStandard": "139元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-03-27 00:00:00",
+        "offlineDate": "2027-03-27 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=26NX100082",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-26NX100083",
+      "name": "5G畅享139元套餐存费送权益合约（6个月）",
+      "area": "宁夏",
+      "price": 139.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26NX100083",
+        "tariffStandard": "139元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-03-27 00:00:00",
+        "offlineDate": "2027-03-27 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=26NX100083",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-25NX100214",
+      "name": "5G畅享139元套餐话补合约202512",
+      "area": "宁夏",
+      "price": 139.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25NX100214",
+        "tariffStandard": "139元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-20 00:00:00",
+        "offlineDate": "2027-12-18 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=25NX100214",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-25NX100201",
+      "name": "5G畅享169元套餐202601",
+      "area": "宁夏",
+      "price": 169.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25NX100201",
+        "tariffStandard": "169元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-20 00:00:00",
+        "offlineDate": "2027-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=25NX100201",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-24NX100174",
+      "name": "5G畅享169元套餐专属权益包202407",
+      "area": "宁夏",
+      "price": 169.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24NX100174",
+        "tariffStandard": "169元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-07-11 00:00:00",
+        "offlineDate": "2027-07-10 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=24NX100174",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-26NX100087",
+      "name": "5G畅享169元套餐存费送权益合约（12个月）",
+      "area": "宁夏",
+      "price": 169.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26NX100087",
+        "tariffStandard": "169元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-03-27 00:00:00",
+        "offlineDate": "2027-03-27 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=26NX100087",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-26NX100085",
+      "name": "5G畅享169元套餐存费送权益合约（3个月）",
+      "area": "宁夏",
+      "price": 169.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26NX100085",
+        "tariffStandard": "169元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-03-27 00:00:00",
+        "offlineDate": "2027-03-27 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=26NX100085",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-26NX100086",
+      "name": "5G畅享169元套餐存费送权益合约（6个月）",
+      "area": "宁夏",
+      "price": 169.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26NX100086",
+        "tariffStandard": "169元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-03-27 00:00:00",
+        "offlineDate": "2027-03-27 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=26NX100086",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-25NX100215",
+      "name": "5G畅享169元套餐话补合约202512",
+      "area": "宁夏",
+      "price": 169.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25NX100215",
+        "tariffStandard": "169元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-20 00:00:00",
+        "offlineDate": "2027-12-18 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=25NX100215",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-25NX100172",
+      "name": "5G-A 199元套餐202509",
+      "area": "宁夏",
+      "price": 199.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25NX100172",
+        "tariffStandard": "199元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-09-22 00:00:00",
+        "offlineDate": "2027-10-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=25NX100172",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-26NX100034",
+      "name": "5G-A 199元套餐话补合约202601",
+      "area": "宁夏",
+      "price": 199.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26NX100034",
+        "tariffStandard": "199元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-02-04 00:00:00",
+        "offlineDate": "2028-01-22 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=26NX100034",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-24NX100081",
+      "name": "5G畅享199元套餐专属权益包202407",
+      "area": "宁夏",
+      "price": 199.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24NX100081",
+        "tariffStandard": "199元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-07-11 00:00:00",
+        "offlineDate": "2027-07-10 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=24NX100081",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-26NX100077",
+      "name": "5G畅享199元套餐存费送权益合约（12个月）",
+      "area": "宁夏",
+      "price": 199.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26NX100077",
+        "tariffStandard": "199元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-03-27 00:00:00",
+        "offlineDate": "2027-03-27 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=26NX100077",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-26NX100088",
+      "name": "5G畅享199元套餐存费送权益合约（3个月）",
+      "area": "宁夏",
+      "price": 199.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26NX100088",
+        "tariffStandard": "199元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-03-27 00:00:00",
+        "offlineDate": "2027-03-27 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=26NX100088",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-26NX100089",
+      "name": "5G畅享199元套餐存费送权益合约（6个月）",
+      "area": "宁夏",
+      "price": 199.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26NX100089",
+        "tariffStandard": "199元/月（标题提取，详见官方详情）",
+        "onlineDate": "2026-03-27 00:00:00",
+        "offlineDate": "2027-03-27 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=26NX100089",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-25NX100173",
+      "name": "5G-A 239元套餐202509",
+      "area": "宁夏",
+      "price": 239.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25NX100173",
+        "tariffStandard": "239元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-09-22 00:00:00",
+        "offlineDate": "2027-10-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=25NX100173",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-24NX100082",
+      "name": "5G畅享239元套餐专属权益包202310",
+      "area": "宁夏",
+      "price": 239.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24NX100082",
+        "tariffStandard": "239元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-12-25 00:00:00",
+        "offlineDate": "2028-01-10 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=24NX100082",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-25NX100103",
+      "name": "5G-A 299元套餐202503",
+      "area": "宁夏",
+      "price": 299.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25NX100103",
+        "tariffStandard": "299元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-04-21 00:00:00",
+        "offlineDate": "2027-04-24 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=25NX100103",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-24NX100084",
+      "name": "5G畅享299元套餐专属权益包202407",
+      "area": "宁夏",
+      "price": 299.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24NX100084",
+        "tariffStandard": "299元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-07-11 00:00:00",
+        "offlineDate": "2027-07-10 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=24NX100084",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-25NX100105",
+      "name": "5G-A 399元套餐202503",
+      "area": "宁夏",
+      "price": 399.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25NX100105",
+        "tariffStandard": "399元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-04-21 00:00:00",
+        "offlineDate": "2027-04-24 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=25NX100105",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-宁夏-24NX100523",
+      "name": "5G畅享599元套餐201910",
+      "area": "宁夏",
+      "price": 599.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24NX100523",
+        "tariffStandard": "599元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-11 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://yx.nx.189.cn/m_nx_main/newTariffZone/detail.do?source=PC&ID=24NX100523",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    }
+  ]
+}

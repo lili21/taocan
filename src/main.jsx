@@ -366,7 +366,10 @@ function App() {
                 <CardContent className="grid gap-4 p-3 lg:grid-cols-2 xl:grid-cols-[1fr_1fr_1fr_1fr_1fr_auto] xl:items-end">
                   <FilterGroup
                     label="运营商"
-                    onChange={setSelectedOperator}
+                    onChange={(operator) => {
+                      setSelectedOperator(operator);
+                      if (operator === 'telecom') setScopeFilter('province');
+                    }}
                     options={Object.entries(operators).map(([value, operator]) => ({
                       label: operator.shortLabel,
                       value,
@@ -639,6 +642,18 @@ function PlanDetail({ onBack, plan }) {
             <DetailRow label="适用人群" value={plan.audience} />
             <DetailRow label="来源" value={plan.source} />
           </div>
+
+          {plan.details?.sourceUrl && (
+            <a
+              className="inline-flex w-fit items-center gap-1.5 text-sm font-medium text-primary underline-offset-4 hover:underline"
+              href={plan.details.sourceUrl}
+              rel="noreferrer"
+              target="_blank"
+            >
+              查看运营商官方详情
+              <ArrowUpRight className="h-4 w-4" />
+            </a>
+          )}
 
           <div className="grid gap-2">
             {detailRows.map(([label, value]) => (

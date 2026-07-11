@@ -1,0 +1,1455 @@
+{
+  "area": "浙江",
+  "plans": [
+    {
+      "id": "telecom-浙江-24ZJ100514",
+      "name": "校园套餐_3元省内高校虚拟网2000分钟",
+      "area": "浙江",
+      "price": 3.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 2000,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24ZJ100514",
+        "tariffStandard": "3元/月（标题提取，详见官方详情）",
+        "onlineDate": "2011-10-25 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/24ZJ100514",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-26ZJ100665",
+      "name": "IVPN固网套餐优惠_市网5元2000分钟_JH",
+      "area": "浙江",
+      "price": 5.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 2000,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26ZJ100665",
+        "tariffStandard": "5元/月（标题提取，详见官方详情）",
+        "onlineDate": "2008-11-06 00:00:00",
+        "offlineDate": "2027-08-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/26ZJ100665",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-24ZJ100515",
+      "name": "大众综合虚拟网移动套餐_市网8元1000分钟(单向)",
+      "area": "浙江",
+      "price": 8.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 1000,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24ZJ100515",
+        "tariffStandard": "8元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-10-21 00:00:00",
+        "offlineDate": "2029-03-12 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/24ZJ100515",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-24ZJ100499",
+      "name": "亲情套餐iTV包月10元",
+      "area": "浙江",
+      "price": 10.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24ZJ100499",
+        "tariffStandard": "10元/月（标题提取，详见官方详情）",
+        "onlineDate": "2022-06-06 00:00:00",
+        "offlineDate": "2027-11-30 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/24ZJ100499",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-24ZJ100409",
+      "name": "亲情套餐成员卡10元包",
+      "area": "浙江",
+      "price": 10.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24ZJ100409",
+        "tariffStandard": "10元/月（标题提取，详见官方详情）",
+        "onlineDate": "2022-07-14 00:00:00",
+        "offlineDate": "2028-09-04 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/24ZJ100409",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-24ZJ100655",
+      "name": "电信步步高19元套餐专属1G流量包201901",
+      "area": "浙江",
+      "price": 19.0,
+      "data": 1,
+      "generalData": 1,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24ZJ100655",
+        "tariffStandard": "19元/月（标题提取，详见官方详情）",
+        "onlineDate": "2018-12-24 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/24ZJ100655",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-24ZJ100422",
+      "name": "星卡29元（2022版）",
+      "area": "浙江",
+      "price": 29.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24ZJ100422",
+        "tariffStandard": "29元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-12-28 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/24ZJ100422",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-26ZJ100042",
+      "name": "全能看用户套餐优惠30元（3个月）",
+      "area": "浙江",
+      "price": 30.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26ZJ100042",
+        "tariffStandard": "30元/月（标题提取，详见官方详情）",
+        "onlineDate": "2022-10-12 00:00:00",
+        "offlineDate": "2026-07-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/26ZJ100042",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-24ZJ100504",
+      "name": "杭州天翼计划月付35元享套餐月费免35元169档(36期）",
+      "area": "浙江",
+      "price": 35.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24ZJ100504",
+        "tariffStandard": "35元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-12-04 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/24ZJ100504",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-24ZJ100390",
+      "name": "星卡39元（2022版）",
+      "area": "浙江",
+      "price": 39.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24ZJ100390",
+        "tariffStandard": "39元/月（标题提取，详见官方详情）",
+        "onlineDate": "2022-01-24 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/24ZJ100390",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-26ZJ100308",
+      "name": "杭州天翼计划月付40元享套餐月费免40元199档(36期）",
+      "area": "浙江",
+      "price": 40.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26ZJ100308",
+        "tariffStandard": "40元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-12-04 00:00:00",
+        "offlineDate": "2027-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/26ZJ100308",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-24ZJ100102",
+      "name": "5G畅享59元套餐",
+      "area": "浙江",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24ZJ100102",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-09-18 00:00:00",
+        "offlineDate": "2026-10-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/24ZJ100102",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-24ZJ100379",
+      "name": "星卡流量版（59元）",
+      "area": "浙江",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24ZJ100379",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-11-23 00:00:00",
+        "offlineDate": "2027-10-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/24ZJ100379",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-25ZJ100416",
+      "name": "电信步步高69元套餐专属5G流量权益包201901",
+      "area": "浙江",
+      "price": 69.0,
+      "data": 5,
+      "generalData": 5,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25ZJ100416",
+        "tariffStandard": "69元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-11-01 00:00:00",
+        "offlineDate": "2027-04-30 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/25ZJ100416",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-24ZJ100762",
+      "name": "5G畅享79元套餐",
+      "area": "浙江",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24ZJ100762",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2024-12-01 00:00:00",
+        "offlineDate": "2026-10-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/24ZJ100762",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-24ZJ100486",
+      "name": "5G畅享99元套餐202112",
+      "area": "浙江",
+      "price": 99.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24ZJ100486",
+        "tariffStandard": "99元/月（标题提取，详见官方详情）",
+        "onlineDate": "2022-01-18 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/24ZJ100486",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-24ZJ100424",
+      "name": "5G畅享129元套餐201910",
+      "area": "浙江",
+      "price": 129.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24ZJ100424",
+        "tariffStandard": "129元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-16 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/24ZJ100424",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-26ZJ100072",
+      "name": "5G畅享129元月享20元美好家权益(36个月)套餐",
+      "area": "浙江",
+      "price": 129.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26ZJ100072",
+        "tariffStandard": "129元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-24 00:00:00",
+        "offlineDate": "2027-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/26ZJ100072",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-26ZJ100070",
+      "name": "5G畅享129元月享30元美好家权益(36个月)套餐",
+      "area": "浙江",
+      "price": 129.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26ZJ100070",
+        "tariffStandard": "129元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-24 00:00:00",
+        "offlineDate": "2027-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/26ZJ100070",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-26ZJ100092",
+      "name": "5G畅享129元月享40元美好家权益(36个月)套餐",
+      "area": "浙江",
+      "price": 129.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26ZJ100092",
+        "tariffStandard": "129元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-24 00:00:00",
+        "offlineDate": "2028-06-30 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/26ZJ100092",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-26ZJ100020",
+      "name": "5G畅享139元套餐优惠至109元（36个月）",
+      "area": "浙江",
+      "price": 139.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26ZJ100020",
+        "tariffStandard": "139元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-19 00:00:00",
+        "offlineDate": "2027-12-18 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/26ZJ100020",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-26ZJ100025",
+      "name": "5G畅享139元套餐优惠至119元（36个月）",
+      "area": "浙江",
+      "price": 139.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26ZJ100025",
+        "tariffStandard": "139元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-19 00:00:00",
+        "offlineDate": "2027-12-18 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/26ZJ100025",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-26ZJ100031",
+      "name": "5G畅享139元套餐优惠至99元（36个月）",
+      "area": "浙江",
+      "price": 139.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26ZJ100031",
+        "tariffStandard": "139元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-19 00:00:00",
+        "offlineDate": "2027-12-18 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/26ZJ100031",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-24ZJ100382",
+      "name": "5G畅享169元套餐201910",
+      "area": "浙江",
+      "price": 169.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24ZJ100382",
+        "tariffStandard": "169元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-16 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/24ZJ100382",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-26ZJ100013",
+      "name": "5G畅享169元套餐优惠至119元（36个月）",
+      "area": "浙江",
+      "price": 169.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26ZJ100013",
+        "tariffStandard": "169元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-19 00:00:00",
+        "offlineDate": "2027-12-18 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/26ZJ100013",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-26ZJ100030",
+      "name": "5G畅享169元套餐优惠至129元（36个月）",
+      "area": "浙江",
+      "price": 169.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26ZJ100030",
+        "tariffStandard": "169元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-19 00:00:00",
+        "offlineDate": "2027-12-18 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/26ZJ100030",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-26ZJ100021",
+      "name": "5G畅享169元套餐优惠至139元（36个月）",
+      "area": "浙江",
+      "price": 169.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26ZJ100021",
+        "tariffStandard": "169元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-19 00:00:00",
+        "offlineDate": "2027-12-18 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/26ZJ100021",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-26ZJ100028",
+      "name": "5G畅享169元套餐优惠至149元（36个月）",
+      "area": "浙江",
+      "price": 169.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26ZJ100028",
+        "tariffStandard": "169元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-19 00:00:00",
+        "offlineDate": "2027-12-18 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/26ZJ100028",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-26ZJ100008",
+      "name": "5G畅享169元套餐优惠至159元（36个月）",
+      "area": "浙江",
+      "price": 169.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26ZJ100008",
+        "tariffStandard": "169元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-19 00:00:00",
+        "offlineDate": "2027-12-18 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/26ZJ100008",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-26ZJ100086",
+      "name": "5G畅享169元月享20元美好家权益(36个月)套餐",
+      "area": "浙江",
+      "price": 169.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26ZJ100086",
+        "tariffStandard": "169元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-24 00:00:00",
+        "offlineDate": "2027-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/26ZJ100086",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-26ZJ100058",
+      "name": "5G畅享169元月享30元美好家权益(36个月)套餐",
+      "area": "浙江",
+      "price": 169.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26ZJ100058",
+        "tariffStandard": "169元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-24 00:00:00",
+        "offlineDate": "2027-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/26ZJ100058",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-26ZJ100076",
+      "name": "5G畅享169元月享40元美好家权益(36个月)套餐",
+      "area": "浙江",
+      "price": 169.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26ZJ100076",
+        "tariffStandard": "169元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-24 00:00:00",
+        "offlineDate": "2027-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/26ZJ100076",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-26ZJ100055",
+      "name": "5G畅享169元月享50元美好家权益(36个月)套餐",
+      "area": "浙江",
+      "price": 169.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26ZJ100055",
+        "tariffStandard": "169元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-24 00:00:00",
+        "offlineDate": "2027-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/26ZJ100055",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-25ZJ100793",
+      "name": "5G-A 199元套餐202509",
+      "area": "浙江",
+      "price": 199.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25ZJ100793",
+        "tariffStandard": "199元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-09-22 00:00:00",
+        "offlineDate": "2027-09-30 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/25ZJ100793",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-24ZJ100354",
+      "name": "5G畅享199元套餐201910",
+      "area": "浙江",
+      "price": 199.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24ZJ100354",
+        "tariffStandard": "199元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-16 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/24ZJ100354",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-25ZJ100791",
+      "name": "5G-A 239元套餐202509",
+      "area": "浙江",
+      "price": 239.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25ZJ100791",
+        "tariffStandard": "239元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-09-22 00:00:00",
+        "offlineDate": "2027-09-30 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/25ZJ100791",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-24ZJ100432",
+      "name": "5G畅享239元套餐201910",
+      "area": "浙江",
+      "price": 239.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24ZJ100432",
+        "tariffStandard": "239元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-16 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/24ZJ100432",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-26ZJ100006",
+      "name": "套餐优惠240元分24个月返还（二宽2025）",
+      "area": "浙江",
+      "price": 240.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26ZJ100006",
+        "tariffStandard": "240元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-11 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/26ZJ100006",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-24ZJ100393",
+      "name": "5G畅享299元套餐201910",
+      "area": "浙江",
+      "price": 299.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24ZJ100393",
+        "tariffStandard": "299元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-16 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/24ZJ100393",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-24ZJ100428",
+      "name": "5G畅享399元套餐201910",
+      "area": "浙江",
+      "price": 399.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24ZJ100428",
+        "tariffStandard": "399元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-16 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/24ZJ100428",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-24ZJ100351",
+      "name": "5G畅享599元套餐201910",
+      "area": "浙江",
+      "price": 599.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24ZJ100351",
+        "tariffStandard": "599元/月（标题提取，详见官方详情）",
+        "onlineDate": "2019-10-16 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/24ZJ100351",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-26ZJ100027",
+      "name": "5G畅享599元套餐优惠至519元（36个月）",
+      "area": "浙江",
+      "price": 599.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26ZJ100027",
+        "tariffStandard": "599元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-19 00:00:00",
+        "offlineDate": "2027-12-18 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/26ZJ100027",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-26ZJ100010",
+      "name": "5G畅享599元套餐优惠至529元（36个月）",
+      "area": "浙江",
+      "price": 599.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26ZJ100010",
+        "tariffStandard": "599元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-19 00:00:00",
+        "offlineDate": "2027-12-18 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/26ZJ100010",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-26ZJ100038",
+      "name": "5G畅享599元套餐优惠至539元（36个月）",
+      "area": "浙江",
+      "price": 599.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26ZJ100038",
+        "tariffStandard": "599元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-19 00:00:00",
+        "offlineDate": "2027-12-18 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/26ZJ100038",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-26ZJ100084",
+      "name": "5G畅享599元月享150元美好家权益(36个月)套餐",
+      "area": "浙江",
+      "price": 599.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26ZJ100084",
+        "tariffStandard": "599元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-24 00:00:00",
+        "offlineDate": "2027-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/26ZJ100084",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-26ZJ100079",
+      "name": "5G畅享599元月享160元美好家权益(36个月)套餐",
+      "area": "浙江",
+      "price": 599.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26ZJ100079",
+        "tariffStandard": "599元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-24 00:00:00",
+        "offlineDate": "2027-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/26ZJ100079",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-26ZJ100067",
+      "name": "5G畅享599元月享170元美好家权益(36个月)套餐",
+      "area": "浙江",
+      "price": 599.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26ZJ100067",
+        "tariffStandard": "599元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-24 00:00:00",
+        "offlineDate": "2027-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/26ZJ100067",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-26ZJ100089",
+      "name": "5G畅享599元月享180元美好家权益(36个月)套餐",
+      "area": "浙江",
+      "price": 599.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26ZJ100089",
+        "tariffStandard": "599元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-24 00:00:00",
+        "offlineDate": "2027-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/26ZJ100089",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-26ZJ100069",
+      "name": "5G畅享599元月享20元美好家权益(36个月)套餐",
+      "area": "浙江",
+      "price": 599.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26ZJ100069",
+        "tariffStandard": "599元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-24 00:00:00",
+        "offlineDate": "2028-06-30 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/26ZJ100069",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-浙江-26ZJ100054",
+      "name": "5G畅享599元月享30元美好家权益(36个月)套餐",
+      "area": "浙江",
+      "price": 599.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "26ZJ100054",
+        "tariffStandard": "599元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-12-24 00:00:00",
+        "offlineDate": "2027-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wapzj.189.cn/svchub/zfzc/pc/26ZJ100054",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    }
+  ]
+}

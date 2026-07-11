@@ -1,0 +1,498 @@
+{
+  "area": "河南",
+  "plans": [
+    {
+      "id": "telecom-河南-25HA100198",
+      "name": "5G畅享全光套餐5元家庭卡",
+      "area": "河南",
+      "price": 5.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HA100198",
+        "tariffStandard": "5元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-06-27 00:00:00",
+        "offlineDate": "2027-06-18 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wxapp.ha.189.cn/netHall/FeeInformation/NewTariffZone?code=5136001601003121",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河南-25HA100323",
+      "name": "5G畅享全光-套餐合约-28.23元权益金活动",
+      "area": "河南",
+      "price": 28.23,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HA100323",
+        "tariffStandard": "28.23元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-11-01 00:00:00",
+        "offlineDate": "2028-03-19 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wxapp.ha.189.cn/netHall/FeeInformation/NewTariffZone?code=8902011000072774",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河南-24HA100583",
+      "name": "星卡29元（2022版）",
+      "area": "河南",
+      "price": 29.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HA100583",
+        "tariffStandard": "29元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-12-27 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wxapp.ha.189.cn/netHall/FeeInformation/NewTariffZone?code=5000003201100313",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河南-25HA100141",
+      "name": "5G畅享全光-套餐合约-38.81元权益金活动",
+      "area": "河南",
+      "price": 38.81,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HA100141",
+        "tariffStandard": "38.81元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-05-20 00:00:00",
+        "offlineDate": "2028-03-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wxapp.ha.189.cn/netHall/FeeInformation/NewTariffZone?code=8902011000072600",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河南-24HA100566",
+      "name": "星卡39元（2022版）",
+      "area": "河南",
+      "price": 39.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HA100566",
+        "tariffStandard": "39元/月（标题提取，详见官方详情）",
+        "onlineDate": "2022-01-24 00:00:00",
+        "offlineDate": "2027-01-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wxapp.ha.189.cn/netHall/FeeInformation/NewTariffZone?code=5000003201100314",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河南-24HA100541",
+      "name": "5G畅享59元套餐",
+      "area": "河南",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HA100541",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-09-01 00:00:00",
+        "offlineDate": "2026-10-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wxapp.ha.189.cn/netHall/FeeInformation/NewTariffZone?code=5000003601100050",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河南-24HA100655",
+      "name": "星卡流量版（59元）",
+      "area": "河南",
+      "price": 59.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HA100655",
+        "tariffStandard": "59元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-11-17 00:00:00",
+        "offlineDate": "2030-01-01 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wxapp.ha.189.cn/netHall/FeeInformation/NewTariffZone?code=5000003201100312",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河南-25HA100324",
+      "name": "5G畅享全光-套餐合约-70.56元权益金活动",
+      "area": "河南",
+      "price": 70.56,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HA100324",
+        "tariffStandard": "70.56元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-11-01 00:00:00",
+        "offlineDate": "2028-03-19 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wxapp.ha.189.cn/netHall/FeeInformation/NewTariffZone?code=8902011000072773",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河南-24HA100543",
+      "name": "5G畅享79元套餐",
+      "area": "河南",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "24HA100543",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2023-09-01 00:00:00",
+        "offlineDate": "2026-10-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wxapp.ha.189.cn/netHall/FeeInformation/NewTariffZone?code=5000003601100051",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河南-25HA100286",
+      "name": "惠家-79元套餐专享徽标",
+      "area": "河南",
+      "price": 79.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HA100286",
+        "tariffStandard": "79元/月（标题提取，详见官方详情）",
+        "onlineDate": "2021-07-24 00:00:00",
+        "offlineDate": "2026-12-31 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wxapp.ha.189.cn/netHall/FeeInformation/NewTariffZone?code=5136001601003819",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河南-25HA100140",
+      "name": "5G畅享全光-套餐合约-81.14元权益金活动",
+      "area": "河南",
+      "price": 81.14,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HA100140",
+        "tariffStandard": "81.14元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-05-20 00:00:00",
+        "offlineDate": "5412-02-08 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wxapp.ha.189.cn/netHall/FeeInformation/NewTariffZone?code=8902011000072599",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河南-25HA100127",
+      "name": "5G畅享全光-乡村振兴109元套餐",
+      "area": "河南",
+      "price": 109.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HA100127",
+        "tariffStandard": "109元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-05-20 00:00:00",
+        "offlineDate": "2027-05-19 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wxapp.ha.189.cn/netHall/FeeInformation/NewTariffZone?code=5100000701100676",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河南-25HA100123",
+      "name": "5G畅享全光-139元套餐",
+      "area": "河南",
+      "price": 139.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HA100123",
+        "tariffStandard": "139元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-05-20 00:00:00",
+        "offlineDate": "2027-05-19 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wxapp.ha.189.cn/netHall/FeeInformation/NewTariffZone?code=5100000701100675",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河南-25HA100124",
+      "name": "5G畅享全光-乡村振兴139元套餐",
+      "area": "河南",
+      "price": 139.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HA100124",
+        "tariffStandard": "139元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-05-20 00:00:00",
+        "offlineDate": "2027-05-19 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wxapp.ha.189.cn/netHall/FeeInformation/NewTariffZone?code=5151000301100189",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河南-25HA100321",
+      "name": "5G畅享全光-159元套餐",
+      "area": "河南",
+      "price": 159.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HA100321",
+        "tariffStandard": "159元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-09-29 00:00:00",
+        "offlineDate": "2027-09-16 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wxapp.ha.189.cn/netHall/FeeInformation/NewTariffZone?code=5100000701100674",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河南-25HA100120",
+      "name": "5G畅享全光-169元套餐",
+      "area": "河南",
+      "price": 169.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HA100120",
+        "tariffStandard": "169元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-05-20 00:00:00",
+        "offlineDate": "2027-05-19 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wxapp.ha.189.cn/netHall/FeeInformation/NewTariffZone?code=5100000701100673",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    },
+    {
+      "id": "telecom-河南-25HA100118",
+      "name": "5G畅享全光-209元套餐",
+      "area": "河南",
+      "price": 209.0,
+      "data": 0,
+      "generalData": 0,
+      "directedData": 0,
+      "voice": 0,
+      "sms": "详见官方详情",
+      "broadband": "详见官方详情",
+      "audience": "以当地电信办理规则为准",
+      "contract": "详见官方详情",
+      "source": "中国电信资费专区",
+      "tags": [
+        "套餐",
+        "移网",
+        "本省资费"
+      ],
+      "details": {
+        "schemeId": "25HA100118",
+        "tariffStandard": "209元/月（标题提取，详见官方详情）",
+        "onlineDate": "2025-05-20 00:00:00",
+        "offlineDate": "2027-04-30 23:59:59",
+        "category": "套餐",
+        "sourceUrl": "https://wxapp.ha.189.cn/netHall/FeeInformation/NewTariffZone?code=5100000701100672",
+        "notes": "省级统一索引仅公示摘要字段，具体流量、通话、适用对象及合约条件请查看官方详情。"
+      }
+    }
+  ]
+}

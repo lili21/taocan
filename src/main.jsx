@@ -312,8 +312,8 @@ function App() {
                 <Zap className="h-4 w-4" />
               </div>
               <div className="min-w-0">
-                <p className="text-xs font-medium text-muted-foreground">{operators[selectedOperator].label}公开资费</p>
-                <h1 className="truncate text-base font-semibold tracking-normal sm:text-lg">套餐透明表</h1>
+                <p className="text-xs font-medium text-muted-foreground">套餐透明表 · {operators[selectedOperator].label}公开资费</p>
+                <h1 className="truncate text-base font-semibold tracking-normal sm:text-lg">三大运营商手机套餐查询</h1>
               </div>
             </div>
 
@@ -526,11 +526,110 @@ function App() {
                   />
                 </div>
               </Card>
+
+              <SeoOverview />
             </section>
           )}
         </div>
       </div>
     </main>
+  );
+}
+
+function SeoOverview() {
+  return (
+    <section aria-labelledby="seo-overview-title" className="grid gap-4 pb-4 pt-2">
+      <div className="grid gap-4 rounded-xl border border-border bg-card p-5 sm:p-6">
+        <div className="max-w-3xl">
+          <p className="text-xs font-medium text-primary">中国移动 · 中国联通 · 中国电信</p>
+          <h2 className="mt-2 text-xl font-semibold" id="seo-overview-title">
+            手机套餐资费查询与对比
+          </h2>
+          <p className="seo-summary mt-3 text-sm leading-7 text-muted-foreground">
+            套餐透明表汇总三大运营商公开资费，帮助你按运营商、全国或省份查询手机套餐，并比较月租、通用流量、定向流量、通话分钟数和合约限制。当前数据快照共整理 18,525 条已核验公开资费，其中中国移动 12,338 条、中国联通 5,923 条、中国电信 264 条。
+          </p>
+        </div>
+
+        <div className="grid gap-3 sm:grid-cols-3">
+          <SeoPoint
+            description="筛选 30 元、50 元或 70 元以内的资费，查看适用地区和办理条件。"
+            title="低月租套餐"
+          />
+          <SeoPoint
+            description="按最低 30GB、60GB 或 80GB 筛选，并区分通用流量与定向流量。"
+            title="大流量套餐"
+          />
+          <SeoPoint
+            description="同时核对月租、流量、通话、用户资格、销售渠道和合约期限。"
+            title="三大运营商套餐对比"
+          />
+        </div>
+
+        <div className="border-t border-border pt-5">
+          <h2 className="text-base font-semibold">数据来源与使用说明</h2>
+          <p className="mt-2 text-sm leading-7 text-muted-foreground">
+            数据依据三家运营商官方公开资费专区整理：
+            <OfficialSource href={operators.cmcc.sourceUrl}>中国移动资费公示</OfficialSource>、
+            <OfficialSource href={operators.unicom.sourceUrl}>中国联通资费专区</OfficialSource>和
+            <OfficialSource href={operators.telecom.sourceUrl}>中国电信资费专区</OfficialSource>。
+            资费和办理规则可能调整，办理前请以运营商最新公示、办理页面及当地营业厅规则为准。
+          </p>
+        </div>
+      </div>
+
+      <div className="rounded-xl border border-border bg-card p-5 sm:p-6">
+        <h2 className="text-xl font-semibold">手机套餐查询常见问题</h2>
+        <div className="mt-4 divide-y divide-border">
+          <FaqItem
+            answer="先选择中国移动、中国联通或中国电信，再按全国或本地区资费筛选，比较月租、通用流量、定向流量、通话分钟数和合约限制。页面实际可选范围以已接入数据为准。"
+            question="如何比较三大运营商手机套餐？"
+          />
+          <FaqItem
+            answer="数据来自中国移动、中国联通和中国电信的官方公开资费专区，经结构化整理后展示。资费可能调整，办理前应以运营商最新公示和当地营业厅规则为准。"
+            question="套餐透明表的数据来自哪里？"
+          />
+          <FaqItem
+            answer="全国资费面向多个地区公开，本地区资费与所选省份或代表城市相关，适用范围、办理渠道和优惠规则可能不同。"
+            question="全国资费和本地区资费有什么区别？"
+          />
+          <FaqItem
+            answer="先设置可接受的最高月租和最低总流量，再查看通用流量、定向流量、套餐外资费及合约期限。低月租或标称大流量不一定代表实际使用成本最低。"
+            question="如何筛选低月租大流量套餐？"
+          />
+        </div>
+      </div>
+    </section>
+  );
+}
+
+function SeoPoint({ description, title }) {
+  return (
+    <article className="rounded-lg border border-border bg-background p-4">
+      <h3 className="font-medium">{title}</h3>
+      <p className="mt-2 text-sm leading-6 text-muted-foreground">{description}</p>
+    </article>
+  );
+}
+
+function OfficialSource({ children, href }) {
+  return (
+    <a
+      className="text-primary underline-offset-4 hover:underline"
+      href={href}
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      {children}
+    </a>
+  );
+}
+
+function FaqItem({ answer, question }) {
+  return (
+    <article className="py-4 first:pt-0 last:pb-0">
+      <h3 className="text-sm font-medium">{question}</h3>
+      <p className="seo-faq-answer mt-2 text-sm leading-7 text-muted-foreground">{answer}</p>
+    </article>
   );
 }
 

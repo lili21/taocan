@@ -1,0 +1,69 @@
+name: 监控新套餐
+
+on:
+  schedule:
+    - cron: '15 2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: monitor-tariffs
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      SNAPSHOT_DIR: ${{ runner.temp }}/tariff-before
+      REPORT_PATH: ${{ runner.temp }}/tariff-report.md
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 配置 Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: 安装依赖
+        run: npm ci
+
+      - name: 保存抓取前快照
+        run: cp -R public/data "$SNAPSHOT_DIR"
+
+      - name: 抓取中国移动资费
+        run: npm run fetch:cmcc
+
+      - name: 抓取中国联通资费
+        run: npm run fetch:unicom
+
+      - name: 比较套餐变化
+        id: compare
+        run: >-
+          npm run monitor:tariffs --
+          --before "$SNAPSHOT_DIR"
+          --after public/data
+          --output public/data/changes/latest.json
+          --report "$REPORT_PATH"
+
+      - name: 创建套餐更新 PR
+        if: steps.compare.outputs.changes != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ADDED: ${{ steps.compare.outputs.added }}
+          CHANGED: ${{ steps.compare.outputs.changed }}
+          REMOVED: ${{ steps.compare.outputs.removed }}
+        run: |
+          branch="automation/tariff-update-${GITHUB_RUN_ID}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$branch"
+          git add public/data
+          git commit -m "Update monitored tariff data"
+          git push origin "$branch"
+          gh pr create --title "发现套餐变化：新增 ${ADDED}，变更 ${CHANGED}，下架 ${REMOVED}" --body-file "$REPORT_PATH"

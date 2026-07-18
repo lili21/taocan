@@ -7,8 +7,10 @@
     "dev": "vite --host 127.0.0.1",
     "start": "vite --host 127.0.0.1",
     "build": "vite build",
+    "fetch:cmcc": "node scripts/fetch-cmcc-tariffs.mjs",
     "fetch:unicom": "node scripts/fetch-unicom-tariffs.mjs",
     "fetch:telecom": "python3 scripts/fetch-telecom-tariffs-cdp.py",
+    "monitor:tariffs": "node scripts/monitor-tariffs.mjs",
     "deploy": "vercel build --prod --yes && vercel deploy --prebuilt --prod --yes --archive=tgz",
     "preview": "vite preview --host 127.0.0.1"
   },
